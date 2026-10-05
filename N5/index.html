@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>N5</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <script>sessionStorage.setItem('count', 25)</script>
+    <div class="container">
+        <h1>N5</h1>
+        <div class="back-link">
+            <a href="../">← Back to Main Menu</a>
+        </div>
+        <p>Choose a topic</p>
+        <form action="quiz.html" method="GET" class="selection-form">
+            <div class="selection-box">
+                <label for="question-count">Select Number of Questions:</label>
+                <select id="question-count" onchange="sessionStorage.setItem('count', value)">
+                    <option value="10">10 Questions</option>
+                    <option value="25" selected>25 Questions</option>
+                    <option value="50">50 Questions</option>
+                    <option value="10000">All Questions</option>
+                </select>
+            </div>
+        </form>
+        <div class="navigation-grid">
+            <a href="Vocab/" class="nav-button primary">
+                Vocabulary Quiz
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="Kanji" class="nav-button primary">
+                Kanji Quiz
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="Grammar/" class="nav-button primary">
+                Grammar Quiz
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="Comprehension/" class="nav-button primary">
+                Comprehension Quiz
+            </a>
+        </div>
+    </div>
+</body>
+
+</html>

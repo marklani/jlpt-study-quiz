@@ -1,0 +1,3602 @@
+[
+    {
+        "question": "草",
+        "options": [
+            "(ソウ, くさ, くさ-, -ぐさ): grass, weeds, herbs, pasture, write, draft",
+            "(チュウ, キ, むし): insect, bug, temper",
+            "(ギョク, たま, たま-, -だま): jewel, ball",
+            "(オウ, -ノウ): king, rule, magnate"
+        ],
+        "answer": "(ソウ, くさ, くさ-, -ぐさ): grass, weeds, herbs, pasture, write, draft"
+    },
+    {
+        "question": "虫",
+        "options": [
+            "(ソウ, くさ, くさ-, -ぐさ): grass, weeds, herbs, pasture, write, draft",
+            "(チュウ, キ, むし): insect, bug, temper",
+            "(ギョク, たま, たま-, -だま): jewel, ball",
+            "(オウ, -ノウ): king, rule, magnate"
+        ],
+        "answer": "(チュウ, キ, むし): insect, bug, temper"
+    },
+    {
+        "question": "玉",
+        "options": [
+            "(ソウ, くさ, くさ-, -ぐさ): grass, weeds, herbs, pasture, write, draft",
+            "(チュウ, キ, むし): insect, bug, temper",
+            "(ギョク, たま, たま-, -だま): jewel, ball",
+            "(オウ, -ノウ): king, rule, magnate"
+        ],
+        "answer": "(ギョク, たま, たま-, -だま): jewel, ball"
+    },
+    {
+        "question": "王",
+        "options": [
+            "(セキ, シャク, コク, いし): stone",
+            "(チク, たけ): bamboo",
+            "(シ, いと): thread",
+            "(オウ, -ノウ): king, rule, magnate"
+        ],
+        "answer": "(オウ, -ノウ): king, rule, magnate"
+    },
+    {
+        "question": "石",
+        "options": [
+            "(セキ, シャク, コク, いし): stone",
+            "(チク, たけ): bamboo",
+            "(シ, いと): thread",
+            "(バイ, かい): shellfish"
+        ],
+        "answer": "(セキ, シャク, コク, いし): stone"
+    },
+    {
+        "question": "竹",
+        "options": [
+            "(セキ, シャク, コク, いし): stone",
+            "(チク, たけ): bamboo",
+            "(シ, いと): thread",
+            "(バイ, かい): shellfish"
+        ],
+        "answer": "(チク, たけ): bamboo"
+    },
+    {
+        "question": "糸",
+        "options": [
+            "(セキ, シャク, コク, いし): stone",
+            "(チク, たけ): bamboo",
+            "(シ, いと): thread",
+            "(バイ, かい): shellfish"
+        ],
+        "answer": "(シ, いと): thread"
+    },
+    {
+        "question": "貝",
+        "options": [
+            "(セキ, シャク, コク, いし): stone",
+            "(チク, たけ): bamboo",
+            "(シ, いと): thread",
+            "(バイ, かい): shellfish"
+        ],
+        "answer": "(バイ, かい): shellfish"
+    },
+    {
+        "question": "数",
+        "options": [
+            "(スウ, ス, サク, ソク, シュ, かず, かぞ.える, しばしば, せ.める, わずらわ.しい): number, strength, fate, law, figures",
+            "(ケイ, ギョウ, かた, -がた, かたち, なり): shape, form, style",
+            "(サイ, ほそ.い, ほそ.る, こま.か, こま.かい): dainty, get thin, taper, slender, narrow, detailed, precise",
+            "(テン, つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち): spot, point, mark, speck, decimal point"
+        ],
+        "answer": "(スウ, ス, サク, ソク, シュ, かず, かぞ.える, しばしば, せ.める, わずらわ.しい): number, strength, fate, law, figures"
+    },
+    {
+        "question": "形",
+        "options": [
+            "(スウ, ス, サク, ソク, シュ, かず, かぞ.える, しばしば, せ.める, わずらわ.しい): number, strength, fate, law, figures",
+            "(ケイ, ギョウ, かた, -がた, かたち, なり): shape, form, style",
+            "(サイ, ほそ.い, ほそ.る, こま.か, こま.かい): dainty, get thin, taper, slender, narrow, detailed, precise",
+            "(テン, つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち): spot, point, mark, speck, decimal point"
+        ],
+        "answer": "(ケイ, ギョウ, かた, -がた, かたち, なり): shape, form, style"
+    },
+    {
+        "question": "細",
+        "options": [
+            "(スウ, ス, サク, ソク, シュ, かず, かぞ.える, しばしば, せ.める, わずらわ.しい): number, strength, fate, law, figures",
+            "(ケイ, ギョウ, かた, -がた, かたち, なり): shape, form, style",
+            "(サイ, ほそ.い, ほそ.る, こま.か, こま.かい): dainty, get thin, taper, slender, narrow, detailed, precise",
+            "(テン, つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち): spot, point, mark, speck, decimal point"
+        ],
+        "answer": "(サイ, ほそ.い, ほそ.る, こま.か, こま.かい): dainty, get thin, taper, slender, narrow, detailed, precise"
+    },
+    {
+        "question": "点",
+        "options": [
+            "(スウ, ス, サク, ソク, シュ, かず, かぞ.える, しばしば, せ.める, わずらわ.しい): number, strength, fate, law, figures",
+            "(ケイ, ギョウ, かた, -がた, かたち, なり): shape, form, style",
+            "(サイ, ほそ.い, ほそ.る, こま.か, こま.かい): dainty, get thin, taper, slender, narrow, detailed, precise",
+            "(テン, つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち): spot, point, mark, speck, decimal point"
+        ],
+        "answer": "(テン, つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち): spot, point, mark, speck, decimal point"
+    },
+    {
+        "question": "丸",
+        "options": [
+            "(ガン, まる, まる.める, まる.い): round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+            "(コウ, まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも): mingle, mixing, association, coming & going",
+            "(カク, かど, つの): angle, corner, square, horn, antlers",
+            "(チョク, ジキ, ジカ, ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ): straightaway, honesty, frankness, fix, repair"
+        ],
+        "answer": "(ガン, まる, まる.める, まる.い): round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away"
+    },
+    {
+        "question": "交",
+        "options": [
+            "(ガン, まる, まる.める, まる.い): round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+            "(コウ, まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも): mingle, mixing, association, coming & going",
+            "(カク, かど, つの): angle, corner, square, horn, antlers",
+            "(チョク, ジキ, ジカ, ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ): straightaway, honesty, frankness, fix, repair"
+        ],
+        "answer": "(コウ, まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも): mingle, mixing, association, coming & going"
+    },
+    {
+        "question": "角",
+        "options": [
+            "(ガン, まる, まる.める, まる.い): round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+            "(コウ, まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも): mingle, mixing, association, coming & going",
+            "(カク, かど, つの): angle, corner, square, horn, antlers",
+            "(チョク, ジキ, ジカ, ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ): straightaway, honesty, frankness, fix, repair"
+        ],
+        "answer": "(カク, かど, つの): angle, corner, square, horn, antlers"
+    },
+    {
+        "question": "直",
+        "options": [
+            "(ガン, まる, まる.める, まる.い): round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+            "(コウ, まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも): mingle, mixing, association, coming & going",
+            "(カク, かど, つの): angle, corner, square, horn, antlers",
+            "(チョク, ジキ, ジカ, ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ): straightaway, honesty, frankness, fix, repair"
+        ],
+        "answer": "(チョク, ジキ, ジカ, ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ): straightaway, honesty, frankness, fix, repair"
+    },
+    {
+        "question": "線",
+        "options": [
+            "(セン, すじ): line, track",
+            "(シ, や): dart, arrow",
+            "(モウ, け): fur, hair, feather, down",
+            "(ナイ, ダイ, うち): inside, within, between, among, house, home"
+        ],
+        "answer": "(セン, すじ): line, track"
+    },
+    {
+        "question": "矢",
+        "options": [
+            "(セン, すじ): line, track",
+            "(シ, や): dart, arrow",
+            "(モウ, け): fur, hair, feather, down",
+            "(ナイ, ダイ, うち): inside, within, between, among, house, home"
+        ],
+        "answer": "(シ, や): dart, arrow"
+    },
+    {
+        "question": "毛",
+        "options": [
+            "(セン, すじ): line, track",
+            "(シ, や): dart, arrow",
+            "(モウ, け): fur, hair, feather, down",
+            "(ナイ, ダイ, うち): inside, within, between, among, house, home"
+        ],
+        "answer": "(モウ, け): fur, hair, feather, down"
+    },
+    {
+        "question": "内",
+        "options": [
+            "(セン, すじ): line, track",
+            "(シ, や): dart, arrow",
+            "(モウ, け): fur, hair, feather, down",
+            "(ナイ, ダイ, うち): inside, within, between, among, house, home"
+        ],
+        "answer": "(ナイ, ダイ, うち): inside, within, between, among, house, home"
+    },
+    {
+        "question": "園",
+        "options": [
+            "(エン, その): park, garden, yard, farm",
+            "(コク, たに, きわ.まる): valley",
+            "(ゲン, はら): meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+            "(リ, さと): ri, village, parent's home, league"
+        ],
+        "answer": "(エン, その): park, garden, yard, farm"
+    },
+    {
+        "question": "谷",
+        "options": [
+            "(エン, その): park, garden, yard, farm",
+            "(コク, たに, きわ.まる): valley",
+            "(ゲン, はら): meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+            "(リ, さと): ri, village, parent's home, league"
+        ],
+        "answer": "(コク, たに, きわ.まる): valley"
+    },
+    {
+        "question": "原",
+        "options": [
+            "(エン, その): park, garden, yard, farm",
+            "(コク, たに, きわ.まる): valley",
+            "(ゲン, はら): meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+            "(リ, さと): ri, village, parent's home, league"
+        ],
+        "answer": "(ゲン, はら): meadow, original, primitive, field, plain, prairie, tundra, wilderness"
+    },
+    {
+        "question": "里",
+        "options": [
+            "(エン, その): park, garden, yard, farm",
+            "(コク, たに, きわ.まる): valley",
+            "(ゲン, はら): meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+            "(リ, さと): ri, village, parent's home, league"
+        ],
+        "answer": "(リ, さと): ri, village, parent's home, league"
+    },
+    {
+        "question": "雪",
+        "options": [
+            "(セツ, ゆき): snow",
+            "(ウン, くも, -ぐも): cloud",
+            "(ガン, いわ): boulder, rock, cliff",
+            "(セイ, ショウ, ほし, -ぼし): star, spot, dot, mark"
+        ],
+        "answer": "(セツ, ゆき): snow"
+    },
+    {
+        "question": "雲",
+        "options": [
+            "(セツ, ゆき): snow",
+            "(ウン, くも, -ぐも): cloud",
+            "(ガン, いわ): boulder, rock, cliff",
+            "(セイ, ショウ, ほし, -ぼし): star, spot, dot, mark"
+        ],
+        "answer": "(ウン, くも, -ぐも): cloud"
+    },
+    {
+        "question": "岩",
+        "options": [
+            "(セツ, ゆき): snow",
+            "(ウン, くも, -ぐも): cloud",
+            "(ガン, いわ): boulder, rock, cliff",
+            "(セイ, ショウ, ほし, -ぼし): star, spot, dot, mark"
+        ],
+        "answer": "(ガン, いわ): boulder, rock, cliff"
+    },
+    {
+        "question": "星",
+        "options": [
+            "(セツ, ゆき): snow",
+            "(ウン, くも, -ぐも): cloud",
+            "(ガン, いわ): boulder, rock, cliff",
+            "(セイ, ショウ, ほし, -ぼし): star, spot, dot, mark"
+        ],
+        "answer": "(セイ, ショウ, ほし, -ぼし): star, spot, dot, mark"
+    },
+    {
+        "question": "戸",
+        "options": [
+            "(コ, と): door, counter for houses, door radical (no. 63)",
+            "(ジ, てら): Buddhist temple",
+            "(キ, しる.す): scribe, account, narrative",
+            "(カイ, エ): picture, drawing, painting, sketch"
+        ],
+        "answer": "(コ, と): door, counter for houses, door radical (no. 63)"
+    },
+    {
+        "question": "寺",
+        "options": [
+            "(コ, と): door, counter for houses, door radical (no. 63)",
+            "(ジ, てら): Buddhist temple",
+            "(キ, しる.す): scribe, account, narrative",
+            "(カイ, エ): picture, drawing, painting, sketch"
+        ],
+        "answer": "(ジ, てら): Buddhist temple"
+    },
+    {
+        "question": "記",
+        "options": [
+            "(コ, と): door, counter for houses, door radical (no. 63)",
+            "(ジ, てら): Buddhist temple",
+            "(キ, しる.す): scribe, account, narrative",
+            "(カイ, エ): picture, drawing, painting, sketch"
+        ],
+        "answer": "(キ, しる.す): scribe, account, narrative"
+    },
+    {
+        "question": "絵",
+        "options": [
+            "(コ, と): door, counter for houses, door radical (no. 63)",
+            "(ジ, てら): Buddhist temple",
+            "(キ, しる.す): scribe, account, narrative",
+            "(カイ, エ): picture, drawing, painting, sketch"
+        ],
+        "answer": "(カイ, エ): picture, drawing, painting, sketch"
+    },
+    {
+        "question": "晴",
+        "options": [
+            "(セイ, は.れる, は.れ, は.れ-, -ば.れ, は.らす): clear up",
+            "(サイ): genius, years old, cubic shaku",
+            "(サン, そろ): calculate, divining, number, abacus, probability",
+            "(バ, うま, うま-, ま): horse"
+        ],
+        "answer": "(セイ, は.れる, は.れ, は.れ-, -ば.れ, は.らす): clear up"
+    },
+    {
+        "question": "才",
+        "options": [
+            "(セイ, は.れる, は.れ, は.れ-, -ば.れ, は.らす): clear up",
+            "(サイ): genius, years old, cubic shaku",
+            "(サン, そろ): calculate, divining, number, abacus, probability",
+            "(バ, うま, うま-, ま): horse"
+        ],
+        "answer": "(サイ): genius, years old, cubic shaku"
+    },
+    {
+        "question": "算",
+        "options": [
+            "(セイ, は.れる, は.れ, は.れ-, -ば.れ, は.らす): clear up",
+            "(サイ): genius, years old, cubic shaku",
+            "(サン, そろ): calculate, divining, number, abacus, probability",
+            "(バ, うま, うま-, ま): horse"
+        ],
+        "answer": "(サン, そろ): calculate, divining, number, abacus, probability"
+    },
+    {
+        "question": "馬",
+        "options": [
+            "(セイ, は.れる, は.れ, は.れ-, -ば.れ, は.らす): clear up",
+            "(サイ): genius, years old, cubic shaku",
+            "(サン, そろ): calculate, divining, number, abacus, probability",
+            "(バ, うま, うま-, ま): horse"
+        ],
+        "answer": "(バ, うま, うま-, ま): horse"
+    },
+    {
+        "question": "羽",
+        "options": [
+            "(ウ, は, わ, はね): feathers, counter for birds, rabbits",
+            "(メイ, な.く, な.る, な.らす): chirp, cry, bark, sound, ring, echo, honk",
+            "(バク, むぎ): barley, wheat",
+            "(ベイ, マイ, メエトル, こめ, よね): rice, USA, metre"
+        ],
+        "answer": "(ウ, は, わ, はね): feathers, counter for birds, rabbits"
+    },
+    {
+        "question": "鳴",
+        "options": [
+            "(ウ, は, わ, はね): feathers, counter for birds, rabbits",
+            "(メイ, な.く, な.る, な.らす): chirp, cry, bark, sound, ring, echo, honk",
+            "(バク, むぎ): barley, wheat",
+            "(ベイ, マイ, メエトル, こめ, よね): rice, USA, metre"
+        ],
+        "answer": "(メイ, な.く, な.る, な.らす): chirp, cry, bark, sound, ring, echo, honk"
+    },
+    {
+        "question": "麦",
+        "options": [
+            "(ウ, は, わ, はね): feathers, counter for birds, rabbits",
+            "(メイ, な.く, な.る, な.らす): chirp, cry, bark, sound, ring, echo, honk",
+            "(バク, むぎ): barley, wheat",
+            "(ベイ, マイ, メエトル, こめ, よね): rice, USA, metre"
+        ],
+        "answer": "(バク, むぎ): barley, wheat"
+    },
+    {
+        "question": "米",
+        "options": [
+            "(ウ, は, わ, はね): feathers, counter for birds, rabbits",
+            "(メイ, な.く, な.る, な.らす): chirp, cry, bark, sound, ring, echo, honk",
+            "(バク, むぎ): barley, wheat",
+            "(ベイ, マイ, メエトル, こめ, よね): rice, USA, metre"
+        ],
+        "answer": "(ベイ, マイ, メエトル, こめ, よね): rice, USA, metre"
+    },
+    {
+        "question": "黄",
+        "options": [
+            "(コウ, オウ, き, こ-): yellow",
+            "(カツ, い.きる, い.かす, い.ける): lively, resuscitation, being helped, living",
+            "(キ): vapor, steam",
+            "(キュウ, ゆみ): bow, bow (archery, violin)"
+        ],
+        "answer": "(コウ, オウ, き, こ-): yellow"
+    },
+    {
+        "question": "活",
+        "options": [
+            "(コウ, オウ, き, こ-): yellow",
+            "(カツ, い.きる, い.かす, い.ける): lively, resuscitation, being helped, living",
+            "(キ): vapor, steam",
+            "(キュウ, ゆみ): bow, bow (archery, violin)"
+        ],
+        "answer": "(カツ, い.きる, い.かす, い.ける): lively, resuscitation, being helped, living"
+    },
+    {
+        "question": "汽",
+        "options": [
+            "(コウ, オウ, き, こ-): yellow",
+            "(カツ, い.きる, い.かす, い.ける): lively, resuscitation, being helped, living",
+            "(キ): vapor, steam",
+            "(キュウ, ゆみ): bow, bow (archery, violin)"
+        ],
+        "answer": "(キ): vapor, steam"
+    },
+    {
+        "question": "弓",
+        "options": [
+            "(コウ, オウ, き, こ-): yellow",
+            "(カツ, い.きる, い.かす, い.ける): lively, resuscitation, being helped, living",
+            "(キ): vapor, steam",
+            "(キュウ, ゆみ): bow, bow (archery, violin)"
+        ],
+        "answer": "(キュウ, ゆみ): bow, bow (archery, violin)"
+    },
+    {
+        "question": "組",
+        "options": [
+            "(ソ, く.む, くみ, -ぐみ): association, braid, plait, construct, assemble, unite, cooperate, grapple",
+            "(セン, ふね, ふな-): ship, boat",
+            "(トウ, あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし): hit, right, appropriate, himself",
+            "(カ): department, course, section"
+        ],
+        "answer": "(ソ, く.む, くみ, -ぐみ): association, braid, plait, construct, assemble, unite, cooperate, grapple"
+    },
+    {
+        "question": "船",
+        "options": [
+            "(ソ, く.む, くみ, -ぐみ): association, braid, plait, construct, assemble, unite, cooperate, grapple",
+            "(セン, ふね, ふな-): ship, boat",
+            "(トウ, あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし): hit, right, appropriate, himself",
+            "(カ): department, course, section"
+        ],
+        "answer": "(セン, ふね, ふな-): ship, boat"
+    },
+    {
+        "question": "当",
+        "options": [
+            "(ソ, く.む, くみ, -ぐみ): association, braid, plait, construct, assemble, unite, cooperate, grapple",
+            "(セン, ふね, ふな-): ship, boat",
+            "(トウ, あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし): hit, right, appropriate, himself",
+            "(カ): department, course, section"
+        ],
+        "answer": "(トウ, あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし): hit, right, appropriate, himself"
+    },
+    {
+        "question": "科",
+        "options": [
+            "(ソ, く.む, くみ, -ぐみ): association, braid, plait, construct, assemble, unite, cooperate, grapple",
+            "(セン, ふね, ふな-): ship, boat",
+            "(トウ, あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし): hit, right, appropriate, himself",
+            "(カ): department, course, section"
+        ],
+        "answer": "(カ): department, course, section"
+    },
+    {
+        "question": "刀",
+        "options": [
+            "(トウ, かたな, そり): sword, saber, knife",
+            "(バン, つが.い): turn, number in a series",
+            "(チョウ, テイ, チン, トウ, チ, ひのと): street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+            "(リョウ, てる, ふたつ): both, old Japanese coin, counter for carriages (e.g., in a train), two"
+        ],
+        "answer": "(トウ, かたな, そり): sword, saber, knife"
+    },
+    {
+        "question": "番",
+        "options": [
+            "(トウ, かたな, そり): sword, saber, knife",
+            "(バン, つが.い): turn, number in a series",
+            "(チョウ, テイ, チン, トウ, チ, ひのと): street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+            "(リョウ, てる, ふたつ): both, old Japanese coin, counter for carriages (e.g., in a train), two"
+        ],
+        "answer": "(バン, つが.い): turn, number in a series"
+    },
+    {
+        "question": "丁",
+        "options": [
+            "(トウ, かたな, そり): sword, saber, knife",
+            "(バン, つが.い): turn, number in a series",
+            "(チョウ, テイ, チン, トウ, チ, ひのと): street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+            "(リョウ, てる, ふたつ): both, old Japanese coin, counter for carriages (e.g., in a train), two"
+        ],
+        "answer": "(チョウ, テイ, チン, トウ, チ, ひのと): street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign"
+    },
+    {
+        "question": "両",
+        "options": [
+            "(トウ, かたな, そり): sword, saber, knife",
+            "(バン, つが.い): turn, number in a series",
+            "(チョウ, テイ, チン, トウ, チ, ひのと): street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+            "(リョウ, てる, ふたつ): both, old Japanese coin, counter for carriages (e.g., in a train), two"
+        ],
+        "answer": "(リョウ, てる, ふたつ): both, old Japanese coin, counter for carriages (e.g., in a train), two"
+    },
+    {
+        "question": "予",
+        "options": [
+            "(ヨ, シャ, あらかじ.め): beforehand, previous, myself, I",
+            "(タ, ほか): other, another, the others",
+            "(ケイ, かか.る, かかり, -がかり, かか.わる): person in charge, connection, duty, concern oneself",
+            "(バイ): double, twice, times, fold"
+        ],
+        "answer": "(ヨ, シャ, あらかじ.め): beforehand, previous, myself, I"
+    },
+    {
+        "question": "他",
+        "options": [
+            "(ヨ, シャ, あらかじ.め): beforehand, previous, myself, I",
+            "(タ, ほか): other, another, the others",
+            "(ケイ, かか.る, かかり, -がかり, かか.わる): person in charge, connection, duty, concern oneself",
+            "(バイ): double, twice, times, fold"
+        ],
+        "answer": "(タ, ほか): other, another, the others"
+    },
+    {
+        "question": "係",
+        "options": [
+            "(ヨ, シャ, あらかじ.め): beforehand, previous, myself, I",
+            "(タ, ほか): other, another, the others",
+            "(ケイ, かか.る, かかり, -がかり, かか.わる): person in charge, connection, duty, concern oneself",
+            "(バイ): double, twice, times, fold"
+        ],
+        "answer": "(ケイ, かか.る, かかり, -がかり, かか.わる): person in charge, connection, duty, concern oneself"
+    },
+    {
+        "question": "倍",
+        "options": [
+            "(ヨ, シャ, あらかじ.め): beforehand, previous, myself, I",
+            "(タ, ほか): other, another, the others",
+            "(ケイ, かか.る, かかり, -がかり, かか.わる): person in charge, connection, duty, concern oneself",
+            "(バイ): double, twice, times, fold"
+        ],
+        "answer": "(バイ): double, twice, times, fold"
+    },
+    {
+        "question": "全",
+        "options": [
+            "(ゼン, まった.く, すべ.て): whole, entire, all, complete, fulfill",
+            "(グ, そな.える, つぶさ.に): tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+            "(レツ, レ): file, row, rank, tier, column",
+            "(ジョ, たす.ける, たす.かる, す.ける, すけ): help, rescue, assist"
+        ],
+        "answer": "(ゼン, まった.く, すべ.て): whole, entire, all, complete, fulfill"
+    },
+    {
+        "question": "具",
+        "options": [
+            "(ゼン, まった.く, すべ.て): whole, entire, all, complete, fulfill",
+            "(グ, そな.える, つぶさ.に): tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+            "(レツ, レ): file, row, rank, tier, column",
+            "(ジョ, たす.ける, たす.かる, す.ける, すけ): help, rescue, assist"
+        ],
+        "answer": "(グ, そな.える, つぶさ.に): tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture"
+    },
+    {
+        "question": "列",
+        "options": [
+            "(ゼン, まった.く, すべ.て): whole, entire, all, complete, fulfill",
+            "(グ, そな.える, つぶさ.に): tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+            "(レツ, レ): file, row, rank, tier, column",
+            "(ジョ, たす.ける, たす.かる, す.ける, すけ): help, rescue, assist"
+        ],
+        "answer": "(レツ, レ): file, row, rank, tier, column"
+    },
+    {
+        "question": "助",
+        "options": [
+            "(ゼン, まった.く, すべ.て): whole, entire, all, complete, fulfill",
+            "(グ, そな.える, つぶさ.に): tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+            "(レツ, レ): file, row, rank, tier, column",
+            "(ジョ, たす.ける, たす.かる, す.ける, すけ): help, rescue, assist"
+        ],
+        "answer": "(ジョ, たす.ける, たす.かる, す.ける, すけ): help, rescue, assist"
+    },
+    {
+        "question": "勝",
+        "options": [
+            "(ショウ, か.つ, -が.ち, まさ.る, すぐ.れる, かつ): victory, win, prevail, excel",
+            "(カ, ケ, ば.ける, ば.かす, ふ.ける, け.する): change, take the form of, influence, enchant, delude, -ization",
+            "(ハン, ホン, タン, ホ, そ.る, そ.らす, かえ.す, かえ.る, -かえ.る): anti-",
+            "(シュ, と.る, と.り, と.り-, とり, -ど.り): take, fetch, take up"
+        ],
+        "answer": "(ショウ, か.つ, -が.ち, まさ.る, すぐ.れる, かつ): victory, win, prevail, excel"
+    },
+    {
+        "question": "化",
+        "options": [
+            "(ショウ, か.つ, -が.ち, まさ.る, すぐ.れる, かつ): victory, win, prevail, excel",
+            "(カ, ケ, ば.ける, ば.かす, ふ.ける, け.する): change, take the form of, influence, enchant, delude, -ization",
+            "(ハン, ホン, タン, ホ, そ.る, そ.らす, かえ.す, かえ.る, -かえ.る): anti-",
+            "(シュ, と.る, と.り, と.り-, とり, -ど.り): take, fetch, take up"
+        ],
+        "answer": "(カ, ケ, ば.ける, ば.かす, ふ.ける, け.する): change, take the form of, influence, enchant, delude, -ization"
+    },
+    {
+        "question": "反",
+        "options": [
+            "(ショウ, か.つ, -が.ち, まさ.る, すぐ.れる, かつ): victory, win, prevail, excel",
+            "(カ, ケ, ば.ける, ば.かす, ふ.ける, け.する): change, take the form of, influence, enchant, delude, -ization",
+            "(ハン, ホン, タン, ホ, そ.る, そ.らす, かえ.す, かえ.る, -かえ.る): anti-",
+            "(シュ, と.る, と.り, と.り-, とり, -ど.り): take, fetch, take up"
+        ],
+        "answer": "(ハン, ホン, タン, ホ, そ.る, そ.らす, かえ.す, かえ.る, -かえ.る): anti-"
+    },
+    {
+        "question": "取",
+        "options": [
+            "(ショウ, か.つ, -が.ち, まさ.る, すぐ.れる, かつ): victory, win, prevail, excel",
+            "(カ, ケ, ば.ける, ば.かす, ふ.ける, け.する): change, take the form of, influence, enchant, delude, -ization",
+            "(ハン, ホン, タン, ホ, そ.る, そ.らす, かえ.す, かえ.る, -かえ.る): anti-",
+            "(シュ, と.る, と.り, と.り-, とり, -ど.り): take, fetch, take up"
+        ],
+        "answer": "(シュ, と.る, と.り, と.り-, とり, -ど.り): take, fetch, take up"
+    },
+    {
+        "question": "受",
+        "options": [
+            "(ジュ, う.ける, -う.け, う.かる): accept, undergo, answer (phone), take, get, catch, receive",
+            "(ゴウ, さけ.ぶ, よびな): nickname, number, item, title, pseudonym, name, call",
+            "(コウ, む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い): yonder, facing, beyond, confront, defy, tend toward, approach",
+            "(クン, きみ, -ぎみ): mister, you, ruler, male name suffix"
+        ],
+        "answer": "(ジュ, う.ける, -う.け, う.かる): accept, undergo, answer (phone), take, get, catch, receive"
+    },
+    {
+        "question": "号",
+        "options": [
+            "(ジュ, う.ける, -う.け, う.かる): accept, undergo, answer (phone), take, get, catch, receive",
+            "(ゴウ, さけ.ぶ, よびな): nickname, number, item, title, pseudonym, name, call",
+            "(コウ, む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い): yonder, facing, beyond, confront, defy, tend toward, approach",
+            "(クン, きみ, -ぎみ): mister, you, ruler, male name suffix"
+        ],
+        "answer": "(ゴウ, さけ.ぶ, よびな): nickname, number, item, title, pseudonym, name, call"
+    },
+    {
+        "question": "向",
+        "options": [
+            "(ジュ, う.ける, -う.け, う.かる): accept, undergo, answer (phone), take, get, catch, receive",
+            "(ゴウ, さけ.ぶ, よびな): nickname, number, item, title, pseudonym, name, call",
+            "(コウ, む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い): yonder, facing, beyond, confront, defy, tend toward, approach",
+            "(クン, きみ, -ぎみ): mister, you, ruler, male name suffix"
+        ],
+        "answer": "(コウ, む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い): yonder, facing, beyond, confront, defy, tend toward, approach"
+    },
+    {
+        "question": "君",
+        "options": [
+            "(ジュ, う.ける, -う.け, う.かる): accept, undergo, answer (phone), take, get, catch, receive",
+            "(ゴウ, さけ.ぶ, よびな): nickname, number, item, title, pseudonym, name, call",
+            "(コウ, む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い): yonder, facing, beyond, confront, defy, tend toward, approach",
+            "(クン, きみ, -ぎみ): mister, you, ruler, male name suffix"
+        ],
+        "answer": "(クン, きみ, -ぎみ): mister, you, ruler, male name suffix"
+    },
+    {
+        "question": "命",
+        "options": [
+            "(メイ, ミョウ, いのち): fate, command, decree, destiny, life, appoint",
+            "(ワ, オ, カ, やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える): harmony, Japanese style, peace, soften, Japan",
+            "(ショウ, あきな.う): make a deal, selling, dealing in, merchant",
+            "(ハン, さか): slope, incline, hill"
+        ],
+        "answer": "(メイ, ミョウ, いのち): fate, command, decree, destiny, life, appoint"
+    },
+    {
+        "question": "和",
+        "options": [
+            "(メイ, ミョウ, いのち): fate, command, decree, destiny, life, appoint",
+            "(ワ, オ, カ, やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える): harmony, Japanese style, peace, soften, Japan",
+            "(ショウ, あきな.う): make a deal, selling, dealing in, merchant",
+            "(ハン, さか): slope, incline, hill"
+        ],
+        "answer": "(ワ, オ, カ, やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える): harmony, Japanese style, peace, soften, Japan"
+    },
+    {
+        "question": "商",
+        "options": [
+            "(メイ, ミョウ, いのち): fate, command, decree, destiny, life, appoint",
+            "(ワ, オ, カ, やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える): harmony, Japanese style, peace, soften, Japan",
+            "(ショウ, あきな.う): make a deal, selling, dealing in, merchant",
+            "(ハン, さか): slope, incline, hill"
+        ],
+        "answer": "(ショウ, あきな.う): make a deal, selling, dealing in, merchant"
+    },
+    {
+        "question": "坂",
+        "options": [
+            "(メイ, ミョウ, いのち): fate, command, decree, destiny, life, appoint",
+            "(ワ, オ, カ, やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える): harmony, Japanese style, peace, soften, Japan",
+            "(ショウ, あきな.う): make a deal, selling, dealing in, merchant",
+            "(ハン, さか): slope, incline, hill"
+        ],
+        "answer": "(ハン, さか): slope, incline, hill"
+    },
+    {
+        "question": "央",
+        "options": [
+            "(オウ): center, middle",
+            "(イ, ゆだ.ねる): committee, entrust to, leave to, devote, discard",
+            "(シュ, ス, まも.る, まも.り, もり, -もり, かみ): guard, protect, defend, obey",
+            "(テイ, ジョウ, さだ.める, さだ.まる, さだ.か): determine, fix, establish, decide"
+        ],
+        "answer": "(オウ): center, middle"
+    },
+    {
+        "question": "委",
+        "options": [
+            "(オウ): center, middle",
+            "(イ, ゆだ.ねる): committee, entrust to, leave to, devote, discard",
+            "(シュ, ス, まも.る, まも.り, もり, -もり, かみ): guard, protect, defend, obey",
+            "(テイ, ジョウ, さだ.める, さだ.まる, さだ.か): determine, fix, establish, decide"
+        ],
+        "answer": "(イ, ゆだ.ねる): committee, entrust to, leave to, devote, discard"
+    },
+    {
+        "question": "守",
+        "options": [
+            "(オウ): center, middle",
+            "(イ, ゆだ.ねる): committee, entrust to, leave to, devote, discard",
+            "(シュ, ス, まも.る, まも.り, もり, -もり, かみ): guard, protect, defend, obey",
+            "(テイ, ジョウ, さだ.める, さだ.まる, さだ.か): determine, fix, establish, decide"
+        ],
+        "answer": "(シュ, ス, まも.る, まも.り, もり, -もり, かみ): guard, protect, defend, obey"
+    },
+    {
+        "question": "定",
+        "options": [
+            "(オウ): center, middle",
+            "(イ, ゆだ.ねる): committee, entrust to, leave to, devote, discard",
+            "(シュ, ス, まも.る, まも.り, もり, -もり, かみ): guard, protect, defend, obey",
+            "(テイ, ジョウ, さだ.める, さだ.まる, さだ.か): determine, fix, establish, decide"
+        ],
+        "answer": "(テイ, ジョウ, さだ.める, さだ.まる, さだ.か): determine, fix, establish, decide"
+    },
+    {
+        "question": "実",
+        "options": [
+            "(ジツ, シツ, み, みの.る, まこと, みの, みち.る): reality, truth, seed, fruit, nut",
+            "(キャク, カク): guest, visitor, customer, client",
+            "(キュウ, グウ, ク, クウ, みや): Shinto shrine, constellations, palace, princess",
+            "(シュク, やど, やど.る, やど.す): inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling"
+        ],
+        "answer": "(ジツ, シツ, み, みの.る, まこと, みの, みち.る): reality, truth, seed, fruit, nut"
+    },
+    {
+        "question": "客",
+        "options": [
+            "(ジツ, シツ, み, みの.る, まこと, みの, みち.る): reality, truth, seed, fruit, nut",
+            "(キャク, カク): guest, visitor, customer, client",
+            "(キュウ, グウ, ク, クウ, みや): Shinto shrine, constellations, palace, princess",
+            "(シュク, やど, やど.る, やど.す): inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling"
+        ],
+        "answer": "(キャク, カク): guest, visitor, customer, client"
+    },
+    {
+        "question": "宮",
+        "options": [
+            "(ジツ, シツ, み, みの.る, まこと, みの, みち.る): reality, truth, seed, fruit, nut",
+            "(キャク, カク): guest, visitor, customer, client",
+            "(キュウ, グウ, ク, クウ, みや): Shinto shrine, constellations, palace, princess",
+            "(シュク, やど, やど.る, やど.す): inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling"
+        ],
+        "answer": "(キュウ, グウ, ク, クウ, みや): Shinto shrine, constellations, palace, princess"
+    },
+    {
+        "question": "宿",
+        "options": [
+            "(ジツ, シツ, み, みの.る, まこと, みの, みち.る): reality, truth, seed, fruit, nut",
+            "(キャク, カク): guest, visitor, customer, client",
+            "(キュウ, グウ, ク, クウ, みや): Shinto shrine, constellations, palace, princess",
+            "(シュク, やど, やど.る, やど.す): inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling"
+        ],
+        "answer": "(シュク, やど, やど.る, やど.す): inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling"
+    },
+    {
+        "question": "対",
+        "options": [
+            "(タイ, ツイ, あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う): vis-a-vis, opposite, even, equal, versus, anti-, compare",
+            "(キョク, つぼね): bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+            "(ガン, きし): beach",
+            "(トウ, しま): island"
+        ],
+        "answer": "(タイ, ツイ, あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う): vis-a-vis, opposite, even, equal, versus, anti-, compare"
+    },
+    {
+        "question": "局",
+        "options": [
+            "(タイ, ツイ, あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う): vis-a-vis, opposite, even, equal, versus, anti-, compare",
+            "(キョク, つぼね): bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+            "(ガン, きし): beach",
+            "(トウ, しま): island"
+        ],
+        "answer": "(キョク, つぼね): bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment"
+    },
+    {
+        "question": "岸",
+        "options": [
+            "(タイ, ツイ, あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う): vis-a-vis, opposite, even, equal, versus, anti-, compare",
+            "(キョク, つぼね): bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+            "(ガン, きし): beach",
+            "(トウ, しま): island"
+        ],
+        "answer": "(ガン, きし): beach"
+    },
+    {
+        "question": "島",
+        "options": [
+            "(タイ, ツイ, あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う): vis-a-vis, opposite, even, equal, versus, anti-, compare",
+            "(キョク, つぼね): bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+            "(ガン, きし): beach",
+            "(トウ, しま): island"
+        ],
+        "answer": "(トウ, しま): island"
+    },
+    {
+        "question": "州",
+        "options": [
+            "(シュウ, ス, す): state, province",
+            "(チョウ, とばり): notebook, account book, album, curtain, veil, net, tent",
+            "(ヘイ, ビョウ, ヒョウ, たい.ら, たい.らげる, ひら): even, flat, peace",
+            "(コウ, さいわ.い, さち, しあわ.せ): happiness, blessing, fortune"
+        ],
+        "answer": "(シュウ, ス, す): state, province"
+    },
+    {
+        "question": "帳",
+        "options": [
+            "(シュウ, ス, す): state, province",
+            "(チョウ, とばり): notebook, account book, album, curtain, veil, net, tent",
+            "(ヘイ, ビョウ, ヒョウ, たい.ら, たい.らげる, ひら): even, flat, peace",
+            "(コウ, さいわ.い, さち, しあわ.せ): happiness, blessing, fortune"
+        ],
+        "answer": "(チョウ, とばり): notebook, account book, album, curtain, veil, net, tent"
+    },
+    {
+        "question": "平",
+        "options": [
+            "(シュウ, ス, す): state, province",
+            "(チョウ, とばり): notebook, account book, album, curtain, veil, net, tent",
+            "(ヘイ, ビョウ, ヒョウ, たい.ら, たい.らげる, ひら): even, flat, peace",
+            "(コウ, さいわ.い, さち, しあわ.せ): happiness, blessing, fortune"
+        ],
+        "answer": "(ヘイ, ビョウ, ヒョウ, たい.ら, たい.らげる, ひら): even, flat, peace"
+    },
+    {
+        "question": "幸",
+        "options": [
+            "(シュウ, ス, す): state, province",
+            "(チョウ, とばり): notebook, account book, album, curtain, veil, net, tent",
+            "(ヘイ, ビョウ, ヒョウ, たい.ら, たい.らげる, ひら): even, flat, peace",
+            "(コウ, さいわ.い, さち, しあわ.せ): happiness, blessing, fortune"
+        ],
+        "answer": "(コウ, さいわ.い, さち, しあわ.せ): happiness, blessing, fortune"
+    },
+    {
+        "question": "庫",
+        "options": [
+            "(コ, ク, くら): warehouse, storehouse",
+            "(テイ, にわ): courtyard, garden, yard",
+            "(シキ): style, ceremony, rite, function, method, system, form, expression",
+            "(ヤク, エキ): duty, war, campaign, drafted labor, office, service, role"
+        ],
+        "answer": "(コ, ク, くら): warehouse, storehouse"
+    },
+    {
+        "question": "庭",
+        "options": [
+            "(コ, ク, くら): warehouse, storehouse",
+            "(テイ, にわ): courtyard, garden, yard",
+            "(シキ): style, ceremony, rite, function, method, system, form, expression",
+            "(ヤク, エキ): duty, war, campaign, drafted labor, office, service, role"
+        ],
+        "answer": "(テイ, にわ): courtyard, garden, yard"
+    },
+    {
+        "question": "式",
+        "options": [
+            "(コ, ク, くら): warehouse, storehouse",
+            "(テイ, にわ): courtyard, garden, yard",
+            "(シキ): style, ceremony, rite, function, method, system, form, expression",
+            "(ヤク, エキ): duty, war, campaign, drafted labor, office, service, role"
+        ],
+        "answer": "(シキ): style, ceremony, rite, function, method, system, form, expression"
+    },
+    {
+        "question": "役",
+        "options": [
+            "(コ, ク, くら): warehouse, storehouse",
+            "(テイ, にわ): courtyard, garden, yard",
+            "(シキ): style, ceremony, rite, function, method, system, form, expression",
+            "(ヤク, エキ): duty, war, campaign, drafted labor, office, service, role"
+        ],
+        "answer": "(ヤク, エキ): duty, war, campaign, drafted labor, office, service, role"
+    },
+    {
+        "question": "息",
+        "options": [
+            "(ソク, いき): breath, respiration, son, interest (on money), rest, coming to an end",
+            "(ヒ, かな.しい, かな.しむ): grieve, sad, deplore, regret",
+            "(ソウ, ソ, おも.う): idea, thought, conception, think",
+            "(カン): emotion, feeling, sensation"
+        ],
+        "answer": "(ソク, いき): breath, respiration, son, interest (on money), rest, coming to an end"
+    },
+    {
+        "question": "悲",
+        "options": [
+            "(ソク, いき): breath, respiration, son, interest (on money), rest, coming to an end",
+            "(ヒ, かな.しい, かな.しむ): grieve, sad, deplore, regret",
+            "(ソウ, ソ, おも.う): idea, thought, conception, think",
+            "(カン): emotion, feeling, sensation"
+        ],
+        "answer": "(ヒ, かな.しい, かな.しむ): grieve, sad, deplore, regret"
+    },
+    {
+        "question": "想",
+        "options": [
+            "(ソク, いき): breath, respiration, son, interest (on money), rest, coming to an end",
+            "(ヒ, かな.しい, かな.しむ): grieve, sad, deplore, regret",
+            "(ソウ, ソ, おも.う): idea, thought, conception, think",
+            "(カン): emotion, feeling, sensation"
+        ],
+        "answer": "(ソウ, ソ, おも.う): idea, thought, conception, think"
+    },
+    {
+        "question": "感",
+        "options": [
+            "(ソク, いき): breath, respiration, son, interest (on money), rest, coming to an end",
+            "(ヒ, かな.しい, かな.しむ): grieve, sad, deplore, regret",
+            "(ソウ, ソ, おも.う): idea, thought, conception, think",
+            "(カン): emotion, feeling, sensation"
+        ],
+        "answer": "(カン): emotion, feeling, sensation"
+    },
+    {
+        "question": "打",
+        "options": [
+            "(ダ, ダース, う.つ, う.ち-, ぶ.つ): strike, hit, knock, pound, dozen",
+            "(トウ, な.げる, -な.げ): throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",
+            "(シュウ, ジュウ, ひろ.う): pick up, gather, find, go on foot, ten",
+            "(シ, ゆび, さ.す, -さ.し): finger, point to, indicate, put into, play (chess), measure (ruler)"
+        ],
+        "answer": "(ダ, ダース, う.つ, う.ち-, ぶ.つ): strike, hit, knock, pound, dozen"
+    },
+    {
+        "question": "投",
+        "options": [
+            "(ダ, ダース, う.つ, う.ち-, ぶ.つ): strike, hit, knock, pound, dozen",
+            "(トウ, な.げる, -な.げ): throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",
+            "(シュウ, ジュウ, ひろ.う): pick up, gather, find, go on foot, ten",
+            "(シ, ゆび, さ.す, -さ.し): finger, point to, indicate, put into, play (chess), measure (ruler)"
+        ],
+        "answer": "(トウ, な.げる, -な.げ): throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss"
+    },
+    {
+        "question": "拾",
+        "options": [
+            "(ダ, ダース, う.つ, う.ち-, ぶ.つ): strike, hit, knock, pound, dozen",
+            "(トウ, な.げる, -な.げ): throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",
+            "(シュウ, ジュウ, ひろ.う): pick up, gather, find, go on foot, ten",
+            "(シ, ゆび, さ.す, -さ.し): finger, point to, indicate, put into, play (chess), measure (ruler)"
+        ],
+        "answer": "(シュウ, ジュウ, ひろ.う): pick up, gather, find, go on foot, ten"
+    },
+    {
+        "question": "指",
+        "options": [
+            "(ダ, ダース, う.つ, う.ち-, ぶ.つ): strike, hit, knock, pound, dozen",
+            "(トウ, な.げる, -な.げ): throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",
+            "(シュウ, ジュウ, ひろ.う): pick up, gather, find, go on foot, ten",
+            "(シ, ゆび, さ.す, -さ.し): finger, point to, indicate, put into, play (chess), measure (ruler)"
+        ],
+        "answer": "(シ, ゆび, さ.す, -さ.し): finger, point to, indicate, put into, play (chess), measure (ruler)"
+    },
+    {
+        "question": "放",
+        "options": [
+            "(ホウ, はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る): set free, release, fire, shoot, emit, banish, liberate",
+            "(セイ, ととの.える, ととの.う): organize, arranging, tune, tone, meter, key (music)",
+            "(セキ, シャク, むかし): once upon a time, antiquity, old times",
+            "(ショウ): shining, bright"
+        ],
+        "answer": "(ホウ, はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る): set free, release, fire, shoot, emit, banish, liberate"
+    },
+    {
+        "question": "整",
+        "options": [
+            "(ホウ, はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る): set free, release, fire, shoot, emit, banish, liberate",
+            "(セイ, ととの.える, ととの.う): organize, arranging, tune, tone, meter, key (music)",
+            "(セキ, シャク, むかし): once upon a time, antiquity, old times",
+            "(ショウ): shining, bright"
+        ],
+        "answer": "(セイ, ととの.える, ととの.う): organize, arranging, tune, tone, meter, key (music)"
+    },
+    {
+        "question": "昔",
+        "options": [
+            "(ホウ, はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る): set free, release, fire, shoot, emit, banish, liberate",
+            "(セイ, ととの.える, ととの.う): organize, arranging, tune, tone, meter, key (music)",
+            "(セキ, シャク, むかし): once upon a time, antiquity, old times",
+            "(ショウ): shining, bright"
+        ],
+        "answer": "(セキ, シャク, むかし): once upon a time, antiquity, old times"
+    },
+    {
+        "question": "昭",
+        "options": [
+            "(ホウ, はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る): set free, release, fire, shoot, emit, banish, liberate",
+            "(セイ, ととの.える, ととの.う): organize, arranging, tune, tone, meter, key (music)",
+            "(セキ, シャク, むかし): once upon a time, antiquity, old times",
+            "(ショウ): shining, bright"
+        ],
+        "answer": "(ショウ): shining, bright"
+    },
+    {
+        "question": "曲",
+        "options": [
+            "(キョク, ま.がる, ま.げる, くま): bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+            "(キ, ゴ): period, time, date, term",
+            "(ハン, バン, いた): plank, board, plate, stage",
+            "(チュウ, はしら): pillar, post, cylinder, support"
+        ],
+        "answer": "(キョク, ま.がる, ま.げる, くま): bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean"
+    },
+    {
+        "question": "期",
+        "options": [
+            "(キョク, ま.がる, ま.げる, くま): bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+            "(キ, ゴ): period, time, date, term",
+            "(ハン, バン, いた): plank, board, plate, stage",
+            "(チュウ, はしら): pillar, post, cylinder, support"
+        ],
+        "answer": "(キ, ゴ): period, time, date, term"
+    },
+    {
+        "question": "板",
+        "options": [
+            "(キョク, ま.がる, ま.げる, くま): bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+            "(キ, ゴ): period, time, date, term",
+            "(ハン, バン, いた): plank, board, plate, stage",
+            "(チュウ, はしら): pillar, post, cylinder, support"
+        ],
+        "answer": "(ハン, バン, いた): plank, board, plate, stage"
+    },
+    {
+        "question": "柱",
+        "options": [
+            "(キョク, ま.がる, ま.げる, くま): bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+            "(キ, ゴ): period, time, date, term",
+            "(ハン, バン, いた): plank, board, plate, stage",
+            "(チュウ, はしら): pillar, post, cylinder, support"
+        ],
+        "answer": "(チュウ, はしら): pillar, post, cylinder, support"
+    },
+    {
+        "question": "根",
+        "options": [
+            "(コン, ね, -ね): root, radical, head (pimple)",
+            "(ショク, う.える, う.わる): plant",
+            "(ヨウ, ショウ, さま, さん): Esq., way, manner, situation, polite suffix",
+            "(オウ, よこ): sideways, side, horizontal, width, woof, unreasonable, perverse"
+        ],
+        "answer": "(コン, ね, -ね): root, radical, head (pimple)"
+    },
+    {
+        "question": "植",
+        "options": [
+            "(コン, ね, -ね): root, radical, head (pimple)",
+            "(ショク, う.える, う.わる): plant",
+            "(ヨウ, ショウ, さま, さん): Esq., way, manner, situation, polite suffix",
+            "(オウ, よこ): sideways, side, horizontal, width, woof, unreasonable, perverse"
+        ],
+        "answer": "(ショク, う.える, う.わる): plant"
+    },
+    {
+        "question": "様",
+        "options": [
+            "(コン, ね, -ね): root, radical, head (pimple)",
+            "(ショク, う.える, う.わる): plant",
+            "(ヨウ, ショウ, さま, さん): Esq., way, manner, situation, polite suffix",
+            "(オウ, よこ): sideways, side, horizontal, width, woof, unreasonable, perverse"
+        ],
+        "answer": "(ヨウ, ショウ, さま, さん): Esq., way, manner, situation, polite suffix"
+    },
+    {
+        "question": "横",
+        "options": [
+            "(コン, ね, -ね): root, radical, head (pimple)",
+            "(ショク, う.える, う.わる): plant",
+            "(ヨウ, ショウ, さま, さん): Esq., way, manner, situation, polite suffix",
+            "(オウ, よこ): sideways, side, horizontal, width, woof, unreasonable, perverse"
+        ],
+        "answer": "(オウ, よこ): sideways, side, horizontal, width, woof, unreasonable, perverse"
+    },
+    {
+        "question": "橋",
+        "options": [
+            "(キョウ, はし): bridge",
+            "(ジ, シ, つ.ぐ, つぎ): next, order, sequence",
+            "(シ, よわい, は, よわ.い, よわい.する): tooth, cog",
+            "(ヒョウ, こおり, ひ, こお.る): icicle, ice, hail, freeze, congeal"
+        ],
+        "answer": "(キョウ, はし): bridge"
+    },
+    {
+        "question": "次",
+        "options": [
+            "(キョウ, はし): bridge",
+            "(ジ, シ, つ.ぐ, つぎ): next, order, sequence",
+            "(シ, よわい, は, よわ.い, よわい.する): tooth, cog",
+            "(ヒョウ, こおり, ひ, こお.る): icicle, ice, hail, freeze, congeal"
+        ],
+        "answer": "(ジ, シ, つ.ぐ, つぎ): next, order, sequence"
+    },
+    {
+        "question": "歯",
+        "options": [
+            "(キョウ, はし): bridge",
+            "(ジ, シ, つ.ぐ, つぎ): next, order, sequence",
+            "(シ, よわい, は, よわ.い, よわい.する): tooth, cog",
+            "(ヒョウ, こおり, ひ, こお.る): icicle, ice, hail, freeze, congeal"
+        ],
+        "answer": "(シ, よわい, は, よわ.い, よわい.する): tooth, cog"
+    },
+    {
+        "question": "氷",
+        "options": [
+            "(キョウ, はし): bridge",
+            "(ジ, シ, つ.ぐ, つぎ): next, order, sequence",
+            "(シ, よわい, は, よわ.い, よわい.する): tooth, cog",
+            "(ヒョウ, こおり, ひ, こお.る): icicle, ice, hail, freeze, congeal"
+        ],
+        "answer": "(ヒョウ, こおり, ひ, こお.る): icicle, ice, hail, freeze, congeal"
+    },
+    {
+        "question": "決",
+        "options": [
+            "(ケツ, き.める, -ぎ.め, き.まる, さ.く): decide, fix, agree upon, appoint",
+            "(ユ, ユウ, あぶら): oil, fat",
+            "(ハ, なみ): waves, billows, Poland",
+            "(エイ, およ.ぐ): swim"
+        ],
+        "answer": "(ケツ, き.める, -ぎ.め, き.まる, さ.く): decide, fix, agree upon, appoint"
+    },
+    {
+        "question": "油",
+        "options": [
+            "(ケツ, き.める, -ぎ.め, き.まる, さ.く): decide, fix, agree upon, appoint",
+            "(ユ, ユウ, あぶら): oil, fat",
+            "(ハ, なみ): waves, billows, Poland",
+            "(エイ, およ.ぐ): swim"
+        ],
+        "answer": "(ユ, ユウ, あぶら): oil, fat"
+    },
+    {
+        "question": "波",
+        "options": [
+            "(ケツ, き.める, -ぎ.め, き.まる, さ.く): decide, fix, agree upon, appoint",
+            "(ユ, ユウ, あぶら): oil, fat",
+            "(ハ, なみ): waves, billows, Poland",
+            "(エイ, およ.ぐ): swim"
+        ],
+        "answer": "(ハ, なみ): waves, billows, Poland"
+    },
+    {
+        "question": "泳",
+        "options": [
+            "(ケツ, き.める, -ぎ.め, き.まる, さ.く): decide, fix, agree upon, appoint",
+            "(ユ, ユウ, あぶら): oil, fat",
+            "(ハ, なみ): waves, billows, Poland",
+            "(エイ, およ.ぐ): swim"
+        ],
+        "answer": "(エイ, およ.ぐ): swim"
+    },
+    {
+        "question": "流",
+        "options": [
+            "(リュウ, ル, なが.れる, なが.れ, なが.す, -なが.す): current, a sink, flow, forfeit",
+            "(ショウ, き.える, け.す): extinguish, blow out, turn off, neutralize, cancel",
+            "(シン, ふか.い, -ぶか.い, ふか.まる, ふか.める, み-): deep, heighten, intensify, strengthen",
+            "(オン, あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく): warm"
+        ],
+        "answer": "(リュウ, ル, なが.れる, なが.れ, なが.す, -なが.す): current, a sink, flow, forfeit"
+    },
+    {
+        "question": "消",
+        "options": [
+            "(リュウ, ル, なが.れる, なが.れ, なが.す, -なが.す): current, a sink, flow, forfeit",
+            "(ショウ, き.える, け.す): extinguish, blow out, turn off, neutralize, cancel",
+            "(シン, ふか.い, -ぶか.い, ふか.まる, ふか.める, み-): deep, heighten, intensify, strengthen",
+            "(オン, あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく): warm"
+        ],
+        "answer": "(ショウ, き.える, け.す): extinguish, blow out, turn off, neutralize, cancel"
+    },
+    {
+        "question": "深",
+        "options": [
+            "(リュウ, ル, なが.れる, なが.れ, なが.す, -なが.す): current, a sink, flow, forfeit",
+            "(ショウ, き.える, け.す): extinguish, blow out, turn off, neutralize, cancel",
+            "(シン, ふか.い, -ぶか.い, ふか.まる, ふか.める, み-): deep, heighten, intensify, strengthen",
+            "(オン, あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく): warm"
+        ],
+        "answer": "(シン, ふか.い, -ぶか.い, ふか.まる, ふか.める, み-): deep, heighten, intensify, strengthen"
+    },
+    {
+        "question": "温",
+        "options": [
+            "(リュウ, ル, なが.れる, なが.れ, なが.す, -なが.す): current, a sink, flow, forfeit",
+            "(ショウ, き.える, け.す): extinguish, blow out, turn off, neutralize, cancel",
+            "(シン, ふか.い, -ぶか.い, ふか.まる, ふか.める, み-): deep, heighten, intensify, strengthen",
+            "(オン, あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく): warm"
+        ],
+        "answer": "(オン, あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく): warm"
+    },
+    {
+        "question": "港",
+        "options": [
+            "(コウ, みなと): harbor",
+            "(コ, みずうみ): lake",
+            "(トウ, ゆ): hot water, bath, hot spring",
+            "(タン, すみ): charcoal, coal"
+        ],
+        "answer": "(コウ, みなと): harbor"
+    },
+    {
+        "question": "湖",
+        "options": [
+            "(コウ, みなと): harbor",
+            "(コ, みずうみ): lake",
+            "(トウ, ゆ): hot water, bath, hot spring",
+            "(タン, すみ): charcoal, coal"
+        ],
+        "answer": "(コ, みずうみ): lake"
+    },
+    {
+        "question": "湯",
+        "options": [
+            "(コウ, みなと): harbor",
+            "(コ, みずうみ): lake",
+            "(トウ, ゆ): hot water, bath, hot spring",
+            "(タン, すみ): charcoal, coal"
+        ],
+        "answer": "(トウ, ゆ): hot water, bath, hot spring"
+    },
+    {
+        "question": "炭",
+        "options": [
+            "(コウ, みなと): harbor",
+            "(コ, みずうみ): lake",
+            "(トウ, ゆ): hot water, bath, hot spring",
+            "(タン, すみ): charcoal, coal"
+        ],
+        "answer": "(タン, すみ): charcoal, coal"
+    },
+    {
+        "question": "球",
+        "options": [
+            "(キュウ, たま): ball, sphere",
+            "(ユ, ユウ, ユイ, よし, よ.る): wherefore, a reason",
+            "(シン, もう.す, もう.し-, さる): have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+            "(ハタ, はたけ, -ばたけ): farm, field, garden, one's specialty, (kokuji)"
+        ],
+        "answer": "(キュウ, たま): ball, sphere"
+    },
+    {
+        "question": "由",
+        "options": [
+            "(キュウ, たま): ball, sphere",
+            "(ユ, ユウ, ユイ, よし, よ.る): wherefore, a reason",
+            "(シン, もう.す, もう.し-, さる): have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+            "(ハタ, はたけ, -ばたけ): farm, field, garden, one's specialty, (kokuji)"
+        ],
+        "answer": "(ユ, ユウ, ユイ, よし, よ.る): wherefore, a reason"
+    },
+    {
+        "question": "申",
+        "options": [
+            "(キュウ, たま): ball, sphere",
+            "(ユ, ユウ, ユイ, よし, よ.る): wherefore, a reason",
+            "(シン, もう.す, もう.し-, さる): have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+            "(ハタ, はたけ, -ばたけ): farm, field, garden, one's specialty, (kokuji)"
+        ],
+        "answer": "(シン, もう.す, もう.し-, さる): have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac"
+    },
+    {
+        "question": "畑",
+        "options": [
+            "(キュウ, たま): ball, sphere",
+            "(ユ, ユウ, ユイ, よし, よ.る): wherefore, a reason",
+            "(シン, もう.す, もう.し-, さる): have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+            "(ハタ, はたけ, -ばたけ): farm, field, garden, one's specialty, (kokuji)"
+        ],
+        "answer": "(ハタ, はたけ, -ばたけ): farm, field, garden, one's specialty, (kokuji)"
+    },
+    {
+        "question": "登",
+        "options": [
+            "(トウ, ト, ドウ, ショウ, チョウ, のぼ.る, あ.がる): ascend, climb up",
+            "(ヒ, かわ): pelt, skin, hide, leather, skin radical (no. 107)",
+            "(ベイ, さら): dish, a helping, plate",
+            "(ソウ, ショウ, あい-): inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy"
+        ],
+        "answer": "(トウ, ト, ドウ, ショウ, チョウ, のぼ.る, あ.がる): ascend, climb up"
+    },
+    {
+        "question": "皮",
+        "options": [
+            "(トウ, ト, ドウ, ショウ, チョウ, のぼ.る, あ.がる): ascend, climb up",
+            "(ヒ, かわ): pelt, skin, hide, leather, skin radical (no. 107)",
+            "(ベイ, さら): dish, a helping, plate",
+            "(ソウ, ショウ, あい-): inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy"
+        ],
+        "answer": "(ヒ, かわ): pelt, skin, hide, leather, skin radical (no. 107)"
+    },
+    {
+        "question": "皿",
+        "options": [
+            "(トウ, ト, ドウ, ショウ, チョウ, のぼ.る, あ.がる): ascend, climb up",
+            "(ヒ, かわ): pelt, skin, hide, leather, skin radical (no. 107)",
+            "(ベイ, さら): dish, a helping, plate",
+            "(ソウ, ショウ, あい-): inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy"
+        ],
+        "answer": "(ベイ, さら): dish, a helping, plate"
+    },
+    {
+        "question": "相",
+        "options": [
+            "(トウ, ト, ドウ, ショウ, チョウ, のぼ.る, あ.がる): ascend, climb up",
+            "(ヒ, かわ): pelt, skin, hide, leather, skin radical (no. 107)",
+            "(ベイ, さら): dish, a helping, plate",
+            "(ソウ, ショウ, あい-): inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy"
+        ],
+        "answer": "(ソウ, ショウ, あい-): inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy"
+    },
+    {
+        "question": "礼",
+        "options": [
+            "(レイ, ライ): salute, bow, ceremony, thanks, remuneration",
+            "(シン, ジン, かみ, かん-, こう-): gods, mind, soul",
+            "(サイ, まつ.る, まつ.り, まつり): ritual, offer prayers, celebrate, deify, enshrine, worship",
+            "(フク): blessing, fortune, luck, wealth"
+        ],
+        "answer": "(レイ, ライ): salute, bow, ceremony, thanks, remuneration"
+    },
+    {
+        "question": "神",
+        "options": [
+            "(レイ, ライ): salute, bow, ceremony, thanks, remuneration",
+            "(シン, ジン, かみ, かん-, こう-): gods, mind, soul",
+            "(サイ, まつ.る, まつ.り, まつり): ritual, offer prayers, celebrate, deify, enshrine, worship",
+            "(フク): blessing, fortune, luck, wealth"
+        ],
+        "answer": "(シン, ジン, かみ, かん-, こう-): gods, mind, soul"
+    },
+    {
+        "question": "祭",
+        "options": [
+            "(レイ, ライ): salute, bow, ceremony, thanks, remuneration",
+            "(シン, ジン, かみ, かん-, こう-): gods, mind, soul",
+            "(サイ, まつ.る, まつ.り, まつり): ritual, offer prayers, celebrate, deify, enshrine, worship",
+            "(フク): blessing, fortune, luck, wealth"
+        ],
+        "answer": "(サイ, まつ.る, まつ.り, まつり): ritual, offer prayers, celebrate, deify, enshrine, worship"
+    },
+    {
+        "question": "福",
+        "options": [
+            "(レイ, ライ): salute, bow, ceremony, thanks, remuneration",
+            "(シン, ジン, かみ, かん-, こう-): gods, mind, soul",
+            "(サイ, まつ.る, まつ.り, まつり): ritual, offer prayers, celebrate, deify, enshrine, worship",
+            "(フク): blessing, fortune, luck, wealth"
+        ],
+        "answer": "(フク): blessing, fortune, luck, wealth"
+    },
+    {
+        "question": "秒",
+        "options": [
+            "(ビョウ): second (1/60 minute)",
+            "(ショウ): badge, chapter, composition, poem, design",
+            "(ドウ, わらべ): juvenile, child",
+            "(テキ, ふえ): flute, clarinet, pipe, whistle, bagpipe, piccolo"
+        ],
+        "answer": "(ビョウ): second (1/60 minute)"
+    },
+    {
+        "question": "章",
+        "options": [
+            "(ビョウ): second (1/60 minute)",
+            "(ショウ): badge, chapter, composition, poem, design",
+            "(ドウ, わらべ): juvenile, child",
+            "(テキ, ふえ): flute, clarinet, pipe, whistle, bagpipe, piccolo"
+        ],
+        "answer": "(ショウ): badge, chapter, composition, poem, design"
+    },
+    {
+        "question": "童",
+        "options": [
+            "(ビョウ): second (1/60 minute)",
+            "(ショウ): badge, chapter, composition, poem, design",
+            "(ドウ, わらべ): juvenile, child",
+            "(テキ, ふえ): flute, clarinet, pipe, whistle, bagpipe, piccolo"
+        ],
+        "answer": "(ドウ, わらべ): juvenile, child"
+    },
+    {
+        "question": "笛",
+        "options": [
+            "(ビョウ): second (1/60 minute)",
+            "(ショウ): badge, chapter, composition, poem, design",
+            "(ドウ, わらべ): juvenile, child",
+            "(テキ, ふえ): flute, clarinet, pipe, whistle, bagpipe, piccolo"
+        ],
+        "answer": "(テキ, ふえ): flute, clarinet, pipe, whistle, bagpipe, piccolo"
+    },
+    {
+        "question": "第",
+        "options": [
+            "(ダイ, テイ): No., residence",
+            "(ヒツ, ふで): writing brush, writing, painting brush, handwriting",
+            "(トウ, ひと.しい, など, -ら): etc., and so forth, class (first), quality, equal, similar",
+            "(ソウ, はこ): box, chest, case, bin, railway car"
+        ],
+        "answer": "(ダイ, テイ): No., residence"
+    },
+    {
+        "question": "筆",
+        "options": [
+            "(ダイ, テイ): No., residence",
+            "(ヒツ, ふで): writing brush, writing, painting brush, handwriting",
+            "(トウ, ひと.しい, など, -ら): etc., and so forth, class (first), quality, equal, similar",
+            "(ソウ, はこ): box, chest, case, bin, railway car"
+        ],
+        "answer": "(ヒツ, ふで): writing brush, writing, painting brush, handwriting"
+    },
+    {
+        "question": "等",
+        "options": [
+            "(ダイ, テイ): No., residence",
+            "(ヒツ, ふで): writing brush, writing, painting brush, handwriting",
+            "(トウ, ひと.しい, など, -ら): etc., and so forth, class (first), quality, equal, similar",
+            "(ソウ, はこ): box, chest, case, bin, railway car"
+        ],
+        "answer": "(トウ, ひと.しい, など, -ら): etc., and so forth, class (first), quality, equal, similar"
+    },
+    {
+        "question": "箱",
+        "options": [
+            "(ダイ, テイ): No., residence",
+            "(ヒツ, ふで): writing brush, writing, painting brush, handwriting",
+            "(トウ, ひと.しい, など, -ら): etc., and so forth, class (first), quality, equal, similar",
+            "(ソウ, はこ): box, chest, case, bin, railway car"
+        ],
+        "answer": "(ソウ, はこ): box, chest, case, bin, railway car"
+    },
+    {
+        "question": "級",
+        "options": [
+            "(キュウ): class, rank, grade",
+            "(リョク, ロク, みどり): green",
+            "(レン, ね.る, ね.り): practice, gloss, train, drill, polish, refine",
+            "(ヨウ, ひつじ): sheep"
+        ],
+        "answer": "(キュウ): class, rank, grade"
+    },
+    {
+        "question": "緑",
+        "options": [
+            "(キュウ): class, rank, grade",
+            "(リョク, ロク, みどり): green",
+            "(レン, ね.る, ね.り): practice, gloss, train, drill, polish, refine",
+            "(ヨウ, ひつじ): sheep"
+        ],
+        "answer": "(リョク, ロク, みどり): green"
+    },
+    {
+        "question": "練",
+        "options": [
+            "(キュウ): class, rank, grade",
+            "(リョク, ロク, みどり): green",
+            "(レン, ね.る, ね.り): practice, gloss, train, drill, polish, refine",
+            "(ヨウ, ひつじ): sheep"
+        ],
+        "answer": "(レン, ね.る, ね.り): practice, gloss, train, drill, polish, refine"
+    },
+    {
+        "question": "羊",
+        "options": [
+            "(キュウ): class, rank, grade",
+            "(リョク, ロク, みどり): green",
+            "(レン, ね.る, ね.り): practice, gloss, train, drill, polish, refine",
+            "(ヨウ, ひつじ): sheep"
+        ],
+        "answer": "(ヨウ, ひつじ): sheep"
+    },
+    {
+        "question": "美",
+        "options": [
+            "(ビ, ミ, うつく.しい): beauty, beautiful",
+            "(イク, そだ.つ, そだ.ち, そだ.てる, はぐく.む): bring up, grow up, raise, rear",
+            "(ク, くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る): suffering, trial, worry, hardship, feel bitter, scowl",
+            "(カ, に): baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+        ],
+        "answer": "(ビ, ミ, うつく.しい): beauty, beautiful"
+    },
+    {
+        "question": "育",
+        "options": [
+            "(ビ, ミ, うつく.しい): beauty, beautiful",
+            "(イク, そだ.つ, そだ.ち, そだ.てる, はぐく.む): bring up, grow up, raise, rear",
+            "(ク, くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る): suffering, trial, worry, hardship, feel bitter, scowl",
+            "(カ, に): baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+        ],
+        "answer": "(イク, そだ.つ, そだ.ち, そだ.てる, はぐく.む): bring up, grow up, raise, rear"
+    },
+    {
+        "question": "苦",
+        "options": [
+            "(ビ, ミ, うつく.しい): beauty, beautiful",
+            "(イク, そだ.つ, そだ.ち, そだ.てる, はぐく.む): bring up, grow up, raise, rear",
+            "(ク, くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る): suffering, trial, worry, hardship, feel bitter, scowl",
+            "(カ, に): baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+        ],
+        "answer": "(ク, くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る): suffering, trial, worry, hardship, feel bitter, scowl"
+    },
+    {
+        "question": "荷",
+        "options": [
+            "(ビ, ミ, うつく.しい): beauty, beautiful",
+            "(イク, そだ.つ, そだ.ち, そだ.てる, はぐく.む): bring up, grow up, raise, rear",
+            "(ク, くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る): suffering, trial, worry, hardship, feel bitter, scowl",
+            "(カ, に): baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+        ],
+        "answer": "(カ, に): baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+    },
+    {
+        "question": "落",
+        "options": [
+            "(ラク, お.ちる, お.ち, お.とす): fall, drop, come down, village, hamlet",
+            "(ヨウ, は): leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+            "(ケツ, ち): blood",
+            "(ヒョウ, おもて, -おもて, あらわ.す, あらわ.れる, あら.わす): surface, table, chart, diagram"
+        ],
+        "answer": "(ラク, お.ちる, お.ち, お.とす): fall, drop, come down, village, hamlet"
+    },
+    {
+        "question": "葉",
+        "options": [
+            "(ラク, お.ちる, お.ち, お.とす): fall, drop, come down, village, hamlet",
+            "(ヨウ, は): leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+            "(ケツ, ち): blood",
+            "(ヒョウ, おもて, -おもて, あらわ.す, あらわ.れる, あら.わす): surface, table, chart, diagram"
+        ],
+        "answer": "(ヨウ, は): leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece"
+    },
+    {
+        "question": "血",
+        "options": [
+            "(ラク, お.ちる, お.ち, お.とす): fall, drop, come down, village, hamlet",
+            "(ヨウ, は): leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+            "(ケツ, ち): blood",
+            "(ヒョウ, おもて, -おもて, あらわ.す, あらわ.れる, あら.わす): surface, table, chart, diagram"
+        ],
+        "answer": "(ケツ, ち): blood"
+    },
+    {
+        "question": "表",
+        "options": [
+            "(ラク, お.ちる, お.ち, お.とす): fall, drop, come down, village, hamlet",
+            "(ヨウ, は): leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+            "(ケツ, ち): blood",
+            "(ヒョウ, おもて, -おもて, あらわ.す, あらわ.れる, あら.わす): surface, table, chart, diagram"
+        ],
+        "answer": "(ヒョウ, おもて, -おもて, あらわ.す, あらわ.れる, あら.わす): surface, table, chart, diagram"
+    },
+    {
+        "question": "詩",
+        "options": [
+            "(シ, うた): poem, poetry",
+            "(チョウ, しら.べる, しら.べ, ととの.う, ととの.える): tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+            "(ダン): discuss, talk",
+            "(トウ, ズ, まめ, まめ-): beans, pea, midget"
+        ],
+        "answer": "(シ, うた): poem, poetry"
+    },
+    {
+        "question": "調",
+        "options": [
+            "(シ, うた): poem, poetry",
+            "(チョウ, しら.べる, しら.べ, ととの.う, ととの.える): tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+            "(ダン): discuss, talk",
+            "(トウ, ズ, まめ, まめ-): beans, pea, midget"
+        ],
+        "answer": "(チョウ, しら.べる, しら.べ, ととの.う, ととの.える): tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate"
+    },
+    {
+        "question": "談",
+        "options": [
+            "(シ, うた): poem, poetry",
+            "(チョウ, しら.べる, しら.べ, ととの.う, ととの.える): tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+            "(ダン): discuss, talk",
+            "(トウ, ズ, まめ, まめ-): beans, pea, midget"
+        ],
+        "answer": "(ダン): discuss, talk"
+    },
+    {
+        "question": "豆",
+        "options": [
+            "(シ, うた): poem, poetry",
+            "(チョウ, しら.べる, しら.べ, ととの.う, ととの.える): tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+            "(ダン): discuss, talk",
+            "(トウ, ズ, まめ, まめ-): beans, pea, midget"
+        ],
+        "answer": "(トウ, ズ, まめ, まめ-): beans, pea, midget"
+    },
+    {
+        "question": "負",
+        "options": [
+            "(フ, ま.ける, ま.かす, お.う): defeat, negative, -, minus, bear, owe, assume a responsibility",
+            "(ロ, ル, -じ, みち): path, route, road, distance",
+            "(シン, み): somebody, person, one's station in life",
+            "(ノウ): agriculture, farmers"
+        ],
+        "answer": "(フ, ま.ける, ま.かす, お.う): defeat, negative, -, minus, bear, owe, assume a responsibility"
+    },
+    {
+        "question": "路",
+        "options": [
+            "(フ, ま.ける, ま.かす, お.う): defeat, negative, -, minus, bear, owe, assume a responsibility",
+            "(ロ, ル, -じ, みち): path, route, road, distance",
+            "(シン, み): somebody, person, one's station in life",
+            "(ノウ): agriculture, farmers"
+        ],
+        "answer": "(ロ, ル, -じ, みち): path, route, road, distance"
+    },
+    {
+        "question": "身",
+        "options": [
+            "(フ, ま.ける, ま.かす, お.う): defeat, negative, -, minus, bear, owe, assume a responsibility",
+            "(ロ, ル, -じ, みち): path, route, road, distance",
+            "(シン, み): somebody, person, one's station in life",
+            "(ノウ): agriculture, farmers"
+        ],
+        "answer": "(シン, み): somebody, person, one's station in life"
+    },
+    {
+        "question": "農",
+        "options": [
+            "(フ, ま.ける, ま.かす, お.う): defeat, negative, -, minus, bear, owe, assume a responsibility",
+            "(ロ, ル, -じ, みち): path, route, road, distance",
+            "(シン, み): somebody, person, one's station in life",
+            "(ノウ): agriculture, farmers"
+        ],
+        "answer": "(ノウ): agriculture, farmers"
+    },
+    {
+        "question": "返",
+        "options": [
+            "(ヘン, かえ.す, -かえ.す, かえ.る, -かえ.る): return, answer, fade, repay",
+            "(ツイ, お.う): chase, drive away, follow, pursue, meanwhile",
+            "(ソク, はや.い, はや-, はや.める, すみ.やか): quick, fast",
+            "(ユウ, ユ, あそ.ぶ, あそ.ばす): play"
+        ],
+        "answer": "(ヘン, かえ.す, -かえ.す, かえ.る, -かえ.る): return, answer, fade, repay"
+    },
+    {
+        "question": "追",
+        "options": [
+            "(ヘン, かえ.す, -かえ.す, かえ.る, -かえ.る): return, answer, fade, repay",
+            "(ツイ, お.う): chase, drive away, follow, pursue, meanwhile",
+            "(ソク, はや.い, はや-, はや.める, すみ.やか): quick, fast",
+            "(ユウ, ユ, あそ.ぶ, あそ.ばす): play"
+        ],
+        "answer": "(ツイ, お.う): chase, drive away, follow, pursue, meanwhile"
+    },
+    {
+        "question": "速",
+        "options": [
+            "(ヘン, かえ.す, -かえ.す, かえ.る, -かえ.る): return, answer, fade, repay",
+            "(ツイ, お.う): chase, drive away, follow, pursue, meanwhile",
+            "(ソク, はや.い, はや-, はや.める, すみ.やか): quick, fast",
+            "(ユウ, ユ, あそ.ぶ, あそ.ばす): play"
+        ],
+        "answer": "(ソク, はや.い, はや-, はや.める, すみ.やか): quick, fast"
+    },
+    {
+        "question": "遊",
+        "options": [
+            "(ヘン, かえ.す, -かえ.す, かえ.る, -かえ.る): return, answer, fade, repay",
+            "(ツイ, お.う): chase, drive away, follow, pursue, meanwhile",
+            "(ソク, はや.い, はや-, はや.める, すみ.やか): quick, fast",
+            "(ユウ, ユ, あそ.ぶ, あそ.ばす): play"
+        ],
+        "answer": "(ユウ, ユ, あそ.ぶ, あそ.ばす): play"
+    },
+    {
+        "question": "部",
+        "options": [
+            "(ブ, -べ): section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+            "(ハイ, くば.る): distribute, spouse, exile, rationing",
+            "(シュ, さけ, さか-): sake, alcohol",
+            "(テツ, くろがね): iron"
+        ],
+        "answer": "(ブ, -べ): section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine"
+    },
+    {
+        "question": "配",
+        "options": [
+            "(ブ, -べ): section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+            "(ハイ, くば.る): distribute, spouse, exile, rationing",
+            "(シュ, さけ, さか-): sake, alcohol",
+            "(テツ, くろがね): iron"
+        ],
+        "answer": "(ハイ, くば.る): distribute, spouse, exile, rationing"
+    },
+    {
+        "question": "酒",
+        "options": [
+            "(ブ, -べ): section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+            "(ハイ, くば.る): distribute, spouse, exile, rationing",
+            "(シュ, さけ, さか-): sake, alcohol",
+            "(テツ, くろがね): iron"
+        ],
+        "answer": "(シュ, さけ, さか-): sake, alcohol"
+    },
+    {
+        "question": "鉄",
+        "options": [
+            "(ブ, -べ): section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+            "(ハイ, くば.る): distribute, spouse, exile, rationing",
+            "(シュ, さけ, さか-): sake, alcohol",
+            "(テツ, くろがね): iron"
+        ],
+        "answer": "(テツ, くろがね): iron"
+    },
+    {
+        "question": "陽",
+        "options": [
+            "(ヨウ, ひ): sunshine, yang principle, positive, male, heaven, daytime",
+            "(カイ, きざはし): storey, stair, counter for storeys of a building",
+            "(メン, ベン, おも, おもて, つら): mask, face, features, surface",
+            "(ビ, はな): nose, snout"
+        ],
+        "answer": "(ヨウ, ひ): sunshine, yang principle, positive, male, heaven, daytime"
+    },
+    {
+        "question": "階",
+        "options": [
+            "(ヨウ, ひ): sunshine, yang principle, positive, male, heaven, daytime",
+            "(カイ, きざはし): storey, stair, counter for storeys of a building",
+            "(メン, ベン, おも, おもて, つら): mask, face, features, surface",
+            "(ビ, はな): nose, snout"
+        ],
+        "answer": "(カイ, きざはし): storey, stair, counter for storeys of a building"
+    },
+    {
+        "question": "面",
+        "options": [
+            "(ヨウ, ひ): sunshine, yang principle, positive, male, heaven, daytime",
+            "(カイ, きざはし): storey, stair, counter for storeys of a building",
+            "(メン, ベン, おも, おもて, つら): mask, face, features, surface",
+            "(ビ, はな): nose, snout"
+        ],
+        "answer": "(メン, ベン, おも, おもて, つら): mask, face, features, surface"
+    },
+    {
+        "question": "鼻",
+        "options": [
+            "(ヨウ, ひ): sunshine, yang principle, positive, male, heaven, daytime",
+            "(カイ, きざはし): storey, stair, counter for storeys of a building",
+            "(メン, ベン, おも, おもて, つら): mask, face, features, surface",
+            "(ビ, はな): nose, snout"
+        ],
+        "answer": "(ビ, はな): nose, snout"
+    },
+    {
+        "question": "争",
+        "options": [
+            "(ソウ, あらそ.う, いか.でか): contend, dispute, argue",
+            "(フ, つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき): adhere, attach, refer to, append",
+            "(レイ): orders, laws, command, decree, good",
+            "(チュウ, なか): go-between, relationship"
+        ],
+        "answer": "(ソウ, あらそ.う, いか.でか): contend, dispute, argue"
+    },
+    {
+        "question": "付",
+        "options": [
+            "(ソウ, あらそ.う, いか.でか): contend, dispute, argue",
+            "(フ, つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき): adhere, attach, refer to, append",
+            "(レイ): orders, laws, command, decree, good",
+            "(チュウ, なか): go-between, relationship"
+        ],
+        "answer": "(フ, つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき): adhere, attach, refer to, append"
+    },
+    {
+        "question": "令",
+        "options": [
+            "(ソウ, あらそ.う, いか.でか): contend, dispute, argue",
+            "(フ, つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき): adhere, attach, refer to, append",
+            "(レイ): orders, laws, command, decree, good",
+            "(チュウ, なか): go-between, relationship"
+        ],
+        "answer": "(レイ): orders, laws, command, decree, good"
+    },
+    {
+        "question": "仲",
+        "options": [
+            "(ソウ, あらそ.う, いか.でか): contend, dispute, argue",
+            "(フ, つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき): adhere, attach, refer to, append",
+            "(レイ): orders, laws, command, decree, good",
+            "(チュウ, なか): go-between, relationship"
+        ],
+        "answer": "(チュウ, なか): go-between, relationship"
+    },
+    {
+        "question": "伝",
+        "options": [
+            "(デン, テン, つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて): transmit, go along, walk along, follow, report, communicate, legend, tradition",
+            "(イ, くらい, ぐらい): rank, grade, throne, crown, about, some",
+            "(レイ, たと.える): example, custom, usage, precedent",
+            "(シン): faith, truth, fidelity, trust"
+        ],
+        "answer": "(デン, テン, つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて): transmit, go along, walk along, follow, report, communicate, legend, tradition"
+    },
+    {
+        "question": "位",
+        "options": [
+            "(デン, テン, つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて): transmit, go along, walk along, follow, report, communicate, legend, tradition",
+            "(イ, くらい, ぐらい): rank, grade, throne, crown, about, some",
+            "(レイ, たと.える): example, custom, usage, precedent",
+            "(シン): faith, truth, fidelity, trust"
+        ],
+        "answer": "(イ, くらい, ぐらい): rank, grade, throne, crown, about, some"
+    },
+    {
+        "question": "例",
+        "options": [
+            "(デン, テン, つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて): transmit, go along, walk along, follow, report, communicate, legend, tradition",
+            "(イ, くらい, ぐらい): rank, grade, throne, crown, about, some",
+            "(レイ, たと.える): example, custom, usage, precedent",
+            "(シン): faith, truth, fidelity, trust"
+        ],
+        "answer": "(レイ, たと.える): example, custom, usage, precedent"
+    },
+    {
+        "question": "信",
+        "options": [
+            "(デン, テン, つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて): transmit, go along, walk along, follow, report, communicate, legend, tradition",
+            "(イ, くらい, ぐらい): rank, grade, throne, crown, about, some",
+            "(レイ, たと.える): example, custom, usage, precedent",
+            "(シン): faith, truth, fidelity, trust"
+        ],
+        "answer": "(シン): faith, truth, fidelity, trust"
+    },
+    {
+        "question": "倉",
+        "options": [
+            "(ソウ, くら): godown, warehouse, storehouse, cellar, treasury",
+            "(コウ, そうろう): climate, season, weather, wait for, expect",
+            "(テイ, と.める, と.まる): halt, stopping",
+            "(ケン, すこ.やか): healthy, health, strength, persistence"
+        ],
+        "answer": "(ソウ, くら): godown, warehouse, storehouse, cellar, treasury"
+    },
+    {
+        "question": "候",
+        "options": [
+            "(ソウ, くら): godown, warehouse, storehouse, cellar, treasury",
+            "(コウ, そうろう): climate, season, weather, wait for, expect",
+            "(テイ, と.める, と.まる): halt, stopping",
+            "(ケン, すこ.やか): healthy, health, strength, persistence"
+        ],
+        "answer": "(コウ, そうろう): climate, season, weather, wait for, expect"
+    },
+    {
+        "question": "停",
+        "options": [
+            "(ソウ, くら): godown, warehouse, storehouse, cellar, treasury",
+            "(コウ, そうろう): climate, season, weather, wait for, expect",
+            "(テイ, と.める, と.まる): halt, stopping",
+            "(ケン, すこ.やか): healthy, health, strength, persistence"
+        ],
+        "answer": "(テイ, と.める, と.まる): halt, stopping"
+    },
+    {
+        "question": "健",
+        "options": [
+            "(ソウ, くら): godown, warehouse, storehouse, cellar, treasury",
+            "(コウ, そうろう): climate, season, weather, wait for, expect",
+            "(テイ, と.める, と.まる): halt, stopping",
+            "(ケン, すこ.やか): healthy, health, strength, persistence"
+        ],
+        "answer": "(ケン, すこ.やか): healthy, health, strength, persistence"
+    },
+    {
+        "question": "側",
+        "options": [
+            "(ソク, かわ, がわ, そば): side, lean, oppose, regret",
+            "(オク): hundred million, 10**8",
+            "(チョウ, きざ.す, きざ.し): portent, 10**12, trillion, sign, omen, symptoms",
+            "(ジ, ニ, ゲイ, こ, -こ, -っこ): newborn babe, child, young of animals"
+        ],
+        "answer": "(ソク, かわ, がわ, そば): side, lean, oppose, regret"
+    },
+    {
+        "question": "億",
+        "options": [
+            "(ソク, かわ, がわ, そば): side, lean, oppose, regret",
+            "(オク): hundred million, 10**8",
+            "(チョウ, きざ.す, きざ.し): portent, 10**12, trillion, sign, omen, symptoms",
+            "(ジ, ニ, ゲイ, こ, -こ, -っこ): newborn babe, child, young of animals"
+        ],
+        "answer": "(オク): hundred million, 10**8"
+    },
+    {
+        "question": "兆",
+        "options": [
+            "(ソク, かわ, がわ, そば): side, lean, oppose, regret",
+            "(オク): hundred million, 10**8",
+            "(チョウ, きざ.す, きざ.し): portent, 10**12, trillion, sign, omen, symptoms",
+            "(ジ, ニ, ゲイ, こ, -こ, -っこ): newborn babe, child, young of animals"
+        ],
+        "answer": "(チョウ, きざ.す, きざ.し): portent, 10**12, trillion, sign, omen, symptoms"
+    },
+    {
+        "question": "児",
+        "options": [
+            "(ソク, かわ, がわ, そば): side, lean, oppose, regret",
+            "(オク): hundred million, 10**8",
+            "(チョウ, きざ.す, きざ.し): portent, 10**12, trillion, sign, omen, symptoms",
+            "(ジ, ニ, ゲイ, こ, -こ, -っこ): newborn babe, child, young of animals"
+        ],
+        "answer": "(ジ, ニ, ゲイ, こ, -こ, -っこ): newborn babe, child, young of animals"
+    },
+    {
+        "question": "共",
+        "options": [
+            "(キョウ, とも, とも.に, -ども): together, both, neither, all, and, alike, with",
+            "(ヘイ, ヒョウ, つわもの): soldier, private, troops, army, warfare, strategy, tactics",
+            "(テン, デン, ふみ, のり): code, ceremony, law, rule",
+            "(レイ, つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます): cool, cold (beer, person), chill"
+        ],
+        "answer": "(キョウ, とも, とも.に, -ども): together, both, neither, all, and, alike, with"
+    },
+    {
+        "question": "兵",
+        "options": [
+            "(キョウ, とも, とも.に, -ども): together, both, neither, all, and, alike, with",
+            "(ヘイ, ヒョウ, つわもの): soldier, private, troops, army, warfare, strategy, tactics",
+            "(テン, デン, ふみ, のり): code, ceremony, law, rule",
+            "(レイ, つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます): cool, cold (beer, person), chill"
+        ],
+        "answer": "(ヘイ, ヒョウ, つわもの): soldier, private, troops, army, warfare, strategy, tactics"
+    },
+    {
+        "question": "典",
+        "options": [
+            "(キョウ, とも, とも.に, -ども): together, both, neither, all, and, alike, with",
+            "(ヘイ, ヒョウ, つわもの): soldier, private, troops, army, warfare, strategy, tactics",
+            "(テン, デン, ふみ, のり): code, ceremony, law, rule",
+            "(レイ, つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます): cool, cold (beer, person), chill"
+        ],
+        "answer": "(テン, デン, ふみ, のり): code, ceremony, law, rule"
+    },
+    {
+        "question": "冷",
+        "options": [
+            "(キョウ, とも, とも.に, -ども): together, both, neither, all, and, alike, with",
+            "(ヘイ, ヒョウ, つわもの): soldier, private, troops, army, warfare, strategy, tactics",
+            "(テン, デン, ふみ, のり): code, ceremony, law, rule",
+            "(レイ, つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます): cool, cold (beer, person), chill"
+        ],
+        "answer": "(レイ, つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます): cool, cold (beer, person), chill"
+    },
+    {
+        "question": "初",
+        "options": [
+            "(ショ, はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め): first time, beginning",
+            "(リ, き.く): profit, advantage, benefit",
+            "(サツ, す.る, -ず.り, -ずり, は.く): printing, print, brush",
+            "(フク): vice-, assistant, aide, duplicate, copy"
+        ],
+        "answer": "(ショ, はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め): first time, beginning"
+    },
+    {
+        "question": "利",
+        "options": [
+            "(ショ, はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め): first time, beginning",
+            "(リ, き.く): profit, advantage, benefit",
+            "(サツ, す.る, -ず.り, -ずり, は.く): printing, print, brush",
+            "(フク): vice-, assistant, aide, duplicate, copy"
+        ],
+        "answer": "(リ, き.く): profit, advantage, benefit"
+    },
+    {
+        "question": "刷",
+        "options": [
+            "(ショ, はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め): first time, beginning",
+            "(リ, き.く): profit, advantage, benefit",
+            "(サツ, す.る, -ず.り, -ずり, は.く): printing, print, brush",
+            "(フク): vice-, assistant, aide, duplicate, copy"
+        ],
+        "answer": "(サツ, す.る, -ず.り, -ずり, は.く): printing, print, brush"
+    },
+    {
+        "question": "副",
+        "options": [
+            "(ショ, はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め): first time, beginning",
+            "(リ, き.く): profit, advantage, benefit",
+            "(サツ, す.る, -ず.り, -ずり, は.く): printing, print, brush",
+            "(フク): vice-, assistant, aide, duplicate, copy"
+        ],
+        "answer": "(フク): vice-, assistant, aide, duplicate, copy"
+    },
+    {
+        "question": "功",
+        "options": [
+            "(コウ, ク, いさお): achievement, merits, success, honor, credit",
+            "(カ, くわ.える, くわ.わる): add, addition, increase, join, include, Canada",
+            "(ド, つと.める): toil, diligent, as much as possible",
+            "(ロウ, ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う): labor, thank for, reward for, toil, trouble"
+        ],
+        "answer": "(コウ, ク, いさお): achievement, merits, success, honor, credit"
+    },
+    {
+        "question": "加",
+        "options": [
+            "(コウ, ク, いさお): achievement, merits, success, honor, credit",
+            "(カ, くわ.える, くわ.わる): add, addition, increase, join, include, Canada",
+            "(ド, つと.める): toil, diligent, as much as possible",
+            "(ロウ, ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う): labor, thank for, reward for, toil, trouble"
+        ],
+        "answer": "(カ, くわ.える, くわ.わる): add, addition, increase, join, include, Canada"
+    },
+    {
+        "question": "努",
+        "options": [
+            "(コウ, ク, いさお): achievement, merits, success, honor, credit",
+            "(カ, くわ.える, くわ.わる): add, addition, increase, join, include, Canada",
+            "(ド, つと.める): toil, diligent, as much as possible",
+            "(ロウ, ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う): labor, thank for, reward for, toil, trouble"
+        ],
+        "answer": "(ド, つと.める): toil, diligent, as much as possible"
+    },
+    {
+        "question": "労",
+        "options": [
+            "(コウ, ク, いさお): achievement, merits, success, honor, credit",
+            "(カ, くわ.える, くわ.わる): add, addition, increase, join, include, Canada",
+            "(ド, つと.める): toil, diligent, as much as possible",
+            "(ロウ, ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う): labor, thank for, reward for, toil, trouble"
+        ],
+        "answer": "(ロウ, ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う): labor, thank for, reward for, toil, trouble"
+    },
+    {
+        "question": "勇",
+        "options": [
+            "(ユウ, いさ.む): courage, cheer up, be in high spirits, bravery, heroism",
+            "(ホウ, つつ.む, くる.む): wrap, pack up, cover, conceal",
+            "(ソツ, シュツ, そっ.する, お.える, お.わる, ついに, にわか): graduate, soldier, private, die",
+            "(キョウ): co-, cooperation"
+        ],
+        "answer": "(ユウ, いさ.む): courage, cheer up, be in high spirits, bravery, heroism"
+    },
+    {
+        "question": "包",
+        "options": [
+            "(ユウ, いさ.む): courage, cheer up, be in high spirits, bravery, heroism",
+            "(ホウ, つつ.む, くる.む): wrap, pack up, cover, conceal",
+            "(ソツ, シュツ, そっ.する, お.える, お.わる, ついに, にわか): graduate, soldier, private, die",
+            "(キョウ): co-, cooperation"
+        ],
+        "answer": "(ホウ, つつ.む, くる.む): wrap, pack up, cover, conceal"
+    },
+    {
+        "question": "卒",
+        "options": [
+            "(ユウ, いさ.む): courage, cheer up, be in high spirits, bravery, heroism",
+            "(ホウ, つつ.む, くる.む): wrap, pack up, cover, conceal",
+            "(ソツ, シュツ, そっ.する, お.える, お.わる, ついに, にわか): graduate, soldier, private, die",
+            "(キョウ): co-, cooperation"
+        ],
+        "answer": "(ソツ, シュツ, そっ.する, お.える, お.わる, ついに, にわか): graduate, soldier, private, die"
+    },
+    {
+        "question": "協",
+        "options": [
+            "(ユウ, いさ.む): courage, cheer up, be in high spirits, bravery, heroism",
+            "(ホウ, つつ.む, くる.む): wrap, pack up, cover, conceal",
+            "(ソツ, シュツ, そっ.する, お.える, お.わる, ついに, にわか): graduate, soldier, private, die",
+            "(キョウ): co-, cooperation"
+        ],
+        "answer": "(キョウ): co-, cooperation"
+    },
+    {
+        "question": "単",
+        "options": [
+            "(タン, ひとえ): simple, one, single, merely",
+            "(ハク, バク): Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+            "(イン, しるし, -じるし, しる.す): stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+            "(サン, シン, まい.る, まい-, まじわる, みつ): nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in"
+        ],
+        "answer": "(タン, ひとえ): simple, one, single, merely"
+    },
+    {
+        "question": "博",
+        "options": [
+            "(タン, ひとえ): simple, one, single, merely",
+            "(ハク, バク): Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+            "(イン, しるし, -じるし, しる.す): stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+            "(サン, シン, まい.る, まい-, まじわる, みつ): nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in"
+        ],
+        "answer": "(ハク, バク): Dr., command, esteem, win acclaim, Ph.D., exposition, fair"
+    },
+    {
+        "question": "印",
+        "options": [
+            "(タン, ひとえ): simple, one, single, merely",
+            "(ハク, バク): Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+            "(イン, しるし, -じるし, しる.す): stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+            "(サン, シン, まい.る, まい-, まじわる, みつ): nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in"
+        ],
+        "answer": "(イン, しるし, -じるし, しる.す): stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India"
+    },
+    {
+        "question": "参",
+        "options": [
+            "(タン, ひとえ): simple, one, single, merely",
+            "(ハク, バク): Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+            "(イン, しるし, -じるし, しる.す): stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+            "(サン, シン, まい.る, まい-, まじわる, みつ): nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in"
+        ],
+        "answer": "(サン, シン, まい.る, まい-, まじわる, みつ): nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in"
+    },
+    {
+        "question": "史",
+        "options": [
+            "(シ): history, chronicle",
+            "(シ, つかさど.る): director, official, govt office, rule, administer",
+            "(カク, おのおの): each, every, either",
+            "(コク, つ.げる): revelation, tell, inform, announce"
+        ],
+        "answer": "(シ): history, chronicle"
+    },
+    {
+        "question": "司",
+        "options": [
+            "(シ): history, chronicle",
+            "(シ, つかさど.る): director, official, govt office, rule, administer",
+            "(カク, おのおの): each, every, either",
+            "(コク, つ.げる): revelation, tell, inform, announce"
+        ],
+        "answer": "(シ, つかさど.る): director, official, govt office, rule, administer"
+    },
+    {
+        "question": "各",
+        "options": [
+            "(シ): history, chronicle",
+            "(シ, つかさど.る): director, official, govt office, rule, administer",
+            "(カク, おのおの): each, every, either",
+            "(コク, つ.げる): revelation, tell, inform, announce"
+        ],
+        "answer": "(カク, おのおの): each, every, either"
+    },
+    {
+        "question": "告",
+        "options": [
+            "(シ): history, chronicle",
+            "(シ, つかさど.る): director, official, govt office, rule, administer",
+            "(カク, おのおの): each, every, either",
+            "(コク, つ.げる): revelation, tell, inform, announce"
+        ],
+        "answer": "(コク, つ.げる): revelation, tell, inform, announce"
+    },
+    {
+        "question": "周",
+        "options": [
+            "(シュウ, まわ.り): circumference, circuit, lap",
+            "(ショウ, とな.える): chant, recite, call upon, yell",
+            "(キ, よろこ.ぶ, よろこ.ばす): rejoice, take pleasure in",
+            "(キ, うつわ): utensil, vessel, receptacle, implement, instrument, ability, container, tool, set"
+        ],
+        "answer": "(シュウ, まわ.り): circumference, circuit, lap"
+    },
+    {
+        "question": "唱",
+        "options": [
+            "(シュウ, まわ.り): circumference, circuit, lap",
+            "(ショウ, とな.える): chant, recite, call upon, yell",
+            "(キ, よろこ.ぶ, よろこ.ばす): rejoice, take pleasure in",
+            "(キ, うつわ): utensil, vessel, receptacle, implement, instrument, ability, container, tool, set"
+        ],
+        "answer": "(ショウ, とな.える): chant, recite, call upon, yell"
+    },
+    {
+        "question": "喜",
+        "options": [
+            "(シュウ, まわ.り): circumference, circuit, lap",
+            "(ショウ, とな.える): chant, recite, call upon, yell",
+            "(キ, よろこ.ぶ, よろこ.ばす): rejoice, take pleasure in",
+            "(キ, うつわ): utensil, vessel, receptacle, implement, instrument, ability, container, tool, set"
+        ],
+        "answer": "(キ, よろこ.ぶ, よろこ.ばす): rejoice, take pleasure in"
+    },
+    {
+        "question": "器",
+        "options": [
+            "(シュウ, まわ.り): circumference, circuit, lap",
+            "(ショウ, とな.える): chant, recite, call upon, yell",
+            "(キ, よろこ.ぶ, よろこ.ばす): rejoice, take pleasure in",
+            "(キ, うつわ): utensil, vessel, receptacle, implement, instrument, ability, container, tool, set"
+        ],
+        "answer": "(キ, うつわ): utensil, vessel, receptacle, implement, instrument, ability, container, tool, set"
+    },
+    {
+        "question": "囲",
+        "options": [
+            "(イ, かこ.む, かこ.う, かこ.い): surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+            "(コ, かた.める, かた.まる, かた.まり, かた.い): harden, set, clot, curdle",
+            "(ケイ, かた, -がた): mould, type, model",
+            "(エン, しお): salt"
+        ],
+        "answer": "(イ, かこ.む, かこ.う, かこ.い): surround, besiege, store, paling, enclosure, encircle, preserve, keep"
+    },
+    {
+        "question": "固",
+        "options": [
+            "(イ, かこ.む, かこ.う, かこ.い): surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+            "(コ, かた.める, かた.まる, かた.まり, かた.い): harden, set, clot, curdle",
+            "(ケイ, かた, -がた): mould, type, model",
+            "(エン, しお): salt"
+        ],
+        "answer": "(コ, かた.める, かた.まる, かた.まり, かた.い): harden, set, clot, curdle"
+    },
+    {
+        "question": "型",
+        "options": [
+            "(イ, かこ.む, かこ.う, かこ.い): surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+            "(コ, かた.める, かた.まる, かた.まり, かた.い): harden, set, clot, curdle",
+            "(ケイ, かた, -がた): mould, type, model",
+            "(エン, しお): salt"
+        ],
+        "answer": "(ケイ, かた, -がた): mould, type, model"
+    },
+    {
+        "question": "塩",
+        "options": [
+            "(イ, かこ.む, かこ.う, かこ.い): surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+            "(コ, かた.める, かた.まる, かた.まり, かた.い): harden, set, clot, curdle",
+            "(ケイ, かた, -がた): mould, type, model",
+            "(エン, しお): salt"
+        ],
+        "answer": "(エン, しお): salt"
+    },
+    {
+        "question": "士",
+        "options": [
+            "(シ, さむらい): gentleman, scholar, samurai, samurai radical (no. 33)",
+            "(ヘン, か.わる, か.わり, か.える): unusual, change, strange",
+            "(フ, フウ, ブ, おっと, それ): husband, man",
+            "(シツ, うしな.う, う.せる): lose, error, fault, disadvantage, loss"
+        ],
+        "answer": "(シ, さむらい): gentleman, scholar, samurai, samurai radical (no. 33)"
+    },
+    {
+        "question": "変",
+        "options": [
+            "(シ, さむらい): gentleman, scholar, samurai, samurai radical (no. 33)",
+            "(ヘン, か.わる, か.わり, か.える): unusual, change, strange",
+            "(フ, フウ, ブ, おっと, それ): husband, man",
+            "(シツ, うしな.う, う.せる): lose, error, fault, disadvantage, loss"
+        ],
+        "answer": "(ヘン, か.わる, か.わり, か.える): unusual, change, strange"
+    },
+    {
+        "question": "夫",
+        "options": [
+            "(シ, さむらい): gentleman, scholar, samurai, samurai radical (no. 33)",
+            "(ヘン, か.わる, か.わり, か.える): unusual, change, strange",
+            "(フ, フウ, ブ, おっと, それ): husband, man",
+            "(シツ, うしな.う, う.せる): lose, error, fault, disadvantage, loss"
+        ],
+        "answer": "(フ, フウ, ブ, おっと, それ): husband, man"
+    },
+    {
+        "question": "失",
+        "options": [
+            "(シ, さむらい): gentleman, scholar, samurai, samurai radical (no. 33)",
+            "(ヘン, か.わる, か.わり, か.える): unusual, change, strange",
+            "(フ, フウ, ブ, おっと, それ): husband, man",
+            "(シツ, うしな.う, う.せる): lose, error, fault, disadvantage, loss"
+        ],
+        "answer": "(シツ, うしな.う, う.せる): lose, error, fault, disadvantage, loss"
+    },
+    {
+        "question": "季",
+        "options": [
+            "(キ): seasons",
+            "(ソン, まご): grandchild, descendants",
+            "(カン): perfect, completion, end",
+            "(カン): bureaucrat, the government, organ"
+        ],
+        "answer": "(キ): seasons"
+    },
+    {
+        "question": "孫",
+        "options": [
+            "(キ): seasons",
+            "(ソン, まご): grandchild, descendants",
+            "(カン): perfect, completion, end",
+            "(カン): bureaucrat, the government, organ"
+        ],
+        "answer": "(ソン, まご): grandchild, descendants"
+    },
+    {
+        "question": "完",
+        "options": [
+            "(キ): seasons",
+            "(ソン, まご): grandchild, descendants",
+            "(カン): perfect, completion, end",
+            "(カン): bureaucrat, the government, organ"
+        ],
+        "answer": "(カン): perfect, completion, end"
+    },
+    {
+        "question": "官",
+        "options": [
+            "(キ): seasons",
+            "(ソン, まご): grandchild, descendants",
+            "(カン): perfect, completion, end",
+            "(カン): bureaucrat, the government, organ"
+        ],
+        "answer": "(カン): bureaucrat, the government, organ"
+    },
+    {
+        "question": "害",
+        "options": [
+            "(ガイ): harm, injury",
+            "(サツ): guess, presume, surmise, judge, understand",
+            "(ソウ, す, す.くう): nest, rookery, hive, cobweb, den",
+            "(サ, さ.す, さ.し): distinction, difference, variation, discrepancy, margin, balance"
+        ],
+        "answer": "(ガイ): harm, injury"
+    },
+    {
+        "question": "察",
+        "options": [
+            "(ガイ): harm, injury",
+            "(サツ): guess, presume, surmise, judge, understand",
+            "(ソウ, す, す.くう): nest, rookery, hive, cobweb, den",
+            "(サ, さ.す, さ.し): distinction, difference, variation, discrepancy, margin, balance"
+        ],
+        "answer": "(サツ): guess, presume, surmise, judge, understand"
+    },
+    {
+        "question": "巣",
+        "options": [
+            "(ガイ): harm, injury",
+            "(サツ): guess, presume, surmise, judge, understand",
+            "(ソウ, す, す.くう): nest, rookery, hive, cobweb, den",
+            "(サ, さ.す, さ.し): distinction, difference, variation, discrepancy, margin, balance"
+        ],
+        "answer": "(ソウ, す, す.くう): nest, rookery, hive, cobweb, den"
+    },
+    {
+        "question": "差",
+        "options": [
+            "(ガイ): harm, injury",
+            "(サツ): guess, presume, surmise, judge, understand",
+            "(ソウ, す, す.くう): nest, rookery, hive, cobweb, den",
+            "(サ, さ.す, さ.し): distinction, difference, variation, discrepancy, margin, balance"
+        ],
+        "answer": "(サ, さ.す, さ.し): distinction, difference, variation, discrepancy, margin, balance"
+    },
+    {
+        "question": "希",
+        "options": [
+            "(キ, ケ, まれ, こいねが.う): hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+            "(セキ, むしろ): seat, mat, occasion, place",
+            "(タイ, お.びる, おび): sash, belt, obi, zone, region",
+            "(テイ, そこ): bottom, sole, depth, bottom price, base, kind, sort"
+        ],
+        "answer": "(キ, ケ, まれ, こいねが.う): hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal"
+    },
+    {
+        "question": "席",
+        "options": [
+            "(キ, ケ, まれ, こいねが.う): hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+            "(セキ, むしろ): seat, mat, occasion, place",
+            "(タイ, お.びる, おび): sash, belt, obi, zone, region",
+            "(テイ, そこ): bottom, sole, depth, bottom price, base, kind, sort"
+        ],
+        "answer": "(セキ, むしろ): seat, mat, occasion, place"
+    },
+    {
+        "question": "帯",
+        "options": [
+            "(キ, ケ, まれ, こいねが.う): hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+            "(セキ, むしろ): seat, mat, occasion, place",
+            "(タイ, お.びる, おび): sash, belt, obi, zone, region",
+            "(テイ, そこ): bottom, sole, depth, bottom price, base, kind, sort"
+        ],
+        "answer": "(タイ, お.びる, おび): sash, belt, obi, zone, region"
+    },
+    {
+        "question": "底",
+        "options": [
+            "(キ, ケ, まれ, こいねが.う): hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+            "(セキ, むしろ): seat, mat, occasion, place",
+            "(タイ, お.びる, おび): sash, belt, obi, zone, region",
+            "(テイ, そこ): bottom, sole, depth, bottom price, base, kind, sort"
+        ],
+        "answer": "(テイ, そこ): bottom, sole, depth, bottom price, base, kind, sort"
+    },
+    {
+        "question": "府",
+        "options": [
+            "(フ): borough, urban prefecture, govt office, representative body, storehouse",
+            "(コウ): ease, peace",
+            "(ケイ, みち, こみち, さしわたし, ただちに): diameter, path, method",
+            "(ト, いたずら, あだ): on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people"
+        ],
+        "answer": "(フ): borough, urban prefecture, govt office, representative body, storehouse"
+    },
+    {
+        "question": "康",
+        "options": [
+            "(フ): borough, urban prefecture, govt office, representative body, storehouse",
+            "(コウ): ease, peace",
+            "(ケイ, みち, こみち, さしわたし, ただちに): diameter, path, method",
+            "(ト, いたずら, あだ): on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people"
+        ],
+        "answer": "(コウ): ease, peace"
+    },
+    {
+        "question": "径",
+        "options": [
+            "(フ): borough, urban prefecture, govt office, representative body, storehouse",
+            "(コウ): ease, peace",
+            "(ケイ, みち, こみち, さしわたし, ただちに): diameter, path, method",
+            "(ト, いたずら, あだ): on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people"
+        ],
+        "answer": "(ケイ, みち, こみち, さしわたし, ただちに): diameter, path, method"
+    },
+    {
+        "question": "徒",
+        "options": [
+            "(フ): borough, urban prefecture, govt office, representative body, storehouse",
+            "(コウ): ease, peace",
+            "(ケイ, みち, こみち, さしわたし, ただちに): diameter, path, method",
+            "(ト, いたずら, あだ): on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people"
+        ],
+        "answer": "(ト, いたずら, あだ): on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people"
+    },
+    {
+        "question": "得",
+        "options": [
+            "(トク, え.る, う.る): gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+            "(ヒツ, かなら.ず): invariably, certain, inevitable",
+            "(ネン): wish, sense, idea, thought, feeling, desire, attention",
+            "(アイ, いと.しい, かな.しい, め.でる, お.しむ, まな): love, affection, favourite"
+        ],
+        "answer": "(トク, え.る, う.る): gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit"
+    },
+    {
+        "question": "必",
+        "options": [
+            "(トク, え.る, う.る): gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+            "(ヒツ, かなら.ず): invariably, certain, inevitable",
+            "(ネン): wish, sense, idea, thought, feeling, desire, attention",
+            "(アイ, いと.しい, かな.しい, め.でる, お.しむ, まな): love, affection, favourite"
+        ],
+        "answer": "(ヒツ, かなら.ず): invariably, certain, inevitable"
+    },
+    {
+        "question": "念",
+        "options": [
+            "(トク, え.る, う.る): gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+            "(ヒツ, かなら.ず): invariably, certain, inevitable",
+            "(ネン): wish, sense, idea, thought, feeling, desire, attention",
+            "(アイ, いと.しい, かな.しい, め.でる, お.しむ, まな): love, affection, favourite"
+        ],
+        "answer": "(ネン): wish, sense, idea, thought, feeling, desire, attention"
+    },
+    {
+        "question": "愛",
+        "options": [
+            "(トク, え.る, う.る): gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+            "(ヒツ, かなら.ず): invariably, certain, inevitable",
+            "(ネン): wish, sense, idea, thought, feeling, desire, attention",
+            "(アイ, いと.しい, かな.しい, め.でる, お.しむ, まな): love, affection, favourite"
+        ],
+        "answer": "(アイ, いと.しい, かな.しい, め.でる, お.しむ, まな): love, affection, favourite"
+    },
+    {
+        "question": "成",
+        "options": [
+            "(セイ, ジョウ, な.る, な.す, -な.す): turn into, become, get, grow, elapse, reach",
+            "(セン, いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く): war, battle, match",
+            "(セツ, シャク, お.る, おり, お.り, -お.り, お.れる): fold, break, fracture, bend, yield, submit",
+            "(キョ, あ.げる, あ.がる, こぞ.る): raise, plan, project, behavior, actions"
+        ],
+        "answer": "(セイ, ジョウ, な.る, な.す, -な.す): turn into, become, get, grow, elapse, reach"
+    },
+    {
+        "question": "戦",
+        "options": [
+            "(セイ, ジョウ, な.る, な.す, -な.す): turn into, become, get, grow, elapse, reach",
+            "(セン, いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く): war, battle, match",
+            "(セツ, シャク, お.る, おり, お.り, -お.り, お.れる): fold, break, fracture, bend, yield, submit",
+            "(キョ, あ.げる, あ.がる, こぞ.る): raise, plan, project, behavior, actions"
+        ],
+        "answer": "(セン, いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く): war, battle, match"
+    },
+    {
+        "question": "折",
+        "options": [
+            "(セイ, ジョウ, な.る, な.す, -な.す): turn into, become, get, grow, elapse, reach",
+            "(セン, いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く): war, battle, match",
+            "(セツ, シャク, お.る, おり, お.り, -お.り, お.れる): fold, break, fracture, bend, yield, submit",
+            "(キョ, あ.げる, あ.がる, こぞ.る): raise, plan, project, behavior, actions"
+        ],
+        "answer": "(セツ, シャク, お.る, おり, お.り, -お.り, お.れる): fold, break, fracture, bend, yield, submit"
+    },
+    {
+        "question": "挙",
+        "options": [
+            "(セイ, ジョウ, な.る, な.す, -な.す): turn into, become, get, grow, elapse, reach",
+            "(セン, いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く): war, battle, match",
+            "(セツ, シャク, お.る, おり, お.り, -お.り, お.れる): fold, break, fracture, bend, yield, submit",
+            "(キョ, あ.げる, あ.がる, こぞ.る): raise, plan, project, behavior, actions"
+        ],
+        "answer": "(キョ, あ.げる, あ.がる, こぞ.る): raise, plan, project, behavior, actions"
+    },
+    {
+        "question": "改",
+        "options": [
+            "(カイ, あらた.める, あらた.まる): reformation, change, modify, mend, renew, examine, inspect, search",
+            "(キュウ, すく.う): salvation, save, help, rescue, reclaim",
+            "(ハイ, やぶ.れる): failure, defeat, reversal",
+            "(サン, ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける): scatter, disperse, spend, squander"
+        ],
+        "answer": "(カイ, あらた.める, あらた.まる): reformation, change, modify, mend, renew, examine, inspect, search"
+    },
+    {
+        "question": "救",
+        "options": [
+            "(カイ, あらた.める, あらた.まる): reformation, change, modify, mend, renew, examine, inspect, search",
+            "(キュウ, すく.う): salvation, save, help, rescue, reclaim",
+            "(ハイ, やぶ.れる): failure, defeat, reversal",
+            "(サン, ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける): scatter, disperse, spend, squander"
+        ],
+        "answer": "(キュウ, すく.う): salvation, save, help, rescue, reclaim"
+    },
+    {
+        "question": "敗",
+        "options": [
+            "(カイ, あらた.める, あらた.まる): reformation, change, modify, mend, renew, examine, inspect, search",
+            "(キュウ, すく.う): salvation, save, help, rescue, reclaim",
+            "(ハイ, やぶ.れる): failure, defeat, reversal",
+            "(サン, ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける): scatter, disperse, spend, squander"
+        ],
+        "answer": "(ハイ, やぶ.れる): failure, defeat, reversal"
+    },
+    {
+        "question": "散",
+        "options": [
+            "(カイ, あらた.める, あらた.まる): reformation, change, modify, mend, renew, examine, inspect, search",
+            "(キュウ, すく.う): salvation, save, help, rescue, reclaim",
+            "(ハイ, やぶ.れる): failure, defeat, reversal",
+            "(サン, ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける): scatter, disperse, spend, squander"
+        ],
+        "answer": "(サン, ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける): scatter, disperse, spend, squander"
+    },
+    {
+        "question": "旗",
+        "options": [
+            "(キ, はた): flag, banner, standard",
+            "(サク): yesterday, previous",
+            "(ケイ): scenery, view",
+            "(サイ, シュ, もっと.も, つま): utmost, most, extreme"
+        ],
+        "answer": "(キ, はた): flag, banner, standard"
+    },
+    {
+        "question": "昨",
+        "options": [
+            "(キ, はた): flag, banner, standard",
+            "(サク): yesterday, previous",
+            "(ケイ): scenery, view",
+            "(サイ, シュ, もっと.も, つま): utmost, most, extreme"
+        ],
+        "answer": "(サク): yesterday, previous"
+    },
+    {
+        "question": "景",
+        "options": [
+            "(キ, はた): flag, banner, standard",
+            "(サク): yesterday, previous",
+            "(ケイ): scenery, view",
+            "(サイ, シュ, もっと.も, つま): utmost, most, extreme"
+        ],
+        "answer": "(ケイ): scenery, view"
+    },
+    {
+        "question": "最",
+        "options": [
+            "(キ, はた): flag, banner, standard",
+            "(サク): yesterday, previous",
+            "(ケイ): scenery, view",
+            "(サイ, シュ, もっと.も, つま): utmost, most, extreme"
+        ],
+        "answer": "(サイ, シュ, もっと.も, つま): utmost, most, extreme"
+    },
+    {
+        "question": "望",
+        "options": [
+            "(ボウ, モウ, のぞ.む, もち): ambition, full moon, hope, desire, aspire to, expect",
+            "(ミ, ビ, いま.だ, ま.だ, ひつじ): un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+            "(マツ, バツ, すえ, うら, うれ): end, close, tip, powder, posterity",
+            "(サツ, ふだ): tag, paper money, counter for bonds, placard, bid"
+        ],
+        "answer": "(ボウ, モウ, のぞ.む, もち): ambition, full moon, hope, desire, aspire to, expect"
+    },
+    {
+        "question": "未",
+        "options": [
+            "(ボウ, モウ, のぞ.む, もち): ambition, full moon, hope, desire, aspire to, expect",
+            "(ミ, ビ, いま.だ, ま.だ, ひつじ): un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+            "(マツ, バツ, すえ, うら, うれ): end, close, tip, powder, posterity",
+            "(サツ, ふだ): tag, paper money, counter for bonds, placard, bid"
+        ],
+        "answer": "(ミ, ビ, いま.だ, ま.だ, ひつじ): un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac"
+    },
+    {
+        "question": "末",
+        "options": [
+            "(ボウ, モウ, のぞ.む, もち): ambition, full moon, hope, desire, aspire to, expect",
+            "(ミ, ビ, いま.だ, ま.だ, ひつじ): un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+            "(マツ, バツ, すえ, うら, うれ): end, close, tip, powder, posterity",
+            "(サツ, ふだ): tag, paper money, counter for bonds, placard, bid"
+        ],
+        "answer": "(マツ, バツ, すえ, うら, うれ): end, close, tip, powder, posterity"
+    },
+    {
+        "question": "札",
+        "options": [
+            "(ボウ, モウ, のぞ.む, もち): ambition, full moon, hope, desire, aspire to, expect",
+            "(ミ, ビ, いま.だ, ま.だ, ひつじ): un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+            "(マツ, バツ, すえ, うら, うれ): end, close, tip, powder, posterity",
+            "(サツ, ふだ): tag, paper money, counter for bonds, placard, bid"
+        ],
+        "answer": "(サツ, ふだ): tag, paper money, counter for bonds, placard, bid"
+    },
+    {
+        "question": "材",
+        "options": [
+            "(ザイ): lumber, log, timber, wood, materials, ingredients, talent",
+            "(ソク, たば, たば.ねる, つか, つか.ねる): bundle, sheaf, ream, tie in bundles, govern, manage, control",
+            "(ショウ, まつ): pine tree",
+            "(カ, は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て): fruit, reward, carry out, achieve, complete, end, finish, succeed"
+        ],
+        "answer": "(ザイ): lumber, log, timber, wood, materials, ingredients, talent"
+    },
+    {
+        "question": "束",
+        "options": [
+            "(ザイ): lumber, log, timber, wood, materials, ingredients, talent",
+            "(ソク, たば, たば.ねる, つか, つか.ねる): bundle, sheaf, ream, tie in bundles, govern, manage, control",
+            "(ショウ, まつ): pine tree",
+            "(カ, は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て): fruit, reward, carry out, achieve, complete, end, finish, succeed"
+        ],
+        "answer": "(ソク, たば, たば.ねる, つか, つか.ねる): bundle, sheaf, ream, tie in bundles, govern, manage, control"
+    },
+    {
+        "question": "松",
+        "options": [
+            "(ザイ): lumber, log, timber, wood, materials, ingredients, talent",
+            "(ソク, たば, たば.ねる, つか, つか.ねる): bundle, sheaf, ream, tie in bundles, govern, manage, control",
+            "(ショウ, まつ): pine tree",
+            "(カ, は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て): fruit, reward, carry out, achieve, complete, end, finish, succeed"
+        ],
+        "answer": "(ショウ, まつ): pine tree"
+    },
+    {
+        "question": "果",
+        "options": [
+            "(ザイ): lumber, log, timber, wood, materials, ingredients, talent",
+            "(ソク, たば, たば.ねる, つか, つか.ねる): bundle, sheaf, ream, tie in bundles, govern, manage, control",
+            "(ショウ, まつ): pine tree",
+            "(カ, は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て): fruit, reward, carry out, achieve, complete, end, finish, succeed"
+        ],
+        "answer": "(カ, は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て): fruit, reward, carry out, achieve, complete, end, finish, succeed"
+    },
+    {
+        "question": "栄",
+        "options": [
+            "(エイ, ヨウ, さか.える, は.え, -ば.え, は.える, え): flourish, prosperity, honor, glory, splendor",
+            "(アン, つくえ): plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",
+            "(バイ, うめ): plum",
+            "(カイ, かせ): contraption, fetter, machine, instrument"
+        ],
+        "answer": "(エイ, ヨウ, さか.える, は.え, -ば.え, は.える, え): flourish, prosperity, honor, glory, splendor"
+    },
+    {
+        "question": "案",
+        "options": [
+            "(エイ, ヨウ, さか.える, は.え, -ば.え, は.える, え): flourish, prosperity, honor, glory, splendor",
+            "(アン, つくえ): plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",
+            "(バイ, うめ): plum",
+            "(カイ, かせ): contraption, fetter, machine, instrument"
+        ],
+        "answer": "(アン, つくえ): plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench"
+    },
+    {
+        "question": "梅",
+        "options": [
+            "(エイ, ヨウ, さか.える, は.え, -ば.え, は.える, え): flourish, prosperity, honor, glory, splendor",
+            "(アン, つくえ): plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",
+            "(バイ, うめ): plum",
+            "(カイ, かせ): contraption, fetter, machine, instrument"
+        ],
+        "answer": "(バイ, うめ): plum"
+    },
+    {
+        "question": "械",
+        "options": [
+            "(エイ, ヨウ, さか.える, は.え, -ば.え, は.える, え): flourish, prosperity, honor, glory, splendor",
+            "(アン, つくえ): plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",
+            "(バイ, うめ): plum",
+            "(カイ, かせ): contraption, fetter, machine, instrument"
+        ],
+        "answer": "(カイ, かせ): contraption, fetter, machine, instrument"
+    },
+    {
+        "question": "極",
+        "options": [
+            "(キョク, ゴク, きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる): extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank",
+            "(ヒョウ, しるべ, しるし): signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+            "(キ, はた): loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+            "(ケツ, ケン, か.ける, か.く): lack, gap, fail, yawning radical (no. 76)"
+        ],
+        "answer": "(キョク, ゴク, きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる): extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank"
+    },
+    {
+        "question": "標",
+        "options": [
+            "(キョク, ゴク, きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる): extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank",
+            "(ヒョウ, しるべ, しるし): signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+            "(キ, はた): loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+            "(ケツ, ケン, か.ける, か.く): lack, gap, fail, yawning radical (no. 76)"
+        ],
+        "answer": "(ヒョウ, しるべ, しるし): signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target"
+    },
+    {
+        "question": "機",
+        "options": [
+            "(キョク, ゴク, きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる): extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank",
+            "(ヒョウ, しるべ, しるし): signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+            "(キ, はた): loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+            "(ケツ, ケン, か.ける, か.く): lack, gap, fail, yawning radical (no. 76)"
+        ],
+        "answer": "(キ, はた): loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion"
+    },
+    {
+        "question": "欠",
+        "options": [
+            "(キョク, ゴク, きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる): extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank",
+            "(ヒョウ, しるべ, しるし): signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+            "(キ, はた): loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+            "(ケツ, ケン, か.ける, か.く): lack, gap, fail, yawning radical (no. 76)"
+        ],
+        "answer": "(ケツ, ケン, か.ける, か.く): lack, gap, fail, yawning radical (no. 76)"
+    },
+    {
+        "question": "歴",
+        "options": [
+            "(レキ, レッキ): curriculum, continuation, passage of time",
+            "(ザン, サン, のこ.る, のこ.す, そこな.う, のこ.り): remainder, leftover, balance",
+            "(サツ, サイ, セツ, ころ.す, -ごろ.し, そ.ぐ, あや.める): kill, murder, butcher, slice off, split, diminish, reduce, spoil",
+            "(ドク): poison, virus, venom, germ, harm, injury, spite"
+        ],
+        "answer": "(レキ, レッキ): curriculum, continuation, passage of time"
+    },
+    {
+        "question": "残",
+        "options": [
+            "(レキ, レッキ): curriculum, continuation, passage of time",
+            "(ザン, サン, のこ.る, のこ.す, そこな.う, のこ.り): remainder, leftover, balance",
+            "(サツ, サイ, セツ, ころ.す, -ごろ.し, そ.ぐ, あや.める): kill, murder, butcher, slice off, split, diminish, reduce, spoil",
+            "(ドク): poison, virus, venom, germ, harm, injury, spite"
+        ],
+        "answer": "(ザン, サン, のこ.る, のこ.す, そこな.う, のこ.り): remainder, leftover, balance"
+    },
+    {
+        "question": "殺",
+        "options": [
+            "(レキ, レッキ): curriculum, continuation, passage of time",
+            "(ザン, サン, のこ.る, のこ.す, そこな.う, のこ.り): remainder, leftover, balance",
+            "(サツ, サイ, セツ, ころ.す, -ごろ.し, そ.ぐ, あや.める): kill, murder, butcher, slice off, split, diminish, reduce, spoil",
+            "(ドク): poison, virus, venom, germ, harm, injury, spite"
+        ],
+        "answer": "(サツ, サイ, セツ, ころ.す, -ごろ.し, そ.ぐ, あや.める): kill, murder, butcher, slice off, split, diminish, reduce, spoil"
+    },
+    {
+        "question": "毒",
+        "options": [
+            "(レキ, レッキ): curriculum, continuation, passage of time",
+            "(ザン, サン, のこ.る, のこ.す, そこな.う, のこ.り): remainder, leftover, balance",
+            "(サツ, サイ, セツ, ころ.す, -ごろ.し, そ.ぐ, あや.める): kill, murder, butcher, slice off, split, diminish, reduce, spoil",
+            "(ドク): poison, virus, venom, germ, harm, injury, spite"
+        ],
+        "answer": "(ドク): poison, virus, venom, germ, harm, injury, spite"
+    },
+    {
+        "question": "氏",
+        "options": [
+            "(シ, うじ, -うじ): family name, surname, clan",
+            "(キュウ, グ, もと.める): request, want, wish for, require, demand",
+            "(ジ, チ, おさ.める, おさ.まる, なお.る, なお.す): reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+            "(ホウ, ハッ, ホッ, フラン, のり): method, law, rule, principle, model, system"
+        ],
+        "answer": "(シ, うじ, -うじ): family name, surname, clan"
+    },
+    {
+        "question": "求",
+        "options": [
+            "(シ, うじ, -うじ): family name, surname, clan",
+            "(キュウ, グ, もと.める): request, want, wish for, require, demand",
+            "(ジ, チ, おさ.める, おさ.まる, なお.る, なお.す): reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+            "(ホウ, ハッ, ホッ, フラン, のり): method, law, rule, principle, model, system"
+        ],
+        "answer": "(キュウ, グ, もと.める): request, want, wish for, require, demand"
+    },
+    {
+        "question": "治",
+        "options": [
+            "(シ, うじ, -うじ): family name, surname, clan",
+            "(キュウ, グ, もと.める): request, want, wish for, require, demand",
+            "(ジ, チ, おさ.める, おさ.まる, なお.る, なお.す): reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+            "(ホウ, ハッ, ホッ, フラン, のり): method, law, rule, principle, model, system"
+        ],
+        "answer": "(ジ, チ, おさ.める, おさ.まる, なお.る, なお.す): reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve"
+    },
+    {
+        "question": "法",
+        "options": [
+            "(シ, うじ, -うじ): family name, surname, clan",
+            "(キュウ, グ, もと.める): request, want, wish for, require, demand",
+            "(ジ, チ, おさ.める, おさ.まる, なお.る, なお.す): reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+            "(ホウ, ハッ, ホッ, フラン, のり): method, law, rule, principle, model, system"
+        ],
+        "answer": "(ホウ, ハッ, ホッ, フラン, のり): method, law, rule, principle, model, system"
+    },
+    {
+        "question": "泣",
+        "options": [
+            "(キュウ, な.く): cry, weep, moan",
+            "(セン, あさ.い): shallow, superficial, frivolous, wretched, shameful",
+            "(ヨク, あ.びる, あ.びせる): bathe, be favored with, bask in",
+            "(セイ, ショウ, シン, きよ.い, きよ.まる, きよ.める): pure, purify, cleanse, exorcise, Manchu dynasty"
+        ],
+        "answer": "(キュウ, な.く): cry, weep, moan"
+    },
+    {
+        "question": "浅",
+        "options": [
+            "(キュウ, な.く): cry, weep, moan",
+            "(セン, あさ.い): shallow, superficial, frivolous, wretched, shameful",
+            "(ヨク, あ.びる, あ.びせる): bathe, be favored with, bask in",
+            "(セイ, ショウ, シン, きよ.い, きよ.まる, きよ.める): pure, purify, cleanse, exorcise, Manchu dynasty"
+        ],
+        "answer": "(セン, あさ.い): shallow, superficial, frivolous, wretched, shameful"
+    },
+    {
+        "question": "浴",
+        "options": [
+            "(キュウ, な.く): cry, weep, moan",
+            "(セン, あさ.い): shallow, superficial, frivolous, wretched, shameful",
+            "(ヨク, あ.びる, あ.びせる): bathe, be favored with, bask in",
+            "(セイ, ショウ, シン, きよ.い, きよ.まる, きよ.める): pure, purify, cleanse, exorcise, Manchu dynasty"
+        ],
+        "answer": "(ヨク, あ.びる, あ.びせる): bathe, be favored with, bask in"
+    },
+    {
+        "question": "清",
+        "options": [
+            "(キュウ, な.く): cry, weep, moan",
+            "(セン, あさ.い): shallow, superficial, frivolous, wretched, shameful",
+            "(ヨク, あ.びる, あ.びせる): bathe, be favored with, bask in",
+            "(セイ, ショウ, シン, きよ.い, きよ.まる, きよ.める): pure, purify, cleanse, exorcise, Manchu dynasty"
+        ],
+        "answer": "(セイ, ショウ, シン, きよ.い, きよ.まる, きよ.める): pure, purify, cleanse, exorcise, Manchu dynasty"
+    },
+    {
+        "question": "満",
+        "options": [
+            "(マン, バン, み.ちる, み.つ, み.たす): full, fullness, enough, satisfy",
+            "(ギョ, リョウ, あさ.る): fishing, fishery",
+            "(トウ, ひ, ほ-, ともしび, とも.す, あかり): lamp, a light, light, counter for lights",
+            "(ム, ブ, な.い): nothingness, none, ain't, nothing, nil, not"
+        ],
+        "answer": "(マン, バン, み.ちる, み.つ, み.たす): full, fullness, enough, satisfy"
+    },
+    {
+        "question": "漁",
+        "options": [
+            "(マン, バン, み.ちる, み.つ, み.たす): full, fullness, enough, satisfy",
+            "(ギョ, リョウ, あさ.る): fishing, fishery",
+            "(トウ, ひ, ほ-, ともしび, とも.す, あかり): lamp, a light, light, counter for lights",
+            "(ム, ブ, な.い): nothingness, none, ain't, nothing, nil, not"
+        ],
+        "answer": "(ギョ, リョウ, あさ.る): fishing, fishery"
+    },
+    {
+        "question": "灯",
+        "options": [
+            "(マン, バン, み.ちる, み.つ, み.たす): full, fullness, enough, satisfy",
+            "(ギョ, リョウ, あさ.る): fishing, fishery",
+            "(トウ, ひ, ほ-, ともしび, とも.す, あかり): lamp, a light, light, counter for lights",
+            "(ム, ブ, な.い): nothingness, none, ain't, nothing, nil, not"
+        ],
+        "answer": "(トウ, ひ, ほ-, ともしび, とも.す, あかり): lamp, a light, light, counter for lights"
+    },
+    {
+        "question": "無",
+        "options": [
+            "(マン, バン, み.ちる, み.つ, み.たす): full, fullness, enough, satisfy",
+            "(ギョ, リョウ, あさ.る): fishing, fishery",
+            "(トウ, ひ, ほ-, ともしび, とも.す, あかり): lamp, a light, light, counter for lights",
+            "(ム, ブ, な.い): nothingness, none, ain't, nothing, nil, not"
+        ],
+        "answer": "(ム, ブ, な.い): nothingness, none, ain't, nothing, nil, not"
+    },
+    {
+        "question": "然",
+        "options": [
+            "(ゼン, ネン, しか, しか.り, しか.し, さ): sort of thing, so, if so, in that case, well",
+            "(ショウ, や.く, や.き, や.き-, -や.き, や.ける): bake, burning",
+            "(ショウ, て.る, て.らす, て.れる): illuminate, shine, compare, bashful",
+            "(ネツ, あつ.い): heat, temperature, fever, mania, passion"
+        ],
+        "answer": "(ゼン, ネン, しか, しか.り, しか.し, さ): sort of thing, so, if so, in that case, well"
+    },
+    {
+        "question": "焼",
+        "options": [
+            "(ゼン, ネン, しか, しか.り, しか.し, さ): sort of thing, so, if so, in that case, well",
+            "(ショウ, や.く, や.き, や.き-, -や.き, や.ける): bake, burning",
+            "(ショウ, て.る, て.らす, て.れる): illuminate, shine, compare, bashful",
+            "(ネツ, あつ.い): heat, temperature, fever, mania, passion"
+        ],
+        "answer": "(ショウ, や.く, や.き, や.き-, -や.き, や.ける): bake, burning"
+    },
+    {
+        "question": "照",
+        "options": [
+            "(ゼン, ネン, しか, しか.り, しか.し, さ): sort of thing, so, if so, in that case, well",
+            "(ショウ, や.く, や.き, や.き-, -や.き, や.ける): bake, burning",
+            "(ショウ, て.る, て.らす, て.れる): illuminate, shine, compare, bashful",
+            "(ネツ, あつ.い): heat, temperature, fever, mania, passion"
+        ],
+        "answer": "(ショウ, て.る, て.らす, て.れる): illuminate, shine, compare, bashful"
+    },
+    {
+        "question": "熱",
+        "options": [
+            "(ゼン, ネン, しか, しか.り, しか.し, さ): sort of thing, so, if so, in that case, well",
+            "(ショウ, や.く, や.き, や.き-, -や.き, や.ける): bake, burning",
+            "(ショウ, て.る, て.らす, て.れる): illuminate, shine, compare, bashful",
+            "(ネツ, あつ.い): heat, temperature, fever, mania, passion"
+        ],
+        "answer": "(ネツ, あつ.い): heat, temperature, fever, mania, passion"
+    },
+    {
+        "question": "牧",
+        "options": [
+            "(ボク, まき): breed, care for, shepherd, feed, pasture",
+            "(テキ, まと): bull's eye, mark, target, object, adjective ending",
+            "(セイ, ショウ, かえり.みる, はぶ.く): government ministry, conserve, omit",
+            "(シュク, シュウ, いわ.う): celebrate, congratulate"
+        ],
+        "answer": "(ボク, まき): breed, care for, shepherd, feed, pasture"
+    },
+    {
+        "question": "的",
+        "options": [
+            "(ボク, まき): breed, care for, shepherd, feed, pasture",
+            "(テキ, まと): bull's eye, mark, target, object, adjective ending",
+            "(セイ, ショウ, かえり.みる, はぶ.く): government ministry, conserve, omit",
+            "(シュク, シュウ, いわ.う): celebrate, congratulate"
+        ],
+        "answer": "(テキ, まと): bull's eye, mark, target, object, adjective ending"
+    },
+    {
+        "question": "省",
+        "options": [
+            "(ボク, まき): breed, care for, shepherd, feed, pasture",
+            "(テキ, まと): bull's eye, mark, target, object, adjective ending",
+            "(セイ, ショウ, かえり.みる, はぶ.く): government ministry, conserve, omit",
+            "(シュク, シュウ, いわ.う): celebrate, congratulate"
+        ],
+        "answer": "(セイ, ショウ, かえり.みる, はぶ.く): government ministry, conserve, omit"
+    },
+    {
+        "question": "祝",
+        "options": [
+            "(ボク, まき): breed, care for, shepherd, feed, pasture",
+            "(テキ, まと): bull's eye, mark, target, object, adjective ending",
+            "(セイ, ショウ, かえり.みる, はぶ.く): government ministry, conserve, omit",
+            "(シュク, シュウ, いわ.う): celebrate, congratulate"
+        ],
+        "answer": "(シュク, シュウ, いわ.う): celebrate, congratulate"
+    },
+    {
+        "question": "票",
+        "options": [
+            "(ヒョウ): ballot, label, ticket, sign",
+            "(シュ, たね, -ぐさ): species, kind, class, variety, seed",
+            "(セキ, つ.む, -づ.み, つ.もる, つ.もり): volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+            "(キョウ, ケイ, きそ.う, せ.る, くら.べる): emulate, compete with, bid, sell at auction, bout, contest, race"
+        ],
+        "answer": "(ヒョウ): ballot, label, ticket, sign"
+    },
+    {
+        "question": "種",
+        "options": [
+            "(ヒョウ): ballot, label, ticket, sign",
+            "(シュ, たね, -ぐさ): species, kind, class, variety, seed",
+            "(セキ, つ.む, -づ.み, つ.もる, つ.もり): volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+            "(キョウ, ケイ, きそ.う, せ.る, くら.べる): emulate, compete with, bid, sell at auction, bout, contest, race"
+        ],
+        "answer": "(シュ, たね, -ぐさ): species, kind, class, variety, seed"
+    },
+    {
+        "question": "積",
+        "options": [
+            "(ヒョウ): ballot, label, ticket, sign",
+            "(シュ, たね, -ぐさ): species, kind, class, variety, seed",
+            "(セキ, つ.む, -づ.み, つ.もる, つ.もり): volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+            "(キョウ, ケイ, きそ.う, せ.る, くら.べる): emulate, compete with, bid, sell at auction, bout, contest, race"
+        ],
+        "answer": "(セキ, つ.む, -づ.み, つ.もる, つ.もり): volume, product (x*y), acreage, contents, pile up, stack, load, amass"
+    },
+    {
+        "question": "競",
+        "options": [
+            "(ヒョウ): ballot, label, ticket, sign",
+            "(シュ, たね, -ぐさ): species, kind, class, variety, seed",
+            "(セキ, つ.む, -づ.み, つ.もる, つ.もり): volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+            "(キョウ, ケイ, きそ.う, せ.る, くら.べる): emulate, compete with, bid, sell at auction, bout, contest, race"
+        ],
+        "answer": "(キョウ, ケイ, きそ.う, せ.る, くら.べる): emulate, compete with, bid, sell at auction, bout, contest, race"
+    },
+    {
+        "question": "笑",
+        "options": [
+            "(ショウ, わら.う, え.む): laugh",
+            "(カン, くだ): pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+            "(セツ, セチ, ふし, -ぶし, のっと): node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+            "(フン, デシメートル, こ, こな): flour, powder, dust"
+        ],
+        "answer": "(ショウ, わら.う, え.む): laugh"
+    },
+    {
+        "question": "管",
+        "options": [
+            "(ショウ, わら.う, え.む): laugh",
+            "(カン, くだ): pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+            "(セツ, セチ, ふし, -ぶし, のっと): node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+            "(フン, デシメートル, こ, こな): flour, powder, dust"
+        ],
+        "answer": "(カン, くだ): pipe, tube, wind instrument, drunken talk, control, jurisdiction"
+    },
+    {
+        "question": "節",
+        "options": [
+            "(ショウ, わら.う, え.む): laugh",
+            "(カン, くだ): pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+            "(セツ, セチ, ふし, -ぶし, のっと): node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+            "(フン, デシメートル, こ, こな): flour, powder, dust"
+        ],
+        "answer": "(セツ, セチ, ふし, -ぶし, のっと): node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody"
+    },
+    {
+        "question": "粉",
+        "options": [
+            "(ショウ, わら.う, え.む): laugh",
+            "(カン, くだ): pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+            "(セツ, セチ, ふし, -ぶし, のっと): node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+            "(フン, デシメートル, こ, こな): flour, powder, dust"
+        ],
+        "answer": "(フン, デシメートル, こ, こな): flour, powder, dust"
+    },
+    {
+        "question": "紀",
+        "options": [
+            "(キ): chronicle, account, narrative, history, annals, geologic period",
+            "(ヤク, つづ.まる, つづ.める, つづま.やか): promise, approximately, shrink",
+            "(ケツ, ケチ, むす.ぶ, ゆ.う, ゆ.わえる): tie, bind, contract, join, organize, do up hair, fasten",
+            "(キュウ, たま.う, たも.う, -たま.え): salary, wage, gift, allow, grant, bestow on"
+        ],
+        "answer": "(キ): chronicle, account, narrative, history, annals, geologic period"
+    },
+    {
+        "question": "約",
+        "options": [
+            "(キ): chronicle, account, narrative, history, annals, geologic period",
+            "(ヤク, つづ.まる, つづ.める, つづま.やか): promise, approximately, shrink",
+            "(ケツ, ケチ, むす.ぶ, ゆ.う, ゆ.わえる): tie, bind, contract, join, organize, do up hair, fasten",
+            "(キュウ, たま.う, たも.う, -たま.え): salary, wage, gift, allow, grant, bestow on"
+        ],
+        "answer": "(ヤク, つづ.まる, つづ.める, つづま.やか): promise, approximately, shrink"
+    },
+    {
+        "question": "結",
+        "options": [
+            "(キ): chronicle, account, narrative, history, annals, geologic period",
+            "(ヤク, つづ.まる, つづ.める, つづま.やか): promise, approximately, shrink",
+            "(ケツ, ケチ, むす.ぶ, ゆ.う, ゆ.わえる): tie, bind, contract, join, organize, do up hair, fasten",
+            "(キュウ, たま.う, たも.う, -たま.え): salary, wage, gift, allow, grant, bestow on"
+        ],
+        "answer": "(ケツ, ケチ, むす.ぶ, ゆ.う, ゆ.わえる): tie, bind, contract, join, organize, do up hair, fasten"
+    },
+    {
+        "question": "給",
+        "options": [
+            "(キ): chronicle, account, narrative, history, annals, geologic period",
+            "(ヤク, つづ.まる, つづ.める, つづま.やか): promise, approximately, shrink",
+            "(ケツ, ケチ, むす.ぶ, ゆ.う, ゆ.わえる): tie, bind, contract, join, organize, do up hair, fasten",
+            "(キュウ, たま.う, たも.う, -たま.え): salary, wage, gift, allow, grant, bestow on"
+        ],
+        "answer": "(キュウ, たま.う, たも.う, -たま.え): salary, wage, gift, allow, grant, bestow on"
+    },
+    {
+        "question": "続",
+        "options": [
+            "(ゾク, ショク, コウ, キョウ, つづ.く, つづ.ける, つぐ.ない): continue, series, sequel",
+            "(チ, お.く, -お.き): placement, put, set, deposit, leave behind, keep, employ, pawn",
+            "(ロウ, お.いる, ふ.ける): old man, old age, grow old",
+            "(イ): stomach, paunch, crop, craw"
+        ],
+        "answer": "(ゾク, ショク, コウ, キョウ, つづ.く, つづ.ける, つぐ.ない): continue, series, sequel"
+    },
+    {
+        "question": "置",
+        "options": [
+            "(ゾク, ショク, コウ, キョウ, つづ.く, つづ.ける, つぐ.ない): continue, series, sequel",
+            "(チ, お.く, -お.き): placement, put, set, deposit, leave behind, keep, employ, pawn",
+            "(ロウ, お.いる, ふ.ける): old man, old age, grow old",
+            "(イ): stomach, paunch, crop, craw"
+        ],
+        "answer": "(チ, お.く, -お.き): placement, put, set, deposit, leave behind, keep, employ, pawn"
+    },
+    {
+        "question": "老",
+        "options": [
+            "(ゾク, ショク, コウ, キョウ, つづ.く, つづ.ける, つぐ.ない): continue, series, sequel",
+            "(チ, お.く, -お.き): placement, put, set, deposit, leave behind, keep, employ, pawn",
+            "(ロウ, お.いる, ふ.ける): old man, old age, grow old",
+            "(イ): stomach, paunch, crop, craw"
+        ],
+        "answer": "(ロウ, お.いる, ふ.ける): old man, old age, grow old"
+    },
+    {
+        "question": "胃",
+        "options": [
+            "(ゾク, ショク, コウ, キョウ, つづ.く, つづ.ける, つぐ.ない): continue, series, sequel",
+            "(チ, お.く, -お.き): placement, put, set, deposit, leave behind, keep, employ, pawn",
+            "(ロウ, お.いる, ふ.ける): old man, old age, grow old",
+            "(イ): stomach, paunch, crop, craw"
+        ],
+        "answer": "(イ): stomach, paunch, crop, craw"
+    },
+    {
+        "question": "脈",
+        "options": [
+            "(ミャク, すじ): vein, pulse, hope",
+            "(チョウ, はらわた, わた): intestines, guts, bowels, viscera",
+            "(シン, ジン): retainer, subject",
+            "(コウ): navigate, sail, cruise, fly"
+        ],
+        "answer": "(ミャク, すじ): vein, pulse, hope"
+    },
+    {
+        "question": "腸",
+        "options": [
+            "(ミャク, すじ): vein, pulse, hope",
+            "(チョウ, はらわた, わた): intestines, guts, bowels, viscera",
+            "(シン, ジン): retainer, subject",
+            "(コウ): navigate, sail, cruise, fly"
+        ],
+        "answer": "(チョウ, はらわた, わた): intestines, guts, bowels, viscera"
+    },
+    {
+        "question": "臣",
+        "options": [
+            "(ミャク, すじ): vein, pulse, hope",
+            "(チョウ, はらわた, わた): intestines, guts, bowels, viscera",
+            "(シン, ジン): retainer, subject",
+            "(コウ): navigate, sail, cruise, fly"
+        ],
+        "answer": "(シン, ジン): retainer, subject"
+    },
+    {
+        "question": "航",
+        "options": [
+            "(ミャク, すじ): vein, pulse, hope",
+            "(チョウ, はらわた, わた): intestines, guts, bowels, viscera",
+            "(シン, ジン): retainer, subject",
+            "(コウ): navigate, sail, cruise, fly"
+        ],
+        "answer": "(コウ): navigate, sail, cruise, fly"
+    },
+    {
+        "question": "良",
+        "options": [
+            "(リョウ, よ.い, -よ.い, い.い, -い.い): good, pleasing, skilled",
+            "(ゲイ, ウン, う.える, のり, わざ): technique, art, craft, performance, acting, trick, stunt",
+            "(ガ, め): bud, sprout, spear, germ",
+            "(ガイ, カイ, まち): boulevard, street, town"
+        ],
+        "answer": "(リョウ, よ.い, -よ.い, い.い, -い.い): good, pleasing, skilled"
+    },
+    {
+        "question": "芸",
+        "options": [
+            "(リョウ, よ.い, -よ.い, い.い, -い.い): good, pleasing, skilled",
+            "(ゲイ, ウン, う.える, のり, わざ): technique, art, craft, performance, acting, trick, stunt",
+            "(ガ, め): bud, sprout, spear, germ",
+            "(ガイ, カイ, まち): boulevard, street, town"
+        ],
+        "answer": "(ゲイ, ウン, う.える, のり, わざ): technique, art, craft, performance, acting, trick, stunt"
+    },
+    {
+        "question": "芽",
+        "options": [
+            "(リョウ, よ.い, -よ.い, い.い, -い.い): good, pleasing, skilled",
+            "(ゲイ, ウン, う.える, のり, わざ): technique, art, craft, performance, acting, trick, stunt",
+            "(ガ, め): bud, sprout, spear, germ",
+            "(ガイ, カイ, まち): boulevard, street, town"
+        ],
+        "answer": "(ガ, め): bud, sprout, spear, germ"
+    },
+    {
+        "question": "街",
+        "options": [
+            "(リョウ, よ.い, -よ.い, い.い, -い.い): good, pleasing, skilled",
+            "(ゲイ, ウン, う.える, のり, わざ): technique, art, craft, performance, acting, trick, stunt",
+            "(ガ, め): bud, sprout, spear, germ",
+            "(ガイ, カイ, まち): boulevard, street, town"
+        ],
+        "answer": "(ガイ, カイ, まち): boulevard, street, town"
+    },
+    {
+        "question": "衣",
+        "options": [
+            "(イ, エ, ころも, きぬ, -ぎ): garment, clothes, dressing",
+            "(ヨウ, い.る, かなめ): need, main point, essence, pivot, key to",
+            "(カク, おぼ.える, さ.ます, さ.める, さと.る): memorize, learn, remember, awake, sober up",
+            "(カン, み.る, しめ.す): outlook, look, appearance, condition, view"
+        ],
+        "answer": "(イ, エ, ころも, きぬ, -ぎ): garment, clothes, dressing"
+    },
+    {
+        "question": "要",
+        "options": [
+            "(イ, エ, ころも, きぬ, -ぎ): garment, clothes, dressing",
+            "(ヨウ, い.る, かなめ): need, main point, essence, pivot, key to",
+            "(カク, おぼ.える, さ.ます, さ.める, さと.る): memorize, learn, remember, awake, sober up",
+            "(カン, み.る, しめ.す): outlook, look, appearance, condition, view"
+        ],
+        "answer": "(ヨウ, い.る, かなめ): need, main point, essence, pivot, key to"
+    },
+    {
+        "question": "覚",
+        "options": [
+            "(イ, エ, ころも, きぬ, -ぎ): garment, clothes, dressing",
+            "(ヨウ, い.る, かなめ): need, main point, essence, pivot, key to",
+            "(カク, おぼ.える, さ.ます, さ.める, さと.る): memorize, learn, remember, awake, sober up",
+            "(カン, み.る, しめ.す): outlook, look, appearance, condition, view"
+        ],
+        "answer": "(カク, おぼ.える, さ.ます, さ.める, さと.る): memorize, learn, remember, awake, sober up"
+    },
+    {
+        "question": "観",
+        "options": [
+            "(イ, エ, ころも, きぬ, -ぎ): garment, clothes, dressing",
+            "(ヨウ, い.る, かなめ): need, main point, essence, pivot, key to",
+            "(カク, おぼ.える, さ.ます, さ.める, さと.る): memorize, learn, remember, awake, sober up",
+            "(カン, み.る, しめ.す): outlook, look, appearance, condition, view"
+        ],
+        "answer": "(カン, み.る, しめ.す): outlook, look, appearance, condition, view"
+    },
+    {
+        "question": "訓",
+        "options": [
+            "(クン, キン, おし.える, よ.む, くん.ずる): instruction, Japanese character reading, explanation, read",
+            "(カ): chapter, lesson, section, department, division, counter for chapters (of a book)",
+            "(ギ): deliberation, consultation, debate, consideration",
+            "(ショウ, ゾウ, かたど.る): elephant, pattern after, imitate, image, shape, sign (of the times)"
+        ],
+        "answer": "(クン, キン, おし.える, よ.む, くん.ずる): instruction, Japanese character reading, explanation, read"
+    },
+    {
+        "question": "課",
+        "options": [
+            "(クン, キン, おし.える, よ.む, くん.ずる): instruction, Japanese character reading, explanation, read",
+            "(カ): chapter, lesson, section, department, division, counter for chapters (of a book)",
+            "(ギ): deliberation, consultation, debate, consideration",
+            "(ショウ, ゾウ, かたど.る): elephant, pattern after, imitate, image, shape, sign (of the times)"
+        ],
+        "answer": "(カ): chapter, lesson, section, department, division, counter for chapters (of a book)"
+    },
+    {
+        "question": "議",
+        "options": [
+            "(クン, キン, おし.える, よ.む, くん.ずる): instruction, Japanese character reading, explanation, read",
+            "(カ): chapter, lesson, section, department, division, counter for chapters (of a book)",
+            "(ギ): deliberation, consultation, debate, consideration",
+            "(ショウ, ゾウ, かたど.る): elephant, pattern after, imitate, image, shape, sign (of the times)"
+        ],
+        "answer": "(ギ): deliberation, consultation, debate, consideration"
+    },
+    {
+        "question": "象",
+        "options": [
+            "(クン, キン, おし.える, よ.む, くん.ずる): instruction, Japanese character reading, explanation, read",
+            "(カ): chapter, lesson, section, department, division, counter for chapters (of a book)",
+            "(ギ): deliberation, consultation, debate, consideration",
+            "(ショウ, ゾウ, かたど.る): elephant, pattern after, imitate, image, shape, sign (of the times)"
+        ],
+        "answer": "(ショウ, ゾウ, かたど.る): elephant, pattern after, imitate, image, shape, sign (of the times)"
+    },
+    {
+        "question": "貨",
+        "options": [
+            "(カ, たから): freight, goods, property",
+            "(チョ, た.める, たくわ.える): savings, store, lay in, keep, wear mustache",
+            "(ヒ, つい.やす, つい.える): expense, cost, spend, consume, waste",
+            "(ショウ, ほ.める): prize, reward, praise"
+        ],
+        "answer": "(カ, たから): freight, goods, property"
+    },
+    {
+        "question": "貯",
+        "options": [
+            "(カ, たから): freight, goods, property",
+            "(チョ, た.める, たくわ.える): savings, store, lay in, keep, wear mustache",
+            "(ヒ, つい.やす, つい.える): expense, cost, spend, consume, waste",
+            "(ショウ, ほ.める): prize, reward, praise"
+        ],
+        "answer": "(チョ, た.める, たくわ.える): savings, store, lay in, keep, wear mustache"
+    },
+    {
+        "question": "費",
+        "options": [
+            "(カ, たから): freight, goods, property",
+            "(チョ, た.める, たくわ.える): savings, store, lay in, keep, wear mustache",
+            "(ヒ, つい.やす, つい.える): expense, cost, spend, consume, waste",
+            "(ショウ, ほ.める): prize, reward, praise"
+        ],
+        "answer": "(ヒ, つい.やす, つい.える): expense, cost, spend, consume, waste"
+    },
+    {
+        "question": "賞",
+        "options": [
+            "(カ, たから): freight, goods, property",
+            "(チョ, た.める, たくわ.える): savings, store, lay in, keep, wear mustache",
+            "(ヒ, つい.やす, つい.える): expense, cost, spend, consume, waste",
+            "(ショウ, ほ.める): prize, reward, praise"
+        ],
+        "answer": "(ショウ, ほ.める): prize, reward, praise"
+    },
+    {
+        "question": "軍",
+        "options": [
+            "(グン, いくさ): army, force, troops, war, battle",
+            "(リン, わ): wheel, ring, circle, link, loop, counter for wheels and flowers",
+            "(ジ, や.める, いな.む): resign, word, term, expression",
+            "(ヘン, あた.り, ほと.り, -べ): environs, boundary, border, vicinity"
+        ],
+        "answer": "(グン, いくさ): army, force, troops, war, battle"
+    },
+    {
+        "question": "輪",
+        "options": [
+            "(グン, いくさ): army, force, troops, war, battle",
+            "(リン, わ): wheel, ring, circle, link, loop, counter for wheels and flowers",
+            "(ジ, や.める, いな.む): resign, word, term, expression",
+            "(ヘン, あた.り, ほと.り, -べ): environs, boundary, border, vicinity"
+        ],
+        "answer": "(リン, わ): wheel, ring, circle, link, loop, counter for wheels and flowers"
+    },
+    {
+        "question": "辞",
+        "options": [
+            "(グン, いくさ): army, force, troops, war, battle",
+            "(リン, わ): wheel, ring, circle, link, loop, counter for wheels and flowers",
+            "(ジ, や.める, いな.む): resign, word, term, expression",
+            "(ヘン, あた.り, ほと.り, -べ): environs, boundary, border, vicinity"
+        ],
+        "answer": "(ジ, や.める, いな.む): resign, word, term, expression"
+    },
+    {
+        "question": "辺",
+        "options": [
+            "(グン, いくさ): army, force, troops, war, battle",
+            "(リン, わ): wheel, ring, circle, link, loop, counter for wheels and flowers",
+            "(ジ, や.める, いな.む): resign, word, term, expression",
+            "(ヘン, あた.り, ほと.り, -べ): environs, boundary, border, vicinity"
+        ],
+        "answer": "(ヘン, あた.り, ほと.り, -べ): environs, boundary, border, vicinity"
+    },
+    {
+        "question": "連",
+        "options": [
+            "(レン, つら.なる, つら.ねる, つ.れる, -づ.れ): take along, lead, join, connect, party, gang, clique",
+            "(タツ, ダ, -たち): accomplished, reach, arrive, attain",
+            "(セン, えら.ぶ, え.る, よ.る): elect, select, choose, prefer",
+            "(グン, こおり): county, district"
+        ],
+        "answer": "(レン, つら.なる, つら.ねる, つ.れる, -づ.れ): take along, lead, join, connect, party, gang, clique"
+    },
+    {
+        "question": "達",
+        "options": [
+            "(レン, つら.なる, つら.ねる, つ.れる, -づ.れ): take along, lead, join, connect, party, gang, clique",
+            "(タツ, ダ, -たち): accomplished, reach, arrive, attain",
+            "(セン, えら.ぶ, え.る, よ.る): elect, select, choose, prefer",
+            "(グン, こおり): county, district"
+        ],
+        "answer": "(タツ, ダ, -たち): accomplished, reach, arrive, attain"
+    },
+    {
+        "question": "選",
+        "options": [
+            "(レン, つら.なる, つら.ねる, つ.れる, -づ.れ): take along, lead, join, connect, party, gang, clique",
+            "(タツ, ダ, -たち): accomplished, reach, arrive, attain",
+            "(セン, えら.ぶ, え.る, よ.る): elect, select, choose, prefer",
+            "(グン, こおり): county, district"
+        ],
+        "answer": "(セン, えら.ぶ, え.る, よ.る): elect, select, choose, prefer"
+    },
+    {
+        "question": "郡",
+        "options": [
+            "(レン, つら.なる, つら.ねる, つ.れる, -づ.れ): take along, lead, join, connect, party, gang, clique",
+            "(タツ, ダ, -たち): accomplished, reach, arrive, attain",
+            "(セン, えら.ぶ, え.る, よ.る): elect, select, choose, prefer",
+            "(グン, こおり): county, district"
+        ],
+        "answer": "(グン, こおり): county, district"
+    },
+    {
+        "question": "量",
+        "options": [
+            "(リョウ, はか.る): quantity, measure, weight, amount, consider, estimate, surmise",
+            "(ロク, しる.す, と.る): record",
+            "(キョウ, ケイ, かがみ): mirror, speculum, barrel-head, round rice-cake offering",
+            "(カン, せき, -ぜき, かか.わる, からくり, かんぬき): connection, barrier, gateway, involve, concerning"
+        ],
+        "answer": "(リョウ, はか.る): quantity, measure, weight, amount, consider, estimate, surmise"
+    },
+    {
+        "question": "録",
+        "options": [
+            "(リョウ, はか.る): quantity, measure, weight, amount, consider, estimate, surmise",
+            "(ロク, しる.す, と.る): record",
+            "(キョウ, ケイ, かがみ): mirror, speculum, barrel-head, round rice-cake offering",
+            "(カン, せき, -ぜき, かか.わる, からくり, かんぬき): connection, barrier, gateway, involve, concerning"
+        ],
+        "answer": "(ロク, しる.す, と.る): record"
+    },
+    {
+        "question": "鏡",
+        "options": [
+            "(リョウ, はか.る): quantity, measure, weight, amount, consider, estimate, surmise",
+            "(ロク, しる.す, と.る): record",
+            "(キョウ, ケイ, かがみ): mirror, speculum, barrel-head, round rice-cake offering",
+            "(カン, せき, -ぜき, かか.わる, からくり, かんぬき): connection, barrier, gateway, involve, concerning"
+        ],
+        "answer": "(キョウ, ケイ, かがみ): mirror, speculum, barrel-head, round rice-cake offering"
+    },
+    {
+        "question": "関",
+        "options": [
+            "(リョウ, はか.る): quantity, measure, weight, amount, consider, estimate, surmise",
+            "(ロク, しる.す, と.る): record",
+            "(キョウ, ケイ, かがみ): mirror, speculum, barrel-head, round rice-cake offering",
+            "(カン, せき, -ぜき, かか.わる, からくり, かんぬき): connection, barrier, gateway, involve, concerning"
+        ],
+        "answer": "(カン, せき, -ぜき, かか.わる, からくり, かんぬき): connection, barrier, gateway, involve, concerning"
+    },
+    {
+        "question": "陸",
+        "options": [
+            "(リク, ロク, おか): land, six",
+            "(タイ): regiment, party, company, squad",
+            "(セイ, ジョウ, しず-, しず.か, しず.まる, しず.める): quiet",
+            "(ジュン): obey, order, turn, right, docility, occasion"
+        ],
+        "answer": "(リク, ロク, おか): land, six"
+    },
+    {
+        "question": "隊",
+        "options": [
+            "(リク, ロク, おか): land, six",
+            "(タイ): regiment, party, company, squad",
+            "(セイ, ジョウ, しず-, しず.か, しず.まる, しず.める): quiet",
+            "(ジュン): obey, order, turn, right, docility, occasion"
+        ],
+        "answer": "(タイ): regiment, party, company, squad"
+    },
+    {
+        "question": "静",
+        "options": [
+            "(リク, ロク, おか): land, six",
+            "(タイ): regiment, party, company, squad",
+            "(セイ, ジョウ, しず-, しず.か, しず.まる, しず.める): quiet",
+            "(ジュン): obey, order, turn, right, docility, occasion"
+        ],
+        "answer": "(セイ, ジョウ, しず-, しず.か, しず.まる, しず.める): quiet"
+    },
+    {
+        "question": "順",
+        "options": [
+            "(リク, ロク, おか): land, six",
+            "(タイ): regiment, party, company, squad",
+            "(セイ, ジョウ, しず-, しず.か, しず.まる, しず.める): quiet",
+            "(ジュン): obey, order, turn, right, docility, occasion"
+        ],
+        "answer": "(ジュン): obey, order, turn, right, docility, occasion"
+    },
+    {
+        "question": "願",
+        "options": [
+            "(ガン, ねが.う, -ねがい): petition, request, vow, wish, hope",
+            "(ルイ, たぐ.い): sort, kind, variety, class, genus",
+            "(ヒ, と.ぶ, と.ばす, -と.ばす): fly, skip (pages), scatter",
+            "(ヨウ, リョウ, やしな.う): foster, bring up, rear, develop, nurture"
+        ],
+        "answer": "(ガン, ねが.う, -ねがい): petition, request, vow, wish, hope"
+    },
+    {
+        "question": "類",
+        "options": [
+            "(ガン, ねが.う, -ねがい): petition, request, vow, wish, hope",
+            "(ルイ, たぐ.い): sort, kind, variety, class, genus",
+            "(ヒ, と.ぶ, と.ばす, -と.ばす): fly, skip (pages), scatter",
+            "(ヨウ, リョウ, やしな.う): foster, bring up, rear, develop, nurtures"
+        ],
+        "answer": "(ルイ, たぐ.い): sort, kind, variety, class, genus"
+    },
+    {
+        "question": "飛",
+        "options": [
+            "(ガン, ね가.う, -ねがい): petition, request, vow, wish, hope",
+            "(ルイ, たぐ.い): sort, kind, variety, class, genus",
+            "(ヒ, と.ぶ, と.ばす, -と.ばす): fly, skip (pages), scatter",
+            "(ヨウ, リョウ, やしな.う): foster, bring up, rear, develop, nurture"
+        ],
+        "answer": "(ヒ, と.ぶ, と.ばす, -と.ばす): fly, skip (pages), scatter"
+    },
+    {
+        "question": "養",
+        "options": [
+            "(ガン, ねが.う, -ねがい): petition, request, vow, wish, hope",
+            "(ルイ, たぐ.い): sort, kind, variety, class, genus",
+            "(ヒ, と.ぶ, と.ばす, -と.ばす): fly, skip (pages), scatter",
+            "(ヨウ, リョウ, やしな.う): foster, bring up, rear, develop, nurture"
+        ],
+        "answer": "(ヨウ, リョウ, やしな.う): foster, bring up, rear, develop, nurture"
+    }
+]

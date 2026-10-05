@@ -1,0 +1,1032 @@
+[
+    {
+        "question": "一",
+        "options": [
+            "one, one radical (no.1) (イチ, イツ, ひと-, ひと.つ)",
+            "two, two radical (no. 7) (ニ, ジ, ふた, ふた.つ, ふたたび)",
+            "three (サン, ゾウ, み, み.つ, みっ.つ)",
+            "four (シ, よ, よ.つ, よっ.つ, よん)"
+        ],
+        "answer": "one, one radical (no.1) (イチ, イツ, ひと-, ひと.つ)"
+    },
+    {
+        "question": "二",
+        "options": [
+            "one, one radical (no.1) (イチ, イツ, ひと-, ひと.つ)",
+            "two, two radical (no. 7) (ニ, ジ, ふた, ふた.つ, ふたたび)",
+            "three (サン, ゾウ, み, み.つ, みっ.つ)",
+            "four (シ, よ, よ.つ, よっ.つ, よん)"
+        ],
+        "answer": "two, two radical (no. 7) (ニ, ジ, ふた, ふた.つ, ふたたび)"
+    },
+    {
+        "question": "三",
+        "options": [
+            "two, two radical (no. 7) (ニ, ジ, ふた, ふた.つ, ふたたび)",
+            "three (サン, ゾウ, み, み.つ, みっ.つ)",
+            "four (シ, よ, よ.つ, よっ.つ, よん)",
+            "five (ゴ, いつ, いつ.つ)"
+        ],
+        "answer": "three (サン, ゾウ, み, み.つ, みっ.つ)"
+    },
+    {
+        "question": "四",
+        "options": [
+            "three (サン, ゾウ, み, み.つ, みっ.つ)",
+            "four (シ, よ, よ.つ, よっ.つ, よん)",
+            "five (ゴ, いつ, いつ.つ)",
+            "six (ロク, リク, む, む.つ, むっ.つ, むい)"
+        ],
+        "answer": "four (シ, よ, よ.つ, よっ.つ, よん)"
+    },
+    {
+        "question": "五",
+        "options": [
+            "four (シ, よ, よ.つ, よっ.つ, よん)",
+            "five (ゴ, いつ, いつ.つ)",
+            "six (ロク, リク, む, む.つ, むっ.つ, むい)",
+            "seven (シチ, なな, なな.つ, なの)"
+        ],
+        "answer": "five (ゴ, いつ, いつ.つ)"
+    },
+    {
+        "question": "六",
+        "options": [
+            "five (ゴ, いつ, いつ.つ)",
+            "six (ロク, リク, む, む.つ, むっ.つ, むい)",
+            "seven (シチ, なな, なな.つ, なの)",
+            "eight, eight radical (no. 12) (ハチ, ハツ, や, や.つ, やっ.つ, よう)"
+        ],
+        "answer": "six (ロク, リク, む, む.つ, むっ.つ, むい)"
+    },
+    {
+        "question": "七",
+        "options": [
+            "six (ロク, リク, む, む.つ, むっ.つ, むい)",
+            "seven (シチ, なな, なな.つ, なの)",
+            "eight, eight radical (no. 12) (ハチ, ハツ, や, や.つ, やっ.つ, よう)",
+            "nine (キュウ, ク, ここの, ここの.つ)"
+        ],
+        "answer": "seven (シチ, なな, なな.つ, なの)"
+    },
+    {
+        "question": "八",
+        "options": [
+            "seven (シチ, なな, なな.つ, なの)",
+            "eight, eight radical (no. 12) (ハチ, ハツ, や, や.つ, やっ.つ, よう)",
+            "nine (キュウ, ク, ここの, ここの.つ)",
+            "ten (ジュウ, ジッ, ジュッ, とお, と, そ)"
+        ],
+        "answer": "eight, eight radical (no. 12) (ハチ, ハツ, や, や.つ, やっ.つ, よう)"
+    },
+    {
+        "question": "九",
+        "options": [
+            "eight, eight radical (no. 12) (ハチ, ハツ, や, や.つ, やっ.つ, よう)",
+            "nine (キュウ, ク, ここの, ここの.つ)",
+            "ten (ジュウ, ジッ, ジュッ, とお, と, そ)",
+            "hundred (ヒャク, ビャク, もも)"
+        ],
+        "answer": "nine (キュウ, ク, ここの, ここの.つ)"
+    },
+    {
+        "question": "十",
+        "options": [
+            "nine (キュウ, ク, ここの, ここの.つ)",
+            "ten (ジュウ, ジッ, ジュッ, とお, と, そ)",
+            "hundred (ヒャク, ビャク, もも)",
+            "thousand (セン, ち)"
+        ],
+        "answer": "ten (ジュウ, ジッ, ジュッ, とお, と, そ)"
+    },
+    {
+        "question": "百",
+        "options": [
+            "ten (ジュウ, ジッ, ジュッ, とお, と, そ)",
+            "hundred (ヒャク, ビャク, もも)",
+            "thousand (セン, ち)",
+            "above, up (ジョウ, ショウ, シャン, うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る)"
+        ],
+        "answer": "hundred (ヒャク, ビャク, もも)"
+    },
+    {
+        "question": "千",
+        "options": [
+            "hundred (ヒャク, ビャク, もも)",
+            "thousand (セン, ち)",
+            "above, up (ジョウ, ショウ, シャン, うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る)",
+            "below, down, descend, give, low, inferior (カ, ゲ, した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる)"
+        ],
+        "answer": "thousand (セン, ち)"
+    },
+    {
+        "question": "上",
+        "options": [
+            "thousand (セン, ち)",
+            "above, up (ジョウ, ショウ, シャン, うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る)",
+            "below, down, descend, give, low, inferior (カ, ゲ, した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる)",
+            "left (サ, シャ, ひだり)"
+        ],
+        "answer": "above, up (ジョウ, ショウ, シャン, うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る)"
+    },
+    {
+        "question": "下",
+        "options": [
+            "above, up (ジョウ, ショウ, シャン, うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る)",
+            "below, down, descend, give, low, inferior (カ, ゲ, した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる)",
+            "left (サ, シャ, ひだり)",
+            "right (ウ, ユウ, みぎ)"
+        ],
+        "answer": "below, down, descend, give, low, inferior (カ, ゲ, した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる)"
+    },
+    {
+        "question": "左",
+        "options": [
+            "below, down, descend, give, low, inferior (カ, ゲ, した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる)",
+            "left (サ, シャ, ひだり)",
+            "right (ウ, ユウ, みぎ)",
+            "in, inside, middle, mean, center (チュウ, なか, うち, あた.る)"
+        ],
+        "answer": "left (サ, シャ, ひだり)"
+    },
+    {
+        "question": "右",
+        "options": [
+            "left (サ, シャ, ひだり)",
+            "right (ウ, ユウ, みぎ)",
+            "in, inside, middle, mean, center (チュウ, なか, うち, あた.る)",
+            "large, big (ダイ, タイ, おお-, おお.きい, -おお.いに)"
+        ],
+        "answer": "right (ウ, ユウ, みぎ)"
+    },
+    {
+        "question": "中",
+        "options": [
+            "right (ウ, ユウ, みぎ)",
+            "in, inside, middle, mean, center (チュウ, なか, うち, あた.る)",
+            "large, big (ダイ, タイ, おお-, おお.きい, -おお.いに)",
+            "little, small (ショウ, ちい.さい, こ-, お-, さ-)"
+        ],
+        "answer": "in, inside, middle, mean, center (チュウ, なか, うち, あた.る)"
+    },
+    {
+        "question": "大",
+        "options": [
+            "in, inside, middle, mean, center (チュウ, なか, うち, あた.る)",
+            "large, big (ダイ, タイ, おお-, おお.きい, -おお.いに)",
+            "little, small (ショウ, ちい.さい, こ-, お-, さ-)",
+            "month, moon (ゲツ, ガツ, つき)"
+        ],
+        "answer": "large, big (ダイ, タイ, おお-, おお.きい, -おお.いに)"
+    },
+    {
+        "question": "小",
+        "options": [
+            "large, big (ダイ, タイ, おお-, おお.きい, -おお.いに)",
+            "little, small (ショウ, ちい.さい, こ-, お-, さ-)",
+            "month, moon (ゲツ, ガツ, つき)",
+            "day, sun, Japan, counter for days (ニチ, ジツ, ひ, -び, -か)"
+        ],
+        "answer": "little, small (ショウ, ちい.さい, こ-, お-, さ-)"
+    },
+    {
+        "question": "月",
+        "options": [
+            "little, small (ショウ, ちい.さい, こ-, お-, さ-)",
+            "month, moon (ゲツ, ガツ, つき)",
+            "day, sun, Japan, counter for days (ニチ, ジツ, ひ, -び, -か)",
+            "year, counter for years (ネン, とし)"
+        ],
+        "answer": "month, moon (ゲツ, ガツ, つき)"
+    },
+    {
+        "question": "日",
+        "options": [
+            "month, moon (ゲツ, ガツ, つき)",
+            "day, sun, Japan, counter for days (ニチ, ジツ, ひ, -び, -か)",
+            "year, counter for years (ネン, とし)",
+            "tree, wood (ボク, モク, き, こ-)"
+        ],
+        "answer": "day, sun, Japan, counter for days (ニチ, ジツ, ひ, -び, -か)"
+    },
+    {
+        "question": "年",
+        "options": [
+            "day, sun, Japan, counter for days (ニチ, ジツ, ひ, -び, -か)",
+            "year, counter for years (ネン, とし)",
+            "tree, wood (ボク, モク, き, こ-)",
+            "mountain (サン, セン, やま)"
+        ],
+        "answer": "year, counter for years (ネン, とし)"
+    },
+    {
+        "question": "木",
+        "options": [
+            "year, counter for years (ネン, とし)",
+            "tree, wood (ボク, モク, き, こ-)",
+            "mountain (サン, セン, やま)",
+            "stream, river, river or three-stroke river radical (no. 47) (セン, かわ)"
+        ],
+        "answer": "tree, wood (ボク, モク, き, こ-)"
+    },
+    {
+        "question": "山",
+        "options": [
+            "tree, wood (ボク, モク, き, こ-)",
+            "mountain (サン, セン, やま)",
+            "stream, river, river or three-stroke river radical (no. 47) (セン, かわ)",
+            "soil, earth, ground, Turkey (ド, ト, つち)"
+        ],
+        "answer": "mountain (サン, セン, やま)"
+    },
+    {
+        "question": "川",
+        "options": [
+            "mountain (サン, セン, やま)",
+            "stream, river, river or three-stroke river radical (no. 47) (セン, かわ)",
+            "soil, earth, ground, Turkey (ド, ト, つち)",
+            "empty, sky, void, vacant, vacuum (クウ, そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい)"
+        ],
+        "answer": "stream, river, river or three-stroke river radical (no. 47) (セン, かわ)"
+    },
+    {
+        "question": "土",
+        "options": [
+            "stream, river, river or three-stroke river radical (no. 47) (セン, かわ)",
+            "soil, earth, ground, Turkey (ド, ト, つち)",
+            "empty, sky, void, vacant, vacuum (クウ, そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい)",
+            "heavens, sky, imperial (テン, あまつ, あめ, あま-)"
+        ],
+        "answer": "soil, earth, ground, Turkey (ド, ト, つち)"
+    },
+    {
+        "question": "空",
+        "options": [
+            "soil, earth, ground, Turkey (ド, ト, つち)",
+            "empty, sky, void, vacant, vacuum (クウ, そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい)",
+            "heavens, sky, imperial (テン, あまつ, あめ, あま-)",
+            "life, genuine, birth (セイ, ショウ, い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う)"
+        ],
+        "answer": "empty, sky, void, vacant, vacuum (クウ, そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい)"
+    },
+    {
+        "question": "天",
+        "options": [
+            "empty, sky, void, vacant, vacuum (クウ, そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい)",
+            "heavens, sky, imperial (テン, あまつ, あめ, あま-)",
+            "life, genuine, birth (セイ, ショウ, い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う)",
+            "flower (カ, ケ, はな)"
+        ],
+        "answer": "heavens, sky, imperial (テン, あまつ, あめ, あま-)"
+    },
+    {
+        "question": "生",
+        "options": [
+            "heavens, sky, imperial (テン, あまつ, あめ, あま-)",
+            "life, genuine, birth (セイ, ショウ, い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う)",
+            "flower (カ, ケ, はな)",
+            "person (ジン, ニン, ひと, -り, -と)"
+        ],
+        "answer": "life, genuine, birth (セイ, ショウ, い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う)"
+    },
+    {
+        "question": "花",
+        "options": [
+            "life, genuine, birth (セイ, ショウ, い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う)",
+            "flower (カ, ケ, はな)",
+            "person (ジン, ニン, ひと, -り, -と)",
+            "name, noted, distinguished, reputation (メイ, ミョウ, な, -な)"
+        ],
+        "answer": "flower (カ, ケ, はな)"
+    },
+    {
+        "question": "人",
+        "options": [
+            "flower (カ, ケ, はな)",
+            "person (ジン, ニン, ひと, -り, -と)",
+            "name, noted, distinguished, reputation (メイ, ミョウ, な, -な)",
+            "woman, female (ジョ, ニョ, ニョウ, おんな, め)"
+        ],
+        "answer": "person (ジン, ニン, ひと, -り, -と)"
+    },
+    {
+        "question": "名",
+        "options": [
+            "person (ジン, ニン, ひと, -り, -と)",
+            "name, noted, distinguished, reputation (メイ, ミョウ, な, -な)",
+            "woman, female (ジョ, ニョ, ニョウ, おんな, め)",
+            "male (ダン, ナン, おとこ, お)"
+        ],
+        "answer": "name, noted, distinguished, reputation (メイ, ミョウ, な, -な)"
+    },
+    {
+        "question": "女",
+        "options": [
+            "name, noted, distinguished, reputation (メイ, ミョウ, な, -な)",
+            "woman, female (ジョ, ニョ, ニョウ, おんな, め)",
+            "male (ダン, ナン, おとこ, お)",
+            "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac (シ, ス, ツ, こ, -こ, ね)"
+        ],
+        "answer": "woman, female (ジョ, ニョ, ニョウ, おんな, め)"
+    },
+    {
+        "question": "男",
+        "options": [
+            "woman, female (ジョ, ニョ, ニョウ, おんな, め)",
+            "male (ダン, ナン, おとこ, お)",
+            "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac (シ, ス, ツ, こ, -こ, ね)",
+            "eye, class, look, insight, experience, care, favor (モク, ボク, め, -め, ま-)"
+        ],
+        "answer": "male (ダン, ナン, おとこ, お)"
+    },
+    {
+        "question": "子",
+        "options": [
+            "male (ダン, ナン, おとこ, お)",
+            "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac (シ, ス, ツ, こ, -こ, ね)",
+            "eye, class, look, insight, experience, care, favor (モク, ボク, め, -め, ま-)",
+            "ear (ジ, みみ)"
+        ],
+        "answer": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac (シ, ス, ツ, こ, -こ, ね)"
+    },
+    {
+        "question": "目",
+        "options": [
+            "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac (シ, ス, ツ, こ, -こ, ね)",
+            "eye, class, look, insight, experience, care, favor (モク, ボク, め, -め, ま-)",
+            "ear (ジ, みみ)",
+            "mouth (コウ, ク, くち)"
+        ],
+        "answer": "eye, class, look, insight, experience, care, favor (モク, ボク, め, -め, ま-)"
+    },
+    {
+        "question": "耳",
+        "options": [
+            "eye, class, look, insight, experience, care, favor (モク, ボク, め, -め, ま-)",
+            "ear (ジ, みみ)",
+            "mouth (コウ, ク, くち)",
+            "hand (シュ, ズ, て, て-, -て, た-)"
+        ],
+        "answer": "ear (ジ, みみ)"
+    },
+    {
+        "question": "口",
+        "options": [
+            "ear (ジ, みみ)",
+            "mouth (コウ, ク, くち)",
+            "hand (シュ, ズ, て, て-, -て, た-)",
+            "leg, foot, be sufficient, counter for pairs of footwear (ソク, あし, た.りる, た.る, た.す)"
+        ],
+        "answer": "mouth (コウ, ク, くち)"
+    },
+    {
+        "question": "手",
+        "options": [
+            "mouth (コウ, ク, くち)",
+            "hand (シュ, ズ, て, て-, -て, た-)",
+            "leg, foot, be sufficient, counter for pairs of footwear (ソク, あし, た.りる, た.る, た.す)",
+            "see, hopes, chances, idea, opinion, look at, visible (ケン, み.る, み.える, み.せる)"
+        ],
+        "answer": "hand (シュ, ズ, て, て-, -て, た-)"
+    },
+    {
+        "question": "足",
+        "options": [
+            "hand (シュ, ズ, て, て-, -て, た-)",
+            "leg, foot, be sufficient, counter for pairs of footwear (ソク, あし, た.りる, た.る, た.す)",
+            "see, hopes, chances, idea, opinion, look at, visible (ケン, み.る, み.える, み.せる)",
+            "spirit, mind, air, atmosphere, mood (キ, ケ, いき, き)"
+        ],
+        "answer": "leg, foot, be sufficient, counter for pairs of footwear (ソク, あし, た.りる, た.る, た.す)"
+    },
+    {
+        "question": "見",
+        "options": [
+            "leg, foot, be sufficient, counter for pairs of footwear (ソク, あし, た.りる, た.る, た.す)",
+            "see, hopes, chances, idea, opinion, look at, visible (ケン, み.る, み.える, み.せる)",
+            "spirit, mind, air, atmosphere, mood (キ, ケ, いき, き)",
+            "circle, yen, round (エン, まる.い, まる, まど, まど.か, まろ.やか)"
+        ],
+        "answer": "see, hopes, chances, idea, opinion, look at, visible (ケン, み.る, み.える, み.せる)"
+    },
+    {
+        "question": "気",
+        "options": [
+            "see, hopes, chances, idea, opinion, look at, visible (ケン, み.る, み.える, み.せる)",
+            "spirit, mind, air, atmosphere, mood (キ, ケ, いき, き)",
+            "circle, yen, round (エン, まる.い, まる, まど, まど.か, まろ.やか)",
+            "enter, insert (ニュウ, ジュ, い.る, -い.る, -い.り, い.れる, -い.れ, はい.る)"
+        ],
+        "answer": "spirit, mind, air, atmosphere, mood (キ, ケ, いき, き)"
+    },
+    {
+        "question": "円",
+        "options": [
+            "spirit, mind, air, atmosphere, mood (キ, ケ, いき, き)",
+            "circle, yen, round (エン, まる.い, まる, まど, まど.か, まろ.やか)",
+            "enter, insert (ニュウ, ジュ, い.る, -い.る, -い.り, い.れる, -い.れ, はい.る)",
+            "exit, leave, go out, come out, put out, protrude (シュツ, スイ, で.る, -で, だ.す, -だ.す, い.deる, い.だす)"
+        ],
+        "answer": "circle, yen, round (エン, まる.い, まる, まど, まど.か, まろ.やか)"
+    },
+    {
+        "question": "入",
+        "options": [
+            "circle, yen, round (エン, まる.い, まる, まど, まど.か, まろ.やか)",
+            "enter, insert (ニュウ, ジュ, い.る, -い.る, -い.り, い.れる, -い.れ, はい.る)",
+            "exit, leave, go out, come out, put out, protrude (シュツ, スイ, で.る, -で, だ.す, -だ.す, い.でる, い.だす)",
+            "stand up, rise, set up, erect (リツ, リュウ, リットル, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる)"
+        ],
+        "answer": "enter, insert (ニュウ, ジュ, い.る, -い.る, -い.り, い.れる, -い.れ, はい.る)"
+    },
+    {
+        "question": "出",
+        "options": [
+            "enter, insert (ニュウ, ジュ, い.る, -い.る, -い.り, い.れる, -い.れ, はい.る)",
+            "exit, leave, go out, come out, put out, protrude (シュツ, スイ, で.る, -で, だ.す, -だ.す, い.でる, い.だす)",
+            "stand up, rise, set up, erect (リツ, リュウ, リットル, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる)",
+            "rest, day off, retire, sleep (キュウ, やす.む, やす.まる, やす.める)"
+        ],
+        "answer": "exit, leave, go out, come out, put out, protrude (シュツ, スイ, で.る, -で, だ.す, -だ.す, い.でる, い.だす)"
+    },
+    {
+        "question": "立",
+        "options": [
+            "exit, leave, go out, come out, put out, protrude (シュツ, スイ, で.る, -で, だ.す, -だ.す, い.でる, い.だす)",
+            "stand up, rise, set up, erect (リツ, リュウ, リットル, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる)",
+            "rest, day off, retire, sleep (キュウ, やす.む, やす.まる, やす.める)",
+            "before, ahead, previous, future, precedence (セン, さき, ま.ず)"
+        ],
+        "answer": "stand up, rise, set up, erect (リツ, リュウ, リットル, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる)"
+    },
+    {
+        "question": "休",
+        "options": [
+            "stand up, rise, set up, erect (リツ, リュウ, リットル, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる)",
+            "rest, day off, retire, sleep (キュウ, やす.む, やす.まる, やす.める)",
+            "before, ahead, previous, future, precedence (セン, さき, ま.ず)",
+            "book, present, main, origin, true, real, counter for long cylindrical things (ホン, もと)"
+        ],
+        "answer": "rest, day off, retire, sleep (キュウ, やす.む, やす.まる, やす.める)"
+    },
+    {
+        "question": "先",
+        "options": [
+            "rest, day off, retire, sleep (キュウ, やす.む, やす.まる, やす.める)",
+            "before, ahead, previous, future, precedence (セン, さき, ま.ず)",
+            "book, present, main, origin, true, real, counter for long cylindrical things (ホン, もと)",
+            "study, learning, science (ガク, まな.ぶ)"
+        ],
+        "answer": "before, ahead, previous, future, precedence (セン, さき, ま.ず)"
+    },
+    {
+        "question": "本",
+        "options": [
+            "before, ahead, previous, future, precedence (セン, さき, ま.ず)",
+            "book, present, main, origin, true, real, counter for long cylindrical things (ホン, もと)",
+            "study, learning, science (ガク, まな.ぶ)",
+            "exam, school, printing, proof, correction (コウ, キョウ)"
+        ],
+        "answer": "book, present, main, origin, true, real, counter for long cylindrical things (ホン, もと)"
+    },
+    {
+        "question": "学",
+        "options": [
+            "book, present, main, origin, true, real, counter for long cylindrical things (ホン, もと)",
+            "study, learning, science (ガク, まな.ぶ)",
+            "exam, school, printing, proof, correction (コウ, キョウ)",
+            "water (スイ, みず, みず-)"
+        ],
+        "answer": "study, learning, science (ガク, まな.ぶ)"
+    },
+    {
+        "question": "校",
+        "options": [
+            "study, learning, science (ガク, まな.ぶ)",
+            "exam, school, printing, proof, correction (コウ, キョウ)",
+            "water (スイ, みず, みず-)",
+            "fire (カ, ひ, -び, ほ-)"
+        ],
+        "answer": "exam, school, printing, proof, correction (コウ, キョウ)"
+    },
+    {
+        "question": "水",
+        "options": [
+            "exam, school, printing, proof, correction (コウ, キョウ)",
+            "water (スイ, みず, みず-)",
+            "fire (カ, ひ, -び, ほ-)",
+            "car (シャ, くるま)"
+        ],
+        "answer": "water (スイ, みず, みず-)"
+    },
+    {
+        "question": "火",
+        "options": [
+            "water (スイ, みず, みず-)",
+            "fire (カ, ひ, -び, ほ-)",
+            "car (シャ, くるま)",
+            "gold (キン, コン, ゴン, かね, かな-, -がね)"
+        ],
+        "answer": "fire (カ, ひ, -び, ほ-)"
+    },
+    {
+        "question": "車",
+        "options": [
+            "fire (カ, ひ, -び, ほ-)",
+            "car (シャ, くるま)",
+            "gold (キン, コン, ゴン, かね, かな-, -がね)",
+            "rain (ウ, あめ, あま-, -さめ)"
+        ],
+        "answer": "car (シャ, くるま)"
+    },
+    {
+        "question": "金",
+        "options": [
+            "car (シャ, くるま)",
+            "gold (キン, コン, ゴン, かね, かな-, -がね)",
+            "rain (ウ, あめ, あま-, -さめ)",
+            "white (ハク, ビャク, しろ, しら-, しろ.い)"
+        ],
+        "answer": "gold (キン, コン, ゴン, かね, かな-, -がね)"
+    },
+    {
+        "question": "雨",
+        "options": [
+            "gold (キン, コン, ゴン, かね, かな-, -がね)",
+            "rain (ウ, あめ, あま-, -さめ)",
+            "white (ハク, ビャク, しろ, しら-, しろ.い)",
+            "many, frequent, much (タ, おお.い, まさ.に, まさ.る)"
+        ],
+        "answer": "rain (ウ, あめ, あま-, -さめ)"
+    },
+    {
+        "question": "白",
+        "options": [
+            "rain (ウ, あめ, あま-, -さめ)",
+            "white (ハク, ビャク, しろ, しら-, しろ.い)",
+            "many, frequent, much (タ, おお.い, まさ.に, まさ.る)",
+            "few, little (ショウ, すく.ない, すこ.し)"
+        ],
+        "answer": "white (ハク, ビャク, しろ, しら-, しろ.い)"
+    },
+    {
+        "question": "多",
+        "options": [
+            "white (ハク, ビャク, しろ, しら-, しろ.い)",
+            "many, frequent, much (タ, おお.い, まさ.に, まさ.る)",
+            "few, little (ショウ, すく.ない, すこ.し)",
+            "ten thousand, 10,000 (マン, バン, よろず)"
+        ],
+        "answer": "many, frequent, much (タ, おお.い, まさ.に, まさ.る)"
+    },
+    {
+        "question": "少",
+        "options": [
+            "many, frequent, much (タ, おお.い, まさ.に, まさ.る)",
+            "few, little (ショウ, すく.ない, すこ.し)",
+            "ten thousand, 10,000 (マン, バン, よろず)",
+            "half, middle, odd number, semi-, part- (ハン, なか.ば)"
+        ],
+        "answer": "few, little (ショウ, すく.ない, すこ.し)"
+    },
+    {
+        "question": "万",
+        "options": [
+            "few, little (ショウ, すく.ない, すこ.し)",
+            "ten thousand, 10,000 (マン, バン, よろず)",
+            "half, middle, odd number, semi-, part- (ハン, なか.ば)",
+            "long, leader, superior, senior (チョウ, なが.い, おさ)"
+        ],
+        "answer": "ten thousand, 10,000 (マン, バン, よろず)"
+    },
+    {
+        "question": "半",
+        "options": [
+            "ten thousand, 10,000 (マン, バン, よろず)",
+            "half, middle, odd number, semi-, part- (ハン, なか.ば)",
+            "long, leader, superior, senior (チョウ, なが.い, おさ)",
+            "tall, high, expensive (コウ, たか.い, たか, -だか, たか.まる, たか.める)"
+        ],
+        "answer": "half, middle, odd number, semi-, part- (ハン, なか.ば)"
+    },
+    {
+        "question": "長",
+        "options": [
+            "half, middle, odd number, semi-, part- (ハン, なか.ば)",
+            "long, leader, superior, senior (チョウ, なが.い, おさ)",
+            "tall, high, expensive (コウ, たか.い, たか, -だか, たか.まる, たか.める)",
+            "mother (ボ, はは, も)"
+        ],
+        "answer": "long, leader, superior, senior (チョウ, なが.い, おさ)"
+    },
+    {
+        "question": "高",
+        "options": [
+            "long, leader, superior, senior (チョウ, なが.い, おさ)",
+            "tall, high, expensive (コウ, たか.い, たか, -だか, たか.まる, たか.める)",
+            "mother (ボ, はは, も)",
+            "father (フ, ちち)"
+        ],
+        "answer": "tall, high, expensive (コウ, たか.い, たか, -だか, たか.まる, たか.める)"
+    },
+    {
+        "question": "母",
+        "options": [
+            "tall, high, expensive (コウ, たか.い, たか, -だか, たか.まる, たか.める)",
+            "mother (ボ, はは, も)",
+            "father (フ, ちち)",
+            "friend (ユウ, とも)"
+        ],
+        "answer": "mother (ボ, はは, も)"
+    },
+    {
+        "question": "父",
+        "options": [
+            "mother (ボ, はは, も)",
+            "father (フ, ちち)",
+            "friend (ユウ, とも)",
+            "time, hour (ジ, とき, -どき)"
+        ],
+        "answer": "father (フ, ちち)"
+    },
+    {
+        "question": "友",
+        "options": [
+            "father (フ, ちち)",
+            "friend (ユウ, とも)",
+            "time, hour (ジ, とき, -どき)",
+            "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100 (ブン, フン, ブ, わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ)"
+        ],
+        "answer": "friend (ユウ, とも)"
+    },
+    {
+        "question": "時",
+        "options": [
+            "friend (ユウ, とも)",
+            "time, hour (ジ, とき, -どき)",
+            "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100 (ブン, フン, ブ, わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ)",
+            "week (シュウ)"
+        ],
+        "answer": "time, hour (ジ, とき, -どき)"
+    },
+    {
+        "question": "分",
+        "options": [
+            "time, hour (ジ, とき, -どき)",
+            "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100 (ブン, フン, ブ, わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ)",
+            "week (シュウ)",
+            "now (コン, キン, いま)"
+        ],
+        "answer": "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100 (ブン, フン, ブ, わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ)"
+    },
+    {
+        "question": "週",
+        "options": [
+            "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100 (ブン, フン, ブ, わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ)",
+            "week (シュウ)",
+            "now (コン, キン, いま)",
+            "new (シン, あたら.しい, あら.た, あら-, にい-)"
+        ],
+        "answer": "week (シュウ)"
+    },
+    {
+        "question": "今",
+        "options": [
+            "week (シュウ)",
+            "now (コン, キン, いま)",
+            "new (シン, あたら.しい, あら.た, あら-, にい-)",
+            "old (コ, ふる.い, ふる-, -ふる.す)"
+        ],
+        "answer": "now (コン, キン, いま)"
+    },
+    {
+        "question": "新",
+        "options": [
+            "now (コン, キン, いま)",
+            "new (シン, あたら.しい, あら.た, あら-, にい-)",
+            "old (コ, ふる.い, ふる-, -ふる.す)",
+            "interval, space (カン, ケン, あいだ, ま, あい)"
+        ],
+        "answer": "new (シン, あたら.しい, あら.た, あら-, にい-)"
+    },
+    {
+        "question": "古",
+        "options": [
+            "new (シン, あたら.しい, あら.た, あら-, にい-)",
+            "old (コ, ふる.い, ふる-, -ふる.す)",
+            "interval, space (カン, ケン, あいだ, ま, あい)",
+            "north (ホク, きた)"
+        ],
+        "answer": "old (コ, ふる.い, ふる-, -ふる.す)"
+    },
+    {
+        "question": "間",
+        "options": [
+            "old (コ, ふる.い, ふる-, -ふる.す)",
+            "interval, space (カン, ケン, あいだ, ま, あい)",
+            "north (ホク, きた)",
+            "south (ナン, ナ, みなみ)"
+        ],
+        "answer": "interval, space (カン, ケン, あいだ, ま, あい)"
+    },
+    {
+        "question": "北",
+        "options": [
+            "interval, space (カン, ケン, あいだ, ま, あい)",
+            "north (ホク, きた)",
+            "south (ナン, ナ, みなみ)",
+            "east (トウ, ひがし)"
+        ],
+        "answer": "north (ホク, きた)"
+    },
+    {
+        "question": "南",
+        "options": [
+            "north (ホク, きた)",
+            "south (ナン, ナ, みなみ)",
+            "east (トウ, ひがし)",
+            "west, Spain (セイ, サイ, ス, にし)"
+        ],
+        "answer": "south (ナン, ナ, みなみ)"
+    },
+    {
+        "question": "東",
+        "options": [
+            "south (ナン, ナ, みなみ)",
+            "east (トウ, ひがし)",
+            "west, Spain (セイ, サイ, ス, にし)",
+            "in front, before (ゼン, まえ, -まえ)"
+        ],
+        "answer": "east (トウ, ひがし)"
+    },
+    {
+        "question": "西",
+        "options": [
+            "east (トウ, ひがし)",
+            "west, Spain (セイ, サイ, ス, にし)",
+            "in front, before (ゼン, まえ, -まえ)",
+            "behind, back, later (ゴ, コウ, のち, うし.ろ, うしろ, あと, おく.れる)"
+        ],
+        "answer": "west, Spain (セイ, サイ, ス, にし)"
+    },
+    {
+        "question": "前",
+        "options": [
+            "west, Spain (セイ, サイ, ス, にし)",
+            "in front, before (ゼン, まえ, -まえ)",
+            "behind, back, later (ゴ, コウ, のち, うし.ろ, うしろ, あと, おく.れる)",
+            "outside (ガイ, ゲ, そと, ほか, はず.す, はず.れる, と-)"
+        ],
+        "answer": "in front, before (ゼン, まえ, -まえ)"
+    },
+    {
+        "question": "後",
+        "options": [
+            "in front, before (ゼン, まえ, -まえ)",
+            "behind, back, later (ゴ, コウ, のち, うし.ろ, うしろ, あと, おく.れる)",
+            "outside (ガイ, ゲ, そと, ほか, はず.す, はず.れる, と-)",
+            "country (コク, くに)"
+        ],
+        "answer": "behind, back, later (ゴ, コウ, のち, うし.ろ, うしろ, あと, おく.れる)"
+    },
+    {
+        "question": "外",
+        "options": [
+            "behind, back, later (ゴ, コウ, のち, うし.ろ, うしろ, あと, おく.れる)",
+            "outside (ガイ, ゲ, そと, ほか, はず.す, はず.れる, と-)",
+            "country (コク, くに)",
+            "road-way, street, district, journey, course, moral, teachings (ドウ, トウ, みち, いう)"
+        ],
+        "answer": "outside (ガイ, ゲ, そと, ほか, はず.す, はず.れる, と-)"
+    },
+    {
+        "question": "国",
+        "options": [
+            "outside (ガイ, ゲ, そと, ほか, はず.す, はず.れる, と-)",
+            "country (コク, くに)",
+            "road-way, street, district, journey, course, moral, teachings (ドウ, トウ, みち, いう)",
+            "tale, talk (ワ, はな.す, はなし)"
+        ],
+        "answer": "country (コク, くに)"
+    },
+    {
+        "question": "道",
+        "options": [
+            "country (コク, くに)",
+            "road-way, street, district, journey, course, moral, teachings (ドウ, トウ, みち, いう)",
+            "tale, talk (ワ, はな.す, はなし)",
+            "say, word (ゲン, ゴン, い.う, こと)"
+        ],
+        "answer": "road-way, street, district, journey, course, moral, teachings (ドウ, トウ, みち, いう)"
+    },
+    {
+        "question": "話",
+        "options": [
+            "road-way, street, district, journey, course, moral, teachings (ドウ, トウ, みち, いう)",
+            "tale, talk (ワ, はな.す, はなし)",
+            "say, word (ゲン, ゴン, い.う, こと)",
+            "hear, ask, listen (ブン, モン, き.く, き.こえる)"
+        ],
+        "answer": "tale, talk (ワ, はな.す, はなし)"
+    },
+    {
+        "question": "言",
+        "options": [
+            "tale, talk (ワ, はな.す, はなし)",
+            "say, word (ゲン, ゴン, い.う, こと)",
+            "hear, ask, listen (ブン, モン, き.く, き.こえる)",
+            "word, speech, language (ゴ, かた.る, かた.らう)"
+        ],
+        "answer": "say, word (ゲン, ゴン, い.う, こと)"
+    },
+    {
+        "question": "聞",
+        "options": [
+            "say, word (ゲン, ゴン, い.う, こと)",
+            "hear, ask, listen (ブン, モン, き.く, き.こえる)",
+            "word, speech, language (ゴ, かた.る, かた.らう)",
+            "read (ドク, トク, トウ, よ.む, -よ.み)"
+        ],
+        "answer": "hear, ask, listen (ブン, モン, き.く, き.こえる)"
+    },
+    {
+        "question": "語",
+        "options": [
+            "hear, ask, listen (ブン, モン, き.く, き.こえる)",
+            "word, speech, language (ゴ, かた.る, かた.らう)",
+            "read (ドク, トク, トウ, よ.む, -よ.み)",
+            "write (ショ, か.く, -が.き, -がき)"
+        ],
+        "answer": "word, speech, language (ゴ, かた.る, かた.らう)"
+    },
+    {
+        "question": "読",
+        "options": [
+            "word, speech, language (ゴ, かた.る, かた.らう)",
+            "read (ドク, トク, トウ, よ.む, -よ.み)",
+            "write (ショ, か.く, -が.き, -がき)",
+            "eat, food (ショク, ジキ, く.う, く.らう, た.べる, は.む)"
+        ],
+        "answer": "read (ドク, トク, トウ, よ.む, -よ.み)"
+    },
+    {
+        "question": "書",
+        "options": [
+            "read (ドク, トク, トウ, よ.む, -よ.み)",
+            "write (ショ, か.く, -が.き, -がき)",
+            "eat, food (ショク, ジキ, く.う, く.らう, た.べる, は.む)",
+            "fish (ギョ, うお, さかな, -ざかな)"
+        ],
+        "answer": "write (ショ, か.く, -が.き, -がき)"
+    },
+    {
+        "question": "食",
+        "options": [
+            "write (ショ, か.く, -が.き, -がき)",
+            "eat, food (ショク, ジキ, く.う, く.らう, た.べる, は.む)",
+            "fish (ギョ, うお, さかな, -ざかな)",
+            "come, due, next, cause, become (ライ, タイ, く.る, きた.る, きた.す, き.たす, き.たる, き, こ)"
+        ],
+        "answer": "eat, food (ショク, ジキ, く.う, く.らう, た.べる, は.む)"
+    },
+    {
+        "question": "魚",
+        "options": [
+            "eat, food (ショク, ジキ, く.う, く.らう, た.べる, は.む)",
+            "fish (ギョ, うお, さかな, -ざかな)",
+            "come, due, next, cause, become (ライ, タイ, く.る, きた.る, きた.す, き.たす, き.たる, き, こ)",
+            "going, journey, carry out, conduct, act, line, row, bank (コウ, ギョウ, アン, い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう)"
+        ],
+        "answer": "fish (ギョ, うお, さかな, -ざかな)"
+    },
+    {
+        "question": "来",
+        "options": [
+            "fish (ギョ, うお, さかな, -ざかな)",
+            "come, due, next, cause, become (ライ, タイ, く.る, きた.る, きた.す, き.たす, き.たる, き, こ)",
+            "going, journey, carry out, conduct, act, line, row, bank (コウ, ギョウ, アン, い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう)",
+            "store, shop (テン, みせ, たな)"
+        ],
+        "answer": "come, due, next, cause, become (ライ, タイ, く.る, きた.る, きた.す, き.たす, き.たる, き, こ)"
+    },
+    {
+        "question": "行",
+        "options": [
+            "come, due, next, cause, become (ライ, タイ, く.る, きた.る, きた.す, き.たす, き.たる, き, こ)",
+            "going, journey, carry out, conduct, act, line, row, bank (コウ, ギョウ, アン, い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう)",
+            "store, shop (テン, みせ, たな)",
+            "buy (バイ, か.う)"
+        ],
+        "answer": "going, journey, carry out, conduct, act, line, row, bank (コウ, ギョウ, アン, い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう)"
+    },
+    {
+        "question": "店",
+        "options": [
+            "going, journey, carry out, conduct, act, line, row, bank (コウ, ギョウ, アン, い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう)",
+            "store, shop (テン, みせ, たな)",
+            "buy (バイ, か.う)",
+            "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac (ゴ, うま)"
+        ],
+        "answer": "store, shop (テン, みせ, たな)"
+    },
+    {
+        "question": "買",
+        "options": [
+            "store, shop (テン, みせ, たな)",
+            "buy (バイ, か.う)",
+            "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac (ゴ, うま)",
+            "meeting, meet, party, association, interview, join (カイ, エ, あ.う, あ.わせる, あつ.まる)"
+        ],
+        "answer": "buy (バイ, か.う)"
+    },
+    {
+        "question": "午",
+        "options": [
+            "buy (バイ, か.う)",
+            "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac (ゴ, うま)",
+            "meeting, meet, party, association, interview, join (カイ, エ, あ.う, あ.わせる, あつ.まる)",
+            "company, firm, office, association, shrine (シャ, やしろ)"
+        ],
+        "answer": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac (ゴ, うま)"
+    },
+    {
+        "question": "会",
+        "options": [
+            "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac (ゴ, うま)",
+            "meeting, meet, party, association, interview, join (カイ, エ, あ.う, あ.わせる, あつ.まる)",
+            "company, firm, office, association, shrine (シャ, やしろ)",
+            "electricity (デン)"
+        ],
+        "answer": "meeting, meet, party, association, interview, join (カイ, エ, あ.う, あ.わせる, あつ.まる)"
+    },
+    {
+        "question": "社",
+        "options": [
+            "meeting, meet, party, association, interview, join (カイ, エ, あ.う, あ.わせる, あつ.まる)",
+            "company, firm, office, association, shrine (シャ, やしろ)",
+            "electricity (デン)",
+            "every (マイ, ごと, -ごと.に)"
+        ],
+        "answer": "company, firm, office, association, shrine (シャ, やしろ)"
+    },
+    {
+        "question": "電",
+        "options": [
+            "company, firm, office, association, shrine (シャ, やしろ)",
+            "electricity (デン)",
+            "every (マイ, ごと, -ごと.に)",
+            "what (カ, なに, なん, なに-, なん-)"
+        ],
+        "answer": "electricity (デン)"
+    },
+    {
+        "question": "毎",
+        "options": [
+            "electricity (デン)",
+            "every (マイ, ごと, -ごと.に)",
+            "what (カ, なに, なん, なに-, なん-)",
+            "relax, cheap, low, quiet, rested, contented, peaceful (アン, やす.い, やす.まる, やす, やす.らか)"
+        ],
+        "answer": "every (マイ, ごと, -ごと.に)"
+    },
+    {
+        "question": "何",
+        "options": [
+            "every (マイ, ごと, -ごと.に)",
+            "what (カ, なに, なん, なに-, なん-)",
+            "relax, cheap, low, quiet, rested, contented, peaceful (アン, やす.い, やす.まる, やす, やす.らか)",
+            "drink, smoke, take (イン, オン, の.む, -の.み)"
+        ],
+        "answer": "what (カ, なに, なん, なに-, なん-)"
+    },
+    {
+        "question": "安",
+        "options": [
+            "what (カ, なに, なん, なに-, なん-)",
+            "relax, cheap, low, quiet, rested, contented, peaceful (アン, やす.い, やす.まる, やす, やす.らか)",
+            "drink, smoke, take (イン, オン, の.む, -の.み)",
+            "station (エキ)"
+        ],
+        "answer": "relax, cheap, low, quiet, rested, contented, peaceful (アン, やす.い, やす.まる, やす, やす.らか)"
+    },
+    {
+        "question": "飲",
+        "options": [
+            "relax, cheap, low, quiet, rested, contented, peaceful (アン, やす.い, やす.まる, やす, やす.らか)",
+            "drink, smoke, take (イン, オン, の.む, -の.み)",
+            "station (エキ)",
+            "one, one radical (no.1) (イチ, イツ, ひと-, ひと.つ)"
+        ],
+        "answer": "drink, smoke, take (イン, オン, の.む, -の.み)"
+    },
+    {
+        "question": "駅",
+        "options": [
+            "drink, smoke, take (イン, オン, の.む, -の.み)",
+            "station (エキ)",
+            "one, one radical (no.1) (イチ, イツ, ひと-, ひと.つ)",
+            "two, two radical (no. 7) (ニ, ジ, ふた, ふた.つ, ふたたび)"
+        ],
+        "answer": "station (エキ)"
+    }
+]
